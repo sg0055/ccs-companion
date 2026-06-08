@@ -1,0 +1,26 @@
+{
+  "chunk_id": "32bcbdd9-f2b2-47d7-9fd3-6cc893f975ee",
+  "content": "Context: 12. Commutation of Pension\n\n<!-- formula-not-decoded -->  \n3. Commutation without medical examination.Persons in receipt of the following kinds of pension (including provisional pension) can commute up to 40% of their pension without undergoing medical examination, if they apply for commutation before the expiry of one year\n2. reckoned from-\n3. (i) the date of retirement in the case of Superannuation pension,\n4. Retiring pension, Compensation pension.  \nRetired after qualifying service of",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1082103,
+  "end_char": 1082605,
+  "chunk_index": 2744,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "12. Commutation of Pension",
+    "hierarchy": "12. Commutation of Pension"
+  }
+}

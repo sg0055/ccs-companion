@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f7aac1ac-4f14-49b2-b837-df8ff85eda27",
+  "content": "Context: 6. Maintenance of Rosters\n\n- (l:v) AIJ the vacancies arising irrespective of vacancies reserved for Persons with Benchmark Disabilities shall be entered in the relevant roster. If the vacancy falling at point no. 1 is not identified for the  \n1 st Block - point No. 01 to point No.  \n25  \n2nd Block - point No. 26 to point No. 50  \n3rd Block - point No. 51 to point No.  \n75  \n4th Block - point No. 76 to point No. 100",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 59348,
+  "end_char": 59775,
+  "chunk_index": 158,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Maintenance of Rosters",
+    "hierarchy": "6. Maintenance of Rosters"
+  }
+}

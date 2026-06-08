@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9f18ca98-ea2b-4a61-a61b-c778fd7c10b8",
+  "content": "Context: 9. Extraordinary Pension\n\nScales of the Family Pension and Disability Pension under various categories, as under, with effect from 1-1-2016:-",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1009589,
+  "end_char": 1009739,
+  "chunk_index": 2556,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Extraordinary Pension",
+    "hierarchy": "9. Extraordinary Pension"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "81855729-3a6f-4210-89bf-fb1505b50d33",
+  "content": "Context: 9. Overtime, Alfowance\n\n- (d) The OTA to field officials should be calculated on the basis of biometric attendance, as normally, such officers are given facility",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 428416,
+  "end_char": 428586,
+  "chunk_index": 1102,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Overtime, Alfowance",
+    "hierarchy": "9. Overtime, Alfowance"
+  }
+}

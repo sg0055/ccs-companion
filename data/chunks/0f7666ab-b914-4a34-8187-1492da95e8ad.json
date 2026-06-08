@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0f7666ab-b914-4a34-8187-1492da95e8ad",
+  "content": "Context: 3. Certain Special Entries.-\n\n- (iv) Entries in Columns 2 &amp; 3.Entry in Column 3 against entry already made in Column 2 will arise on the grant of annual increment or relief on transfer, etc. If entry in Column 3 is for annual increments, simultaneous entry under Column 2 as next entry to be made. (Example: for increment on 1st January, entry in Column 3 will be 31st December and in Column 2 as next entry will be 1st January with the new pay shown in Column 6 or 5, as the case may be). Same principle followed for",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1199247,
+  "end_char": 1199777,
+  "chunk_index": 3043,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Certain Special Entries.-",
+    "hierarchy": "3. Certain Special Entries.-"
+  }
+}

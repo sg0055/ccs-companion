@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0b7d4678-757e-4002-8c32-8f9dc860e94e",
+  "content": "Context: 2. Applications for appointment in the same or other Departments.\n\n- (i) In the case of permanent Government servants.Applications for appointment in the same or other Central Government Departments can be forwarded; in the event of their appointment, lien will be retained for a period of two years which may be extended by one more year, if there is delay in confirmation in such Departments. Thereafter, they should either revert to parent department or resign. An undertaking to this effect will be taken from the applicant while forwarding applications.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1210211,
+  "end_char": 1210778,
+  "chunk_index": 3072,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Applications for appointment in the same or other Departments.",
+    "hierarchy": "2. Applications for appointment in the same or other Departments."
+  }
+}

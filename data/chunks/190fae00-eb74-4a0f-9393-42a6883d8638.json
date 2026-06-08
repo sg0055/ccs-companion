@@ -1,0 +1,26 @@
+{
+  "chunk_id": "190fae00-eb74-4a0f-9393-42a6883d8638",
+  "content": "Context: 9. Reservation of Quarters for SC/ST Employees\n\nA 60-point roster will be maintained for the purpose of allotment of quarters. For Types 'I' and 'II' accommodation, vacancies at point Nos. 10, 20, 40 and 50 will be for SC employees and point Nos. 30 and 60 for ST employees; for Types 'Ill' and 'IV' accommodation, point Nos. 20 and 40 will be for SC employees and point No. 60 for ST employees. SC/ST employees will also be considered for allotment in their turn along with general category employees.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 526943,
+  "end_char": 527454,
+  "chunk_index": 1344,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Reservation of Quarters for SC/ST Employees",
+    "hierarchy": "9. Reservation of Quarters for SC/ST Employees"
+  }
+}

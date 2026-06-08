@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1c4ac2b9-8230-4f29-8941-2489712f0edb",
+  "content": "Context: 15. Miscellaneous\n\n| IV (Special) | 59 to 91.5 | 11 | 790 | 930 |\n| VA | Up to 106 | 12 | 1,400 | 1,650 |\n| VB | Beyond 106 | 13, 13-A | 1,490 | 1,750 |\n| VIA | Up to 159.5 | 14 | 1,840 | 2,170 |\n| VI B | Beyond 159.5 | 15 (Index numbers 1 to 4 in the level) | 2,200 | 2,590 |\n| VII | 189.5 to 224.5 | 15 (Index Nos. 5 to 8 in the level), 16 | 2,580 | 3,040 |\n| VIII | 243 to 522 | 17, 18 | 4,610 | 5,430 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 552624,
+  "end_char": 553039,
+  "chunk_index": 1409,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "15. Miscellaneous",
+    "hierarchy": "15. Miscellaneous"
+  }
+}

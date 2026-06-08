@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d63a25ba-936f-4aca-81dc-f1022b48514c",
+  "content": "Context: Ill. Family Pension under Categories 'D' &amp;\n\n- (c) If the Government servant dies as a bachelor or as a widower without children, family pension will be admissible to parents  \nwithout reference to pecuniary circumstances, at the rate of 75% of the notional pay as on 1-1-2016, if both parents are alive, and at the rate of 60% if only one of them is alive.  \n- GID 6 (II) below Rule 13.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1012235,
+  "end_char": 1012634,
+  "chunk_index": 2565,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ill. Family Pension under Categories 'D' &amp;",
+    "hierarchy": "Ill. Family Pension under Categories 'D' &amp;"
+  }
+}

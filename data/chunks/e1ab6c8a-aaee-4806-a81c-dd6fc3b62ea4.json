@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e1ab6c8a-aaee-4806-a81c-dd6fc3b62ea4",
+  "content": "Context: - Section 80-D\n\n- Section 80-U  \nTax on Income.An option has been given to the assessee from the Assessment Year beginning from 1st April, 2021 to compute tax on income under Section 115-BAC, provided he does not avail any exemption or deductions under Chapter VI-A other than sub-section (2) of Section-80-CCD.  \n- Section 115-BAC",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1329384,
+  "end_char": 1329724,
+  "chunk_index": 3366,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- Section 80-D",
+    "hierarchy": "- Section 80-D"
+  }
+}

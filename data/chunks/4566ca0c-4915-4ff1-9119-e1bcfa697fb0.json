@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4566ca0c-4915-4ff1-9119-e1bcfa697fb0",
+  "content": "Context: ?\n\n- (3) When the wife elects to prefer claim, she will be free to choose either her parents or parents-in-law for purposes of medical benefits. The declaration  \nin this regard may be changed as often as the circumstances require,  \ntaking into account the change of place of posting.  \n- Section 4, Order (4), Swamy's Medical Attendance Rules.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1235423,
+  "end_char": 1235777,
+  "chunk_index": 3137,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "?",
+    "hierarchy": "?"
+  }
+}

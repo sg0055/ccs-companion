@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6e153f2d-bfb8-4401-9d23-9af01391898e",
+  "content": "Context: (c) Clarification on grant of advance -\n\n## (c) Clarification on grant of advance -  \n- (i) In case of treatment procedures without package rates, the admissible amount is calculated item-wise at CGHS rate. Items for which there are no CGHS rates, AIIMS rates shall be considered. If there is no CGHS / AIIMS rate, actual estimate for the procedure will be considered.\n- (ii) The hospital seeking advance shall provide item-wise break-up of the estimate to facilitate processing of request for medical advance.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 769067,
+  "end_char": 769586,
+  "chunk_index": 1954,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(c) Clarification on grant of advance -",
+    "hierarchy": "(c) Clarification on grant of advance -"
+  }
+}

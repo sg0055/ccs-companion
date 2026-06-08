@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4e15fead-cf63-41b4-ace1-8c7a527e7861",
+  "content": "Context: 2. Determination of Relative Seniority\n\n- 2.9. Multiple Selections or Panels.In cases where direct recruits or promotees from multiple selections or panels join in the same year, those appointed as a result of an earlier selection /panel.are placed higher in the seniority list than those from subsequent selections/ panels.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 282608,
+  "end_char": 282941,
+  "chunk_index": 735,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Determination of Relative Seniority",
+    "hierarchy": "2. Determination of Relative Seniority"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e1a08c82-5452-4316-aa6d-db1f156d7f07",
+  "content": "Context: (f) At the Same Station-\n\n- (3) Married daughter, if divorced, abandoned or separated from her husband and residing with and financially dependent on the parent.\n- (4) Parents, stepmother, unmarried sisters and minor brothers residing\n- with and wholly dependent. (Major brothers are not included.)\n- letter, dated GIO (2), SR 2 (8).\n- (5) Stepfather not included in the definition of family.M.F. 20-11-2008 to Swamy Publishers (P) Ltd. -",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 734299,
+  "end_char": 734746,
+  "chunk_index": 1865,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(f) At the Same Station-",
+    "hierarchy": "(f) At the Same Station-"
+  }
+}

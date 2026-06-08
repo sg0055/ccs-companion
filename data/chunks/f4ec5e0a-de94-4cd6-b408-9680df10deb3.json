@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f4ec5e0a-de94-4cd6-b408-9680df10deb3",
+  "content": "Context: 5. Monthly subscription and amount of Insurance Cover:-\n\n6. Promotion during the year.On regular promotion of a member to a higher Group after the 1st January in any year, his subscription will be raised only from the 1st January of the next year. As for example, a Group 'C' employee is promoted to Group 'B' on 2-1-2021. His subscription and Insurance Cover will be ~ 30 p.m. and ~ 30,000 till the end of December, 2021 and will be raised to ~ 60 p.m. and ~ 60,000 respectively from January, 2022. Once an employee is admitted to the higher group, his subscription",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1348930,
+  "end_char": 1349505,
+  "chunk_index": 3416,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Monthly subscription and amount of Insurance Cover:-",
+    "hierarchy": "5. Monthly subscription and amount of Insurance Cover:-"
+  }
+}

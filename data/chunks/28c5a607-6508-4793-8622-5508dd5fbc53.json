@@ -1,0 +1,26 @@
+{
+  "chunk_id": "28c5a607-6508-4793-8622-5508dd5fbc53",
+  "content": "Context: 1. Interest-free and Interest-bearing advances\n\n## 1. Interest-free and Interest-bearing advances  \n[ Swamy's Compilation on Advances]",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 888979,
+  "end_char": 889122,
+  "chunk_index": 2251,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Interest-free and Interest-bearing advances",
+    "hierarchy": "1. Interest-free and Interest-bearing advances"
+  }
+}

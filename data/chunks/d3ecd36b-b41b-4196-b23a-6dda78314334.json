@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d3ecd36b-b41b-4196-b23a-6dda78314334",
+  "content": "Context: 3. When salary is received in arrears\n\n6. Difference between the tax at 4 and 5, i.e., E - D  \nF  \n7. Excess of tax computed at 3 over tax computed at 6, i.e., C - F G  \nG is the amount of relief admissible under the Act. If G is a minus figure, no relief is admissible.  \nIf the recipient of arrears of salary is an employee of the Government or any Public Sector Undertaking, he can furnish the prescribed particulars to his employer (Disbursing Officer) who will grant relief according to the  \nprovisions of Section 89 (1).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1339016,
+  "end_char": 1339552,
+  "chunk_index": 3391,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. When salary is received in arrears",
+    "hierarchy": "3. When salary is received in arrears"
+  }
+}

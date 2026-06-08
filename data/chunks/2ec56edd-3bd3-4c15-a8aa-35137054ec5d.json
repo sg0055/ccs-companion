@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2ec56edd-3bd3-4c15-a8aa-35137054ec5d",
+  "content": "Context: II. Table indicating income slabs and tax rates under the First Schedule.-\n\n## II. Table indicating income slabs and tax rates under the First Schedule.-  \n| | ·income Tax rate under old Regime | ·income Tax rate under old Regime | ·income Tax rate under old Regime |\n| ----------------------------- | --------------------------------------------------------- | ---------------------------------------- | ------------------------------------- |\n| Income Slab | Individuals below 60 years | Individuals > 60 years and <. 80 years | Individuals > 80 years |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1332142,
+  "end_char": 1332706,
+  "chunk_index": 3374,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "II. Table indicating income slabs and tax rates under the First Schedule.-",
+    "hierarchy": "II. Table indicating income slabs and tax rates under the First Schedule.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c74501eb-a736-4413-a8c0-cf50396162b5",
+  "content": "Context: .. Holidays\n\nChange in date of Muslim Holidays.-Any sighting of the Moon, would be notified by-  \n- (i) the Ministry of Personnel and Training, for officers in Delhi/\n- New Delhi; and\n- (ii) the CGE Welfare Co-ordination Committees or the Heads of Offices (where such Committees are not functioning) based on the decision of the concerned State Government/Union Territories.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1298340,
+  "end_char": 1298723,
+  "chunk_index": 3294,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": ".. Holidays",
+    "hierarchy": ".. Holidays"
+  }
+}

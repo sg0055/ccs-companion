@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1bbb5f09-bd14-4b00-9053-0c4c0d817a52",
+  "content": "Context: 7. Calculation of Pension\n\nIn no case, a pension (including compassionate allowance), granted shall be less than z 9,000 per mensem.  \nFor all classes of pension (including compassionate allowance), the method of determination of pension is the same. - Rule 44.  \nBesides, additional quantum of pension shall be payable as and when the pensioner attains the age of 80 years and above as detailed below:- Additional pension shall be paid from the first day of the month in - Rule 44 (6).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1059207,
+  "end_char": 1059702,
+  "chunk_index": 2687,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Calculation of Pension",
+    "hierarchy": "7. Calculation of Pension"
+  }
+}

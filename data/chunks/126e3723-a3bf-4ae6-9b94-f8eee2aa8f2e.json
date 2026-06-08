@@ -1,0 +1,26 @@
+{
+  "chunk_id": "126e3723-a3bf-4ae6-9b94-f8eee2aa8f2e",
+  "content": "Context: 3. Half Pay Leave\n\n6. Half pay leave can be availed either with or without medical certificate. - Rule 29 (4).\n7. The grant of half pay leave to a temporary official is subject to the sanctioning authority satisfying himself that the official will return to duty after. its expiry. This condition is not applicable where such official is\n9. declared completely and permanently incapacitated for further service.  \n8. While affording credit, fraction shall be rounded off to the nearest day. - Rule 29 (5).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 595714,
+  "end_char": 596228,
+  "chunk_index": 1517,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Half Pay Leave",
+    "hierarchy": "3. Half Pay Leave"
+  }
+}

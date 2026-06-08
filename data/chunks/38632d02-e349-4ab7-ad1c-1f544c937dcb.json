@@ -1,0 +1,26 @@
+{
+  "chunk_id": "38632d02-e349-4ab7-ad1c-1f544c937dcb",
+  "content": "Context: 2. Non-ACC cases:\n\n| 4. | Last date for sending complete proposal along with relevant Recruitment/Service Rules to the DPC. (Effort should be made to send the proposal to the DPC as soon as possible without waiting for the last date) | 31 July, 2017 | 30 April, 2017 | 30 April, 2018 |\n| 5. | DPC to be held | August, 2017- January, 2018 | May - October, 2017 | May - October, 2018 |  \n| SI. No. | Events | Transitional year (1-4-2018 to 31-12-2018) | Calendar-year based | 2019 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 296985,
+  "end_char": 297474,
+  "chunk_index": 774,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Non-ACC cases:",
+    "hierarchy": "2. Non-ACC cases:"
+  }
+}

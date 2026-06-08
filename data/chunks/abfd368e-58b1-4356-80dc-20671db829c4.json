@@ -1,0 +1,26 @@
+{
+  "chunk_id": "abfd368e-58b1-4356-80dc-20671db829c4",
+  "content": "Context: Terms and conditions:\n\nGovernment employees not entitled for air travel and wish to travel by air but not under the Special Dispensation Scheme, are also required to book their air ticket through only the three ATAs mentioned above irrespective of booking time-limit. However, the reimbursement will be restricted to the actual air fare or the entitled train / bus fare for the shortest route, whichever is less. - OM, dated 29-8-2022.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 665583,
+  "end_char": 666027,
+  "chunk_index": 1691,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Terms and conditions:",
+    "hierarchy": "Terms and conditions:"
+  }
+}

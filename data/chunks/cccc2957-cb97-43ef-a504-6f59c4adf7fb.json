@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cccc2957-cb97-43ef-a504-6f59c4adf7fb",
+  "content": "Context: Index of Sections\n\n- 18.Children's Education Allowance\n- 19.Advances\n- 20.Modified Assured Career Progression Scheme\n- 22.GFR,Procurement and Government e-Marketplace\n- 21.Concessions when posted to N-E.Region, etc.\n- 23.Quitting Service-Other than Retirement\n- 25.National Pension System\n- 24.Retirement on Superannuation\n- 26.Other Service Matters\n- 27.Income Tax\n- 28.Welfare Measures\n- 30.llustrations\n29. Postal Tariff and Savings Schemes",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1459869,
+  "end_char": 1460321,
+  "chunk_index": 3690,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Index of Sections",
+    "hierarchy": "Index of Sections"
+  }
+}

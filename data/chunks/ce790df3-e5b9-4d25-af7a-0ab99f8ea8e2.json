@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ce790df3-e5b9-4d25-af7a-0ab99f8ea8e2",
+  "content": "Context: 4. Pensioners/ Family Pensioners\n\nThe pensioners/family pensioners have an option to pay contribution based on the pay last drawn by them/deceased employee and avail of the facilities available to serving employees or to pay contribution based on their pension/family pension and avail limited facilities. They have to deposit contributions for one year in advance for the period ending  \nDecember of the year, with the concerned PAO.  \nPermanent/Whole-life CGHS pensioner card will be issued to avail of  \nthe facilities for life-",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 772359,
+  "end_char": 772899,
+  "chunk_index": 1963,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Pensioners/ Family Pensioners",
+    "hierarchy": "4. Pensioners/ Family Pensioners"
+  }
+}

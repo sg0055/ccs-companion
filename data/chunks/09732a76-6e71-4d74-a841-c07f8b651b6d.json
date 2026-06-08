@@ -1,0 +1,26 @@
+{
+  "chunk_id": "09732a76-6e71-4d74-a841-c07f8b651b6d",
+  "content": "Context: 9. Gratuity\n\nPayment of an amount not exceeding twenty per cent of minor's share of gratuity may be made to the guardian in the absence of a natural guardian, without the production of a guardianship certificate but on production of an indemnity bond in Format 7 and the balance amount may be paid to the guardian on production of the certificate of guardianship. - Rule 47 (7).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1067909,
+  "end_char": 1068296,
+  "chunk_index": 2708,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Gratuity",
+    "hierarchy": "9. Gratuity"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "10f0bcf5-d4a3-4be6-985c-1045b5b414e2",
+  "content": "Context: 2. Methods of Recruitment\n\nDeputation is a method of recruitment where officers of Central Government Departments or State / UT Governments from outside are appointed to post(s) in Central Government for a limited period, by the end of which they will have to return to their parent cadres. In case of isolated post, it is desirable to keep the method of recruitment of deputation / short term contract as otherwise the incumbents of such posts, if directly recruited, will not have any avenue of promotion/ career progression.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 2661,
+  "end_char": 3197,
+  "chunk_index": 7,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Methods of Recruitment",
+    "hierarchy": "2. Methods of Recruitment"
+  }
+}

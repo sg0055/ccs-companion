@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5805a987-aab0-47b0-b721-86f7e1ecaa06",
+  "content": "Context: 6. Special Relaxation to visit NER, J&amp;K, Ladakh and A&amp;N\n\n2. visiting NER, J&amp;K, Ladakh and A&amp;N.\n- Permission to undertake journey to J&amp;K, Ladakh, NER and A&amp;N\n3. by private airlines.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 661223,
+  "end_char": 661436,
+  "chunk_index": 1680,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Special Relaxation to visit NER, J&amp;K, Ladakh and A&amp;N",
+    "hierarchy": "6. Special Relaxation to visit NER, J&amp;K, Ladakh and A&amp;N"
+  }
+}

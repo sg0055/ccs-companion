@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9b888a9a-2ca6-4bb8-a258-9d08c73d5137",
+  "content": "Context: 6. Extraordinary Leave\n\n4. EOL may also be granted to regularize periods of absence without - Rule 32 (6).\n- leave retrospectively.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 602518,
+  "end_char": 602658,
+  "chunk_index": 1532,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Extraordinary Leave",
+    "hierarchy": "6. Extraordinary Leave"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cae1afc7-efc8-4cba-8caf-7b9fb27ef875",
+  "content": "Context: 5. Registration of Suppliers on GeM portal\n\n## 5. Registration of Suppliers on GeM portal  \nRegistration of the supplier is done following a fair, transparent and reasonable procedure. Credentials, manufacturing capability, quality control systems, past performance, after-sales service, financial background, etc., of the suppliers are verified before registration. Registration is done for a fixed period of 1 to 3 years depending on the nature of goods. Rule 150, GFR.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 964959,
+  "end_char": 965439,
+  "chunk_index": 2447,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Registration of Suppliers on GeM portal",
+    "hierarchy": "5. Registration of Suppliers on GeM portal"
+  }
+}

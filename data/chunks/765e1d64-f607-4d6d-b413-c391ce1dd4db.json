@@ -1,0 +1,26 @@
+{
+  "chunk_id": "765e1d64-f607-4d6d-b413-c391ce1dd4db",
+  "content": "Context: (c) Calculation of EL for Vacation Department Staff\n\n| | Ful I Vacation. | 70 days | |\n| | Availed | 25 days | |\n| | Credit of Earned Leave· will be-calculated as given below - | Credit of Earned Leave· will be-calculated as given below - | Credit of Earned Leave· will be-calculated as given below - |\n| | On 1st January and 1st July@ 5 days each | 10 days | |\n| | Credit for unavailed portion of vacation | Credit for unavailed portion of vacation | Credit for unavailed portion of vacation |\n| | 45/70 X 20 = 12.8 | 13 days | |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1407626,
+  "end_char": 1408165,
+  "chunk_index": 3555,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(c) Calculation of EL for Vacation Department Staff",
+    "hierarchy": "(c) Calculation of EL for Vacation Department Staff"
+  }
+}

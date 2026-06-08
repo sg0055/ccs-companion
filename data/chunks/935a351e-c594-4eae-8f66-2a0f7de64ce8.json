@@ -1,0 +1,26 @@
+{
+  "chunk_id": "935a351e-c594-4eae-8f66-2a0f7de64ce8",
+  "content": "Context: 2. Amount of Joining Time\n\nOne station to another.(i} One day is admissible if change of residence is not involved. (ii) If change of residence is involved, joining time will be admissible with reference to the distance between the old and new stations by direct route and ordinary mode(s) of travel, as given below:-  \n| Distance between the old and new Headquarters | joining time admissible | Joining time admissible where the transfer necessarily involves continuous travel by road for more than 200 km |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 683607,
+  "end_char": 684124,
+  "chunk_index": 1738,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Amount of Joining Time",
+    "hierarchy": "2. Amount of Joining Time"
+  }
+}

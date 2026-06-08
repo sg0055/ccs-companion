@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0e6d39a9-7c0c-4e92-902d-910878ac5f8b",
+  "content": "Context: (b) Free diet.-\n\nat CGHS recognized hospitals of his/her choice after a Specialist of CGHS/ Government hospital recommends for the same. A certificate regarding non-availability of beds in Government hospital would not be required. The terms \"Government hospital\" would include any hospital of a State Government/Government Departments such as Railways, Atomic Energy Commission, etc., as also hospitals of PSUs. In non-emergency cases, once the recommendation (regarding line of treatment) has been obtained, the procedure for",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 786172,
+  "end_char": 786708,
+  "chunk_index": 1997,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(b) Free diet.-",
+    "hierarchy": "(b) Free diet.-"
+  }
+}

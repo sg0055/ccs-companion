@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0ddebd10-10d2-4e7b-856f-34542c7e178a",
+  "content": "Context: 9. Treatment outside 'India\n\nMedical treatment outside India is permissible for treatment for certain ailments (see list in Subject 1) fo.r which facilities are not available in India. The 'Standing Committee constituted for this purpose by the Ministry of Health and Familv Welfare wil! give approval for treatment and reimbursement. Prior approval of the Committee is essential. However, Jf approval could not be obtained due to circumstances beyond the control of the employee, reimburse-ment may be allowed subject to fulfilment of",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 868551,
+  "end_char": 869095,
+  "chunk_index": 2200,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Treatment outside 'India",
+    "hierarchy": "9. Treatment outside 'India"
+  }
+}

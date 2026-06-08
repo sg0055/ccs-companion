@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7f90fc00-fa9c-4d45-91c4-22450fc04094",
+  "content": "Context: 2. Conditions-\n\n## 2. Conditions-  \n- (i) Total OTA payable to a Driver in a month should not exceed 100 hours.\n- (ii) On Sundays/Holidays, OTA duty should not be for more than 8 hours per day.\n- (iii) On Working days, OTA duty should not be for more than 6 hours a day.\n3. When a Driver cannot return to Headquarters the same day and the journey involves absence of at least one night, he will be entitled to draw Daily Allowance, in addition to OTA.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 434072,
+  "end_char": 434532,
+  "chunk_index": 1118,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Conditions-",
+    "hierarchy": "2. Conditions-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "58fc343e-9ce9-4d5e-af7d-ac5563aa5a17",
+  "content": "Context: 3. When salary is received in arrears\n\nprovisions of Section 89 (1).  \nIf the arrears relate to more than one year, they should be spread over the relevant years to which they pertain in the manner explained above and the amount of relief arrived at. - Rule 21-A and Sections 89 (1) &amp; 192 (2-A)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1339552,
+  "end_char": 1339859,
+  "chunk_index": 3392,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. When salary is received in arrears",
+    "hierarchy": "3. When salary is received in arrears"
+  }
+}

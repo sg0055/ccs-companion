@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2ff0e596-60a2-41d5-8623-ab0519e85b0d",
+  "content": "Context: 2. Premature Retirement\n\n- Rule 42, Appendix-5 and FR 56 (j).  \n6. Notice can be given before attaining the age specified or completing the required years of qualifying service; but the effective date of retirement should be after the attainment of the prescribed age or completion of years of qualifying service. - FR 56, Note 2.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 979237,
+  "end_char": 979576,
+  "chunk_index": 2485,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Premature Retirement",
+    "hierarchy": "2. Premature Retirement"
+  }
+}

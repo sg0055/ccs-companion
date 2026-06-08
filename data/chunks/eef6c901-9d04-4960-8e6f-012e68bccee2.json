@@ -1,0 +1,26 @@
+{
+  "chunk_id": "eef6c901-9d04-4960-8e6f-012e68bccee2",
+  "content": "Context: Guidelines on Air Travel\n\n8. Reimbursement of annual maintenance charges of credit card. The cost of maintaining the credit card by the individual officer is reimbursable with the approval of FA if such card is utilized for booking the air-tickets in advance on discounted fare for providing larger savings to the Government. - GIO (12), SR 48-8 and OM, dated 1-8-2006.  \n\"The Cash Back\" received on purchase of Air Tickets by using Credit Cards should be deposited with the Government by the official.  \n- GIO (12), SR 48-8.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 715401,
+  "end_char": 715935,
+  "chunk_index": 1817,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Guidelines on Air Travel",
+    "hierarchy": "Guidelines on Air Travel"
+  }
+}

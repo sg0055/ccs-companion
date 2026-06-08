@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c4713f37-1ac3-4f17-8a90-2db185b0b3cb",
+  "content": "Context: 5. Family means.-\n\n- Rule 23.  \n7. Payment where there is no nomination.Retirement gratuity remaining unpaid will be paid in equal shares to all such members, if there are one or more surviving members of the family as specified in Clauses (i), (ii), (iii), (iv) and (v) of Para. 5 above. If there are none in that category, but there are one or more members as specified in Clauses (vi), (vii), (viii), (ix), (x) and (xi) ibid, to all such members in equal shares. - Rule 24.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1190450,
+  "end_char": 1190935,
+  "chunk_index": 3021,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Family means.-",
+    "hierarchy": "5. Family means.-"
+  }
+}

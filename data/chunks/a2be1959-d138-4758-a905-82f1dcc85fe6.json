@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a2be1959-d138-4758-a905-82f1dcc85fe6",
+  "content": "Context: Allotment of alternate accommodation\n\n- (i) the spouse or ward had been residing with the deceased allottee for at least three years prior to the death of the allottee and has not drawn house rent allowance for this period and in case such spouse or ward is in the service of Central Government for less than three years, then he has not drawn house rent allowance since the date of his joining the Central Government service;",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 514555,
+  "end_char": 514990,
+  "chunk_index": 1313,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Allotment of alternate accommodation",
+    "hierarchy": "Allotment of alternate accommodation"
+  }
+}

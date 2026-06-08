@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a4586da5-f03a-4e00-bc28-8b6a92d48f13",
+  "content": "Context: 1. ACC cases:\n\n| 6. | On receipt of DPC minutes from the UPSC, post DPC follow-up action by the administrative Ministry I Department. | December, 2017 | September, 2017 | September, 2018 |  \n| SI. No. | Events | Transitional year {1-4-2018 to 31-12-2018) | Calendar-year based | 2019 |\n| ----------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------- | -------------------------- |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 295161,
+  "end_char": 295688,
+  "chunk_index": 770,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. ACC cases:",
+    "hierarchy": "1. ACC cases:"
+  }
+}

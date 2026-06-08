@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3aecb90a-bbe3-43bf-a6a1-4939c8d20fb4",
+  "content": "Context: 1. Admissibility.-\n\n19. Family pension to the families of Central Government Employees absorbed permanently in Autonomous Bodies and Public Sector Under takings.The families of the employees are eligible for family pension under these Rules subject to certain conditions. - Order 9, Appendix-7",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1121902,
+  "end_char": 1122204,
+  "chunk_index": 2846,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Admissibility.-",
+    "hierarchy": "1. Admissibility.-"
+  }
+}

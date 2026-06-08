@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e9954494-4c60-4758-806a-af0edcf7f144",
+  "content": "Context: Eligibility:\n\n10. NOTE 1.Only one withdrawal can be allowed for the same purpose. Marriage or education of different children or illness on different occasions or a further addition / alteration to a house/ flat covered by a fresh plan , these are treated as for different purposes. - Note 7, Rule 15 (1).  \nNOTE 2.-  \nBetrothal and Marriage are treated as separate purposes.  \n- GID (2), Rule 16.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 568040,
+  "end_char": 568446,
+  "chunk_index": 1448,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Eligibility:",
+    "hierarchy": "Eligibility:"
+  }
+}

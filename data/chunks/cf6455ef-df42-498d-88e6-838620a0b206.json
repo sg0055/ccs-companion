@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cf6455ef-df42-498d-88e6-838620a0b206",
+  "content": "Context: 20. Pension through Public Sector Banks / Post Office Savings Bank\n\nin Form 10 may be accepted without attestation by the Gazetted Officers. In addition to these certificates, PAN Card, Matriculation Certificate, Passport, CGHS Card, Driving Licence, Voter's ID Card and Aadhar Number may also be accepted.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1140496,
+  "end_char": 1140811,
+  "chunk_index": 2894,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "20. Pension through Public Sector Banks / Post Office Savings Bank",
+    "hierarchy": "20. Pension through Public Sector Banks / Post Office Savings Bank"
+  }
+}

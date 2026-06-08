@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f70f3924-6031-456d-92b8-7fb3b530378b",
+  "content": "Context: Exception-\n\n- To take part in informal farewell entertainment held on\n- (i) occasions like retirement or transfer.\n- (ii) To attend and speak at functions and ceremonies performed by others in respect of purely non-political or cultural institutions. - GID (1), Rule 14.\n13. To accept International awards.\n- GID (3), Rule 14.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 109636,
+  "end_char": 109971,
+  "chunk_index": 288,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Exception-",
+    "hierarchy": "Exception-"
+  }
+}

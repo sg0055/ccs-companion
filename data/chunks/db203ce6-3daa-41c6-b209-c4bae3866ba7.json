@@ -1,0 +1,26 @@
+{
+  "chunk_id": "db203ce6-3daa-41c6-b209-c4bae3866ba7",
+  "content": "Context: Existing pattern of recovery:\n\n- (iii) Failure to repay.If the officials fail to repay the balance of the advance on or before the date of retirement, Government may enforce recovery from retirement/ death gratuity or by sale of the house or in any other manner.\n- (iv) Manner of recovery.Recovery will be effected through monthly pay/ leave salary or subsistence allowance bills. Recovery cannot be postponed without the prior concurrence of Government.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 912418,
+  "end_char": 912881,
+  "chunk_index": 2306,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Existing pattern of recovery:",
+    "hierarchy": "Existing pattern of recovery:"
+  }
+}

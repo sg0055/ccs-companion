@@ -1,0 +1,26 @@
+{
+  "chunk_id": "541e978e-5622-4984-bb1e-446846ab8b7d",
+  "content": "Context: 2. Pension\n\n| p.m. | | | | | | | | | | | | | | | | | | | |  \n- (i) For calculation of Pension and Family Pension, 'Basic Pay', and 'Non-Practising Allowance' (sanctioned to medical posts) will be taken into account. In the case of re-employed pensioner, the element of pension by which his pay is reduced will also be taken into account. For calculating Retirement/ Death Gratuity, in addition to the above, Dearness Allowance admissible on the date of retirement / death while in service will be treated as 'emoluments'.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1439659,
+  "end_char": 1440189,
+  "chunk_index": 3635,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Pension",
+    "hierarchy": "2. Pension"
+  }
+}

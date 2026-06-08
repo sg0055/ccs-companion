@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3315c65e-133c-4d7f-af82-e9983aeccf9d",
+  "content": "Context: 1. Guidelines for recruitment of casual labour.-\n\n3. Weekly off.One paid weekly off after six days of continuous work. Casual workers in offices having a five-day week may be allowed one day paid weekly off, provided they have worked for a minimum of 40 hours during the week. - OM, dated 4-6-2016.\n4. National Holidays.Daily wage is admissible for National Holidays falling on a working day for them.\n5. No payment for other days of absence.Except on weekly off days and National holidays, no payment is admissible when duty is not performed.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1228553,
+  "end_char": 1229105,
+  "chunk_index": 3120,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Guidelines for recruitment of casual labour.-",
+    "hierarchy": "1. Guidelines for recruitment of casual labour.-"
+  }
+}

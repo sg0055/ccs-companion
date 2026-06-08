@@ -1,0 +1,26 @@
+{
+  "chunk_id": "254cf90a-c22e-4cbe-b516-0420064f6abf",
+  "content": "Context: - OM, dated 6-4-201'8.\n\nPermanently disabled unmarried brothers who are financially dependent on and residing with the principal CGHS Cardholder and suffering from 40% or more of disabilities are also eligible to avail CGHS facilities subject to fulfilment of other conditions. - OM, dated 25-7-2013.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 765309,
+  "end_char": 765618,
+  "chunk_index": 1943,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- OM, dated 6-4-201'8.",
+    "hierarchy": "- OM, dated 6-4-201'8."
+  }
+}

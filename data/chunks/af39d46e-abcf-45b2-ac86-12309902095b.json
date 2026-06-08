@@ -1,0 +1,26 @@
+{
+  "chunk_id": "af39d46e-abcf-45b2-ac86-12309902095b",
+  "content": "Context: 1. Standard Pay Scales\n\nThe \"Pay Matrix\" comprises two dimensions. It has a Horizontal Range in which each level corresponds to a functional role in the hierarchy and has been assigned the numbers 1, 2 and 3 and so on till 18. The vertical range for each level denotes Pay Progression within that level. The starting point of the Matrix is the minimum pay. The scales existing from 1-1-2006 have been replaced by the Pay Matrix with effect from 1-1-2016.  \n- CCS (Revised Pay) Rules, 2016.  \n(Pay Matrix table on Pages 126 and 127)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 339136,
+  "end_char": 339676,
+  "chunk_index": 882,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Standard Pay Scales",
+    "hierarchy": "1. Standard Pay Scales"
+  }
+}

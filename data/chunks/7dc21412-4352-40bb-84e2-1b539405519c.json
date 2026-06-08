@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7dc21412-4352-40bb-84e2-1b539405519c",
+  "content": "Context: 11. Payment of Pension\n\nPension Payment Order.The Accounts Officer responsible for issuing Pension Payment Order will issue authority, i.e., Pension Payment Order to the pension disbursing authority from whom the pension/ family pension is desired to be drawn monthly. He will also send an intimation to the pensioner along with a certified copy of 'Pension Calculation Sheet' duly countersigned. The PPO will consist of two halves, i.e., Disburser's half and Pensioner's half. On the first appearance of the pensioner, the pension",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1079092,
+  "end_char": 1079632,
+  "chunk_index": 2737,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Payment of Pension",
+    "hierarchy": "11. Payment of Pension"
+  }
+}

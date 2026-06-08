@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2c9ed43d-2d72-4eec-bea9-8a0c36994d21",
+  "content": "Context: Conditions:\n\n4. The Head of the Office shall direct the applicant to appear before the appropriate Medical Authority for medical examination and recommendation.\n5. If the Medical Authority recommends that the applicant is not fit to continue in service, he will be granted invalid pension.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 981367,
+  "end_char": 981665,
+  "chunk_index": 2490,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions:",
+    "hierarchy": "Conditions:"
+  }
+}

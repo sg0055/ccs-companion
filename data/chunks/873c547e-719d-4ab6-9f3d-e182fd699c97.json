@@ -1,0 +1,26 @@
+{
+  "chunk_id": "873c547e-719d-4ab6-9f3d-e182fd699c97",
+  "content": "Context: 5. Honorarium admissible for specific cases.\n\n| 1. | For up to 1 week | 3,000 | 5,000 |\n| 2. | For up to 2 weeks | 5,000 | 7,500 |\n| 3. | For up to 3 weeks | 5,000 | 10,000 |\n| 4. | For up to 4 weeks | 5,000 | 12,500 |  \nThere would be a ceiling of up to 30 days or 60 sessions in a year, whichever is lower, for the officers / trainers deputed to conduct courses under TDP.  \nFurther, the MTs / RTs who are working in a training institution and drawing Training Allowance therein and are conducting TDP courses in their",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 449835,
+  "end_char": 450364,
+  "chunk_index": 1152,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Honorarium admissible for specific cases.",
+    "hierarchy": "5. Honorarium admissible for specific cases."
+  }
+}

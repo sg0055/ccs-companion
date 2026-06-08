@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6a183fc7-74a6-4ce8-a504-264f766e665d",
+  "content": "Context: 1. Appeal\n\n5. The Appellate Authority is to consider (i) whether procedure laid down in the rules has been complied with and if not, whether such non compliance has resulted in violation of the provisions of the Constitution/ in the failure of justice, (ii) whether findings of the Disciplinary Authority are warranted in the circumstances of the case and (iii) whether the penalty imposed is adequate, inadequate or severe. The word \"consider\" has been held to. imply \"due application of mind\" and the Appellate Authority",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 182450,
+  "end_char": 182981,
+  "chunk_index": 467,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Appeal",
+    "hierarchy": "1. Appeal"
+  }
+}

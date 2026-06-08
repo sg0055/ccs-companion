@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d8a9804b-8b2e-4979-bf6c-3ca2e1a1c9ea",
+  "content": "Context: 3. Death Gratuity\n\n## 3. Death Gratuity  \nPay and allowances last drawn.  \nPay in Level 9  \nDA@46%  \nEmoluments :  \nPay in Level 9",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1449585,
+  "end_char": 1449724,
+  "chunk_index": 3665,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Death Gratuity",
+    "hierarchy": "3. Death Gratuity"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7107ffed-0694-47a7-897b-a552abbb8b5d",
+  "content": "Context: Transactions\n\n4. Transactions with foreigners or in property outside India.Transaction in immovable property situated outside India and transaction in immovable property with any foreigner /foreign Government/foreign organization/ foreign concern require previous sanction of the prescribed authority whether the transaction is in the official's name or in any of his family member's name. - Rule 18-A.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 127268,
+  "end_char": 127679,
+  "chunk_index": 333,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Transactions",
+    "hierarchy": "Transactions"
+  }
+}

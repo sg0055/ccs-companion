@@ -1,0 +1,26 @@
+{
+  "chunk_id": "646a94a7-60f8-4af4-b24d-81b5ecd9d22b",
+  "content": "Context: Hostel Aocommodatien\n\n## Hostel Aocommodatien  \n| SI. No. | Category of Suite | Living Area '.Ex,isting .(Sq. mtr.) rates | Level in the Pay Matrix In 7th CPC | Revised Rates effective from 1-7-2023 rounded to t 10 (p.m.) |\n| ---------------------------- | --------------------- | --------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |\n| 1. Single Room | 21.5 to 30 | {470 | 6 a:nd 7 | t 550 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 553453,
+  "end_char": 553956,
+  "chunk_index": 1411,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Hostel Aocommodatien",
+    "hierarchy": "Hostel Aocommodatien"
+  }
+}

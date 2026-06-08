@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6bdabcf7-cf32-4bb8-adb0-9278db3653a1",
+  "content": "Context: ?\n\n- Section 4, Order (4), Swamy's Medical Attendance Rules.\n- (4) Judicially separated couple are treated as separate entities for preferring the claim. Either of them may include the children in the declaration of family. - Section 4, Order (5), Swamy's Medical Attendance Rules.\n2. House Building Advance.(1) If both of them are eligible for the advance, the advance will be admissible to both of them jointly/ separately. - Swamy's HBA Rules, Rule 3.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1235777,
+  "end_char": 1236240,
+  "chunk_index": 3138,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "?",
+    "hierarchy": "?"
+  }
+}

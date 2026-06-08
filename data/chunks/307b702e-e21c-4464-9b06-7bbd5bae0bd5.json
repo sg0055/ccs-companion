@@ -1,0 +1,26 @@
+{
+  "chunk_id": "307b702e-e21c-4464-9b06-7bbd5bae0bd5",
+  "content": "Context: 2. Group Insurance Scheme, 1980\n\n3. Simplification of procedure for payment of Central Government Employees' Group Insurance Scheme dues.In order to ease the process · of payment of Savings Fund on account of CGEGIS at the time of retirement of a Central Government employee, in all cases where the service of the retiring Central Government employee has been verified, payment of the accumulation under Savings Fund of CGEGIS be made without awaiting confirmation of deduction of each monthly subscription of CGEGIS, as service verification is",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1343778,
+  "end_char": 1344331,
+  "chunk_index": 3403,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Group Insurance Scheme, 1980",
+    "hierarchy": "2. Group Insurance Scheme, 1980"
+  }
+}

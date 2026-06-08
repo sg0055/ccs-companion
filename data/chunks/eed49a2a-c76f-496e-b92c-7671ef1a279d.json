@@ -1,0 +1,26 @@
+{
+  "chunk_id": "eed49a2a-c76f-496e-b92c-7671ef1a279d",
+  "content": "Context: 6. Withdrawal of application for commutation on Medical Examination.\n\n7. Second Medical Examination.A pensioner who has declined to accept commutation on the basis of addition of years to his actual age as recommended by the Medical Authority or has been refused commutation on medical ground is eligible to take medical examination for commutation after one year from the date of the first medical examination. However, the second medical examination may be held even before the expiry of one year, if the pensioner appeals to his last Head of Office against the medical verdict",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1084274,
+  "end_char": 1084862,
+  "chunk_index": 2749,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Withdrawal of application for commutation on Medical Examination.",
+    "hierarchy": "6. Withdrawal of application for commutation on Medical Examination."
+  }
+}

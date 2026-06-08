@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cae833c2-d4a8-4230-a2bb-6e3de98e31db",
+  "content": "Context: 6. Withdrawal of application for commutation on Medical Examination.\n\n8. When commutation becomes absolute.The commutation becomes absolute and the commuted value of pension becomes payable on the date-\n2. (i) following the date of retirement in the case where the appli cation for commutation of superannuation pension is received by the Head of Office on or before the date of superannuation;\n3. (ii) of receipt by the Head of Office of the application for commu tation of pension without medical examination before the expiry of one year as mentioned in Para. 3 above;",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1085168,
+  "end_char": 1085748,
+  "chunk_index": 2751,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Withdrawal of application for commutation on Medical Examination.",
+    "hierarchy": "6. Withdrawal of application for commutation on Medical Examination."
+  }
+}

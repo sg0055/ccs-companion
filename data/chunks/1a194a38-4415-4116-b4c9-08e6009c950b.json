@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1a194a38-4415-4116-b4c9-08e6009c950b",
+  "content": "Context: 4. Commutation of Pension\n\n| 58 | 8.446 | 22,800 | X 8.446 | X 12 = | ~ 23,10,826 |\n| 59 | 8.371 | 22,800 | X 8.371 | X 12 = | ~ 22,90,306 |\n| 60 | 8.287 | 22,800 | X 8.287 | X 12 = | ~ 22,67,324 |\n| 61 | 8.194 | 22,800 | X 8.194 | X 12 = | ~ 22,41,879 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1442669,
+  "end_char": 1442932,
+  "chunk_index": 3642,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Commutation of Pension",
+    "hierarchy": "4. Commutation of Pension"
+  }
+}

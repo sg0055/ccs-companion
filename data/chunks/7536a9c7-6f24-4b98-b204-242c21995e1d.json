@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7536a9c7-6f24-4b98-b204-242c21995e1d",
+  "content": "Context: Terms and conditions:\n\n(i.e. Kolkata / Guwahati /Delhi/ Amritsar/ same railhead to the place of visit in NER / air fare from the Headquarters to the place of visit, whichever is less.  \n- GID (5), Rule 12, Part C.  \n6. Air travel by Government employees to NER, J&amp;K and A&amp;N as mentioned in Paras. 4 and 5 above is allowed whether they avail the concession against Anywhere in India LTC or in lieu of the Home Town LTC as permitted.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 663806,
+  "end_char": 664254,
+  "chunk_index": 1686,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Terms and conditions:",
+    "hierarchy": "Terms and conditions:"
+  }
+}

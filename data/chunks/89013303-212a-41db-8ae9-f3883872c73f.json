@@ -1,0 +1,26 @@
+{
+  "chunk_id": "89013303-212a-41db-8ae9-f3883872c73f",
+  "content": "Context: 2. Rates of Dearness Allowance.-\n\n## 2. Rates of Dearness Allowance.-  \n| | Rate | Rate |\n| ----------------------- | -------- | ---------------- |\n| Date from | | of Basic Pay + |\n| 1-1-2019 | | 12% |\n| 1-7-2019 to 30-6-2021 | | 17% |\n| 1-7-2021 | | 31% |\n| 1-1-2022 | | 34% |\n| 1-7-2022 | | 38% |\n| 1-1-2023 | | 42% |\n| 1-7-2023 | | 46% (Expected) |  \n- OMs, dated 25-10-2021, 31-3-2022, 3-10-2022 and 3-4-2023.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 396854,
+  "end_char": 397276,
+  "chunk_index": 1026,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Rates of Dearness Allowance.-",
+    "hierarchy": "2. Rates of Dearness Allowance.-"
+  }
+}

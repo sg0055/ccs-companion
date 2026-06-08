@@ -1,0 +1,26 @@
+{
+  "chunk_id": "fedb2547-bca7-4374-8b84-dd53c9696677",
+  "content": "Context: Exception-\n\n## Exception-  \n- (i) Giving evidence at an enquiry before an authority appointed by Government, Parliament or a State Legislature; or\n- (ii)\n- Giving evidence in any judicial enquiry; or\n- Giving evidence at any departmental enquiry ordered by\n- (iii) authorities subordinate to the Government.\n- Rule 10 (1) to (3).  \n9. To ask for or accept contributions to or otherwise associate himself in the raising of any funds or other collections in cash or in kind in pursuance of any object whatsoever. - Rule 12.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 108602,
+  "end_char": 109132,
+  "chunk_index": 286,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Exception-",
+    "hierarchy": "Exception-"
+  }
+}

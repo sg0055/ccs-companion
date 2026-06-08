@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8421d24c-d357-4beb-a521-a44cb2a6de0d",
+  "content": "Context: V. Casual Employees\n\n| (i) | Casual employees drawing minimum of wages as notified by the Ministry of Labour or the State Government / UT Administration, whichever is higher. | Ys th of the daily wage. |\n| (ii) | Casual employees drawing Y3oth of the pay at the minimum of the relevant pay scale plus DA for work of 8 hours a day. | Minimum of the relevant pay scale plus DA admissible at the rates divided by (30 x 8). |\n| (iii) | Casual workers having temporary status. | As admissible for office staff as in Para. II above. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 435375,
+  "end_char": 435912,
+  "chunk_index": 1121,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "V. Casual Employees",
+    "hierarchy": "V. Casual Employees"
+  }
+}

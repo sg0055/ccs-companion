@@ -1,0 +1,26 @@
+{
+  "chunk_id": "138005ae-133a-4b42-a15a-e396a4025854",
+  "content": "Context: - Section 80-D\n\n- (j) If an assessee has taken any loan from any financial institution or charitable institution for purpose of his higher education or higher education of spouse / children or for a student to whom the assessee is a legal guardian, the amount of interest paid during the year can be deducted from the taxable income till the loan including interest is cleared or for a period of eight years, whichever is earlier. - Section 80-E",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1324048,
+  "end_char": 1324502,
+  "chunk_index": 3355,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- Section 80-D",
+    "hierarchy": "- Section 80-D"
+  }
+}

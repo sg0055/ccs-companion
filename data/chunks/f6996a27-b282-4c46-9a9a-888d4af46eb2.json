@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f6996a27-b282-4c46-9a9a-888d4af46eb2",
+  "content": "Context: 3. List of Classified Cities for HRA\n\n## 3. List of Classified Cities for HRA  \n[ Swamy's FR &amp; SR, Part - IV J  \n[ Effective from 1-4-2015 J  \n| Name of State I U.T. | CLASS OF CITIES | CLASS OF CITIES |\n| ------------------------------ | ------------------- | ---------------------------------------------------------------------------------- |\n| Name of State I U.T. | 'X' | 'Y' |\n| 1 | 2 | 3 |\n| Andhra Pradesh/ Telangana | Hyderabad (UA) | Vijayawada (UA), Warangal (UA), Greater Visakhapatnam, Guntur (UA), Nellore (UA) |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 409248,
+  "end_char": 409787,
+  "chunk_index": 1056,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. List of Classified Cities for HRA",
+    "hierarchy": "3. List of Classified Cities for HRA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3ef7e10a-508c-4727-bb3a-18b1dbf1089a",
+  "content": "Context: 1. Admissibility.-\n\n- GID, Rule 50.  \n14. Grant of family pension to a disabled child / sibling.In case of grant of family pension to a disabled child, a disability certificate issued after the death of the employer / pensioner or his or her spouse for a disability which existed before their death may be accepted if he suffered from such disability on the crucial date i.e., on the date of death of pensioner / employee I spouse, whichever was later. The criteria for disabled sibling is same as above. -GID, Rule 50.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1118104,
+  "end_char": 1118632,
+  "chunk_index": 2836,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Admissibility.-",
+    "hierarchy": "1. Admissibility.-"
+  }
+}

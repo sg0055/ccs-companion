@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7b60f40d-aa22-4ca8-b63a-9c33b14839ed",
+  "content": "Context: T. A. when deputed for training\n\n4. An employee on training at a particular station going on tour to another station will be entitled to draw D.A. at full rate for stay in the touring station, but this period wil'I also be taken into account for computing 180 days of halt at the training station,\n5. No T.A. / D.A. is admissible for training at the headquarters irrespective\n- of the distance between normal duty point and the training centre.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 725986,
+  "end_char": 726439,
+  "chunk_index": 1845,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "T. A. when deputed for training",
+    "hierarchy": "T. A. when deputed for training"
+  }
+}

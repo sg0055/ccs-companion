@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f118a343-1970-4f7c-ab52-7bc1d5bb26ea",
+  "content": "Context: FREQUENTLY ASKED QUESTIONS\n\nReimbursement will be made once a year, after the completion of the financial year. The limits for CEA is~ 27,000 and Hostel Subsidy is ~ 81,000 and will be automatically raised by 25% every time DA goes up to 50%.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 888728,
+  "end_char": 888979,
+  "chunk_index": 2250,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "FREQUENTLY ASKED QUESTIONS",
+    "hierarchy": "FREQUENTLY ASKED QUESTIONS"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "73e1a81d-4f38-41cd-a065-ee133cf008cb",
+  "content": "Context: 6. Probation\n\nevaluation.  \nProbation is used for direct recruitment, promotion, or re-employment before superannuation. It should not be excessively prolonged. The power to discharge probationers should be actively used to avoid later termination.  \nBesides passing exams, the focus should be on evaluating the probationer's outlook, character, and aptitude for the job before confirming  \ntheir appointment.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 7911,
+  "end_char": 8329,
+  "chunk_index": 23,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Probation",
+    "hierarchy": "6. Probation"
+  }
+}

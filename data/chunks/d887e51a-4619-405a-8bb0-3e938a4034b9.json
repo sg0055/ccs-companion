@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d887e51a-4619-405a-8bb0-3e938a4034b9",
+  "content": "Context: 3. Review\n\n<!-- image -->  \nDo not be cheated by duplicate books. Check for genuine copy. Scratch the HOLOGRAM IN THE WRAPPER to reveal the QR Code. Scan the QR Code and validate the book",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 186226,
+  "end_char": 186422,
+  "chunk_index": 476,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Review",
+    "hierarchy": "3. Review"
+  }
+}

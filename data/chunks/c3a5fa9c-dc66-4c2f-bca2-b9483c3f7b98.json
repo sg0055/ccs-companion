@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c3a5fa9c-dc66-4c2f-bca2-b9483c3f7b98",
+  "content": "Context: .. Holidays\n\nRemaining three holidays.The Employees' Co-ordination Committee irr the State Capital shall decide the three holidays, if necessary, in consultation with other Co-ordination Committees functioning in the same state, get prior approval of the Ministry of Personnel and Training and then notify the same. The list so notified will apply uniformly to all the Central Government Offices in the State and any change thereafter can be made only with the prior approval of the Ministry of Personnel and Training.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1296786,
+  "end_char": 1297313,
+  "chunk_index": 3291,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": ".. Holidays",
+    "hierarchy": ".. Holidays"
+  }
+}

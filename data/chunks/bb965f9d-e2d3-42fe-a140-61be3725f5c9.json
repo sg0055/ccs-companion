@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bb965f9d-e2d3-42fe-a140-61be3725f5c9",
+  "content": "Context: Revised guidelines for passport issuance\n\n- (i) IC should be on official stationery. NOC can be on plain paper with signature/ stamp. Pl is to be submitted on plain paper.  \n- (ii) Telephone, fax and e-mail id of the Controlling/ Administrative Office should be indicated in all the three documents.\n- (iii) Military/ Air Force/Navy personnel with Clo. APO address may submit applications at their station of posting or at their permanent address. Spouse (adult children, if spouse expired/ divorced) can receive passport with authority letter.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1267313,
+  "end_char": 1267866,
+  "chunk_index": 3215,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Revised guidelines for passport issuance",
+    "hierarchy": "Revised guidelines for passport issuance"
+  }
+}

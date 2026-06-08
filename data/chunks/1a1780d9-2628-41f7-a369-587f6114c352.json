@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1a1780d9-2628-41f7-a369-587f6114c352",
+  "content": "Context: 4. Government e-Marketplace (GeM)\n\n| In case of Automobiles | t 30,00,000 |\n| Supplier having lowest price after obtaining bids | Above t 5,00,000 |  \nTo avoid such procurement process on GeM or the necessity of obtaining the sanction of higher authorities, the demand for goods shall not be divided into small quantities to make piecemeal purchases.  \n- Rule 149, GFR.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 964581,
+  "end_char": 964959,
+  "chunk_index": 2446,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Government e-Marketplace (GeM)",
+    "hierarchy": "4. Government e-Marketplace (GeM)"
+  }
+}

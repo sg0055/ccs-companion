@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d0de37fa-26fa-4abd-9160-a4f2e03397b6",
+  "content": "Context: 2009-10.-\n\n- (iii) Numerical grading on a scale of 1 - 10 will be awarded by Reporting and Reviewing Authorities. Grade 1 refers to the lowest grade and 10, the highest. The overall grading will be based on addition of the mean value of 40% weightage on assessment of work output, 30% on personal attributes and functional competency.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 317917,
+  "end_char": 318260,
+  "chunk_index": 833,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2009-10.-",
+    "hierarchy": "2009-10.-"
+  }
+}

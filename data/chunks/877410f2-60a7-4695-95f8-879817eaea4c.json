@@ -1,0 +1,26 @@
+{
+  "chunk_id": "877410f2-60a7-4695-95f8-879817eaea4c",
+  "content": "Context: 6. Medical Advance\n\nWhen Government servant is too ill to apply.In case of serious illness/accidents where the official is unable to apply, the advance may be sanctioned on an application in writing made on his behalf by his wife or other legal heir.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 861437,
+  "end_char": 861696,
+  "chunk_index": 2180,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Medical Advance",
+    "hierarchy": "6. Medical Advance"
+  }
+}

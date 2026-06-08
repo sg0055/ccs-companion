@@ -1,0 +1,26 @@
+{
+  "chunk_id": "878390b9-8894-4fa4-8d2c-957a167f4eaf",
+  "content": "Context: 6. T.A. for local journeys\n\nFor journeys to temporary duty point within a distance of eight kilometres from the residence, if performed by public conveyances, such as bus, local trains, trams and ferries, fares paid will be reimbursed. In case of travel by 'Whiteline buses' plying in Delhi/ New Delhi, reimbursement will be made on producuonofrickets. If such journeys are performed by taxi/ autorickshaw / own car 1 scooter, no mileage allowance is admissible.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 719339,
+  "end_char": 719810,
+  "chunk_index": 1828,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. T.A. for local journeys",
+    "hierarchy": "6. T.A. for local journeys"
+  }
+}

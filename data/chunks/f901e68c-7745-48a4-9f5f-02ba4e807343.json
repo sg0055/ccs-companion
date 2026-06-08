@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f901e68c-7745-48a4-9f5f-02ba4e807343",
+  "content": "Context: Conditions for grant of Child Care Leave (CCL).\n\n- widower or divorcee Government servant.\n- (iv) CCL shall not be granted for more than three spells in a calendar year; in case of a single female Government servant, the grant of leave shall be extended to six spells in a calendar year.\n- Not ordinarily to be granted during the probation period except during certain extreme situations where the leave sanctioning authority is satisfied about the need and a minimal leave is\n- (v) sanctioned.\n- (vi)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 611866,
+  "end_char": 612376,
+  "chunk_index": 1555,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions for grant of Child Care Leave (CCL).",
+    "hierarchy": "Conditions for grant of Child Care Leave (CCL)."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9635e6fd-df48-457e-9dd5-f48d84a5415d",
+  "content": "Context: 5. Family means.-\n\n8. Emoluments for the purpose of retirement / death gratuity means the basic pay as defined in FR 9 (21) (a) (i), which a Government servant was receiving immediately before his retirement or on the date of his death and shall also include DA and NPA. If the emoluments have been reduced during the last ten months of service otherwise than as a penalty, average emoluments shall be treated as emoluments. - Rules 6 and 7.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1190935,
+  "end_char": 1191385,
+  "chunk_index": 3022,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Family means.-",
+    "hierarchy": "5. Family means.-"
+  }
+}

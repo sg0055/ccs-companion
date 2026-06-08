@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b9793e3e-bb38-44bc-968e-a2746d8735ca",
+  "content": "Context: Ans:\n\n## Ans:  \n| His pay on promotion will be fixed as follows: | { |\n| ---------------------------------------------------------------------------------------------------- | -------- |\n| Pay from 1-1-2023 | 39,200 |\n| Pay in Pay Level 5 after adding one increment | 40,400 |\n| Pay on date of promotion in the Level 6 at a Level equal to or next higher as compared to { 40,400 | 41,100 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1390557,
+  "end_char": 1390954,
+  "chunk_index": 3514,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans:",
+    "hierarchy": "Ans:"
+  }
+}

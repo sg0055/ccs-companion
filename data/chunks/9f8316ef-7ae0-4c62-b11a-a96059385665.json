@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9f8316ef-7ae0-4c62-b11a-a96059385665",
+  "content": "Context: 11. Guidelines for Reviewing.-\n\nin duplicate) should be supplied.  \n13. Maintenance of APAR Files.APAR files are to be kept in safe custody. It should be ensured that each file is complete in all respects, i.e., all reports due are received and filed properly. An Index is kept in each APAR file and entries made as and when fresh reports are received and filed. There are time-limits prescribed for consideration of Promotion cases, etc., when complete APARs are seen by DPCs. Up-to-date maintenance of APAR files is therefore necessary.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 320881,
+  "end_char": 321428,
+  "chunk_index": 841,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Guidelines for Reviewing.-",
+    "hierarchy": "11. Guidelines for Reviewing.-"
+  }
+}

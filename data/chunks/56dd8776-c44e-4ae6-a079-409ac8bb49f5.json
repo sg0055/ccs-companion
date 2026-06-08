@@ -1,0 +1,26 @@
+{
+  "chunk_id": "56dd8776-c44e-4ae6-a079-409ac8bb49f5",
+  "content": "Context: 2. Disciplinary Proceedings\n\nSimilarly, whenever a case is referred to the Central Vigilance Commission for its first stage advice, a draft of the articles of charge, complete in all respects, as proposed by the Ministry/ Department should be submitted to the CVC for its consideration. - GID (52), Rule 14.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 163347,
+  "end_char": 163663,
+  "chunk_index": 419,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Disciplinary Proceedings",
+    "hierarchy": "2. Disciplinary Proceedings"
+  }
+}

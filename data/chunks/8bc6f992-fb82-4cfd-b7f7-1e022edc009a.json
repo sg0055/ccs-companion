@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8bc6f992-fb82-4cfd-b7f7-1e022edc009a",
+  "content": "Context: 1. Eligibility\n\nThe orders shall be applicable to (i) Railway servants entitled to PPs; (ii) Other Government Department's officials serving in Railways on deputation and entitled to PPs; (iii) Other officials serving in Railways and entitled to PPs; and (iv) Officials of Audit Department (Railway) entitled to PPs. These orders would not be applicable to those who are undergoing minor penalty of stoppage of even a single PP at the time of application for availing AILTC.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 645806,
+  "end_char": 646289,
+  "chunk_index": 1641,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Eligibility",
+    "hierarchy": "1. Eligibility"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7ef91d3e-d120-47a8-9ad2-c6c20903e6a6",
+  "content": "Context: (a) Important conditions governing foreign service:\n\n10. While Central' Government Officers on foreign service to the Govern ments of developing countries of Asia, Africa and Latin America have the option to pay pension contribution to the Government of India and count the foreign service for. pension, they will be allowed to receive gratuity payable by those Governments which is not a pensionary benefit.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 234997,
+  "end_char": 235414,
+  "chunk_index": 616,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(a) Important conditions governing foreign service:",
+    "hierarchy": "(a) Important conditions governing foreign service:"
+  }
+}

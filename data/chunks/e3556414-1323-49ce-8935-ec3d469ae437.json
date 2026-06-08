@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e3556414-1323-49ce-8935-ec3d469ae437",
+  "content": "Context: 10. Definition of Consulting Services\n\n## 10. Definition of Consulting Services  \nThe term 'Consulting Services' refer to a specific area of procurement that involves non-physical, project-specific, intellectual, and procedural processes. These services focus on providing outcomes and deliverables that can vary from one consultant to another. Consulting Services encompass professional, intellectual, training, and advisory services, or any other service classified or declared as such by a procuring entity. However, it excludes the",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 969781,
+  "end_char": 970325,
+  "chunk_index": 2459,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Definition of Consulting Services",
+    "hierarchy": "10. Definition of Consulting Services"
+  }
+}

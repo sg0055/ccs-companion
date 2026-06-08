@@ -1,0 +1,26 @@
+{
+  "chunk_id": "529c6fc6-4280-4396-adf5-132f0acfff4a",
+  "content": "Context: 10. Retention of Accommodation\n\n| (1) | (2) | (3) |\n| (i) | Resignation, dismissal or removal from service, termination of service or unautho- rized absence without permission, compul- sory retirement [ under CCS (CCA) Rules, 1965] and for non-regular Government servants. | One month on normal licence fee |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 528982,
+  "end_char": 529299,
+  "chunk_index": 1350,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Retention of Accommodation",
+    "hierarchy": "10. Retention of Accommodation"
+  }
+}

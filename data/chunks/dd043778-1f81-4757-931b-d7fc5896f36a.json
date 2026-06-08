@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dd043778-1f81-4757-931b-d7fc5896f36a",
+  "content": "Context: Procurements without Calling Tenders\n\nPurchase of goods by Purchase Committee.In case of items not available on the GeM portal, purchase of goods costing above t 25,000 and up to t 2,50,000 on each occasion may be made on the recommendations of a Local Purchase Committee consisting of three members as decided by the Head of the Department. The committee will survey the market to ascertain the reasonableness of rate, quality and specifications and identify the appropriate supplier. Purchase order will be placed on the recommen dation of the",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 961824,
+  "end_char": 962378,
+  "chunk_index": 2438,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Procurements without Calling Tenders",
+    "hierarchy": "Procurements without Calling Tenders"
+  }
+}

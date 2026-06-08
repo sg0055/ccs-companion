@@ -1,0 +1,26 @@
+{
+  "chunk_id": "764c275a-d9ac-489c-9f29-78e4cbfe9db8",
+  "content": "Context: Ill. Operative Staff\n\n## Ill. Operative Staff  \nCategories of staff identified as such by the concerned Departments, drawing 'pay' as defined in FR 9 (21) (a) up to e 2,200 per month*.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 431524,
+  "end_char": 431717,
+  "chunk_index": 1110,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ill. Operative Staff",
+    "hierarchy": "Ill. Operative Staff"
+  }
+}

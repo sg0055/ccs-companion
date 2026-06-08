@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7642a1c3-b5b5-4ba6-bb8d-049703d78cb5",
+  "content": "Context: 3. Modes of Procurement\n\nGlobal Tender Enquiry is used for payment in Foreign Currencies through letter of Credit. It is aimed at inviting the participation of foreign firms. The point of balance between VfM and cost I complexity of procedure is further aggravated as compared to OTE. Development of local industry also needs to be kept in mind. This is best suitable when the requirements are not available in the country and alternatives available in the country are not suitable for the purpose. No GTE shall be invited up to ~ 200",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 957159,
+  "end_char": 957702,
+  "chunk_index": 2422,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Modes of Procurement",
+    "hierarchy": "3. Modes of Procurement"
+  }
+}

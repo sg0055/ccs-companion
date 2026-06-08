@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5a1da2b9-4e87-4e4e-8aca-04170ea1bedd",
+  "content": "Context: Conditions for grant of benefits :\n\n4. (a) both the junior and the senior Government servants belong to the same cadre and they are in the same pay Level on grant of MACP;\n5. (b) the existing pay structure and the revised pay structure of the lower and higher posts in which they are entitled to draw pay are identical;\n6. (c) the senior Government servants at the time of grant of MACP are drawing equal or more pay than the junior;",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 929196,
+  "end_char": 929638,
+  "chunk_index": 2348,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions for grant of benefits :",
+    "hierarchy": "Conditions for grant of benefits :"
+  }
+}

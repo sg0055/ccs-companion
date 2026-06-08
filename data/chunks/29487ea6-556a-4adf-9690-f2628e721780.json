@@ -1,0 +1,26 @@
+{
+  "chunk_id": "29487ea6-556a-4adf-9690-f2628e721780",
+  "content": "Context: 1. Eligibility\n\n3. (a)\n4. No hometown LTC will be admissible to Railway employees. Only \"All India\" LTC will be granted once in a block of four years.\n5. (b)\n6. (c)\n7. All India LTC will be purely optional.\n8. For availing LTC, privilege passes admissible to them in the calendar year in which they intend to avail LTC will have to be surrendered.\n9. (d) If the employee has already availed of a pass in any year, then LTC will not be allowed in that year.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 645209,
+  "end_char": 645674,
+  "chunk_index": 1639,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Eligibility",
+    "hierarchy": "1. Eligibility"
+  }
+}

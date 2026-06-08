@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b243e1f5-0e45-4f88-9875-3f8d90d70153",
+  "content": "Context: 1. General Provident Fund\n\nif  \nNOTE.A nomination submitted to the Head of Office is valid even the subscriber dies before it reaches the Accounts Officer,  \n- C &amp; A.G's Decision (2), Rule 5.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 561885,
+  "end_char": 562089,
+  "chunk_index": 1431,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Provident Fund",
+    "hierarchy": "1. General Provident Fund"
+  }
+}

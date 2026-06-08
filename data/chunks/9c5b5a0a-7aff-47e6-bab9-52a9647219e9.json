@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9c5b5a0a-7aff-47e6-bab9-52a9647219e9",
+  "content": "Context: 2. Rates.-\n\n## 2. Rates.-  \n| Pay Level | Cell Name | Rate per month ~ |\n| ------------- | ------------- | -------------------- |\n| Level > = 9 | R3H2 | 3,400 |\n| Level < = 8 | R3H2 | 2,700 |  \n3. Central Government employees of other Departments whose offices have been located in the project area not specifically for the work of project authorities shall be allowed Project Allowance at 50% of the above rates. - Orders 1 and 2, Chapter 20.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 492351,
+  "end_char": 492803,
+  "chunk_index": 1259,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Rates.-",
+    "hierarchy": "2. Rates.-"
+  }
+}

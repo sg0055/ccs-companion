@@ -1,0 +1,26 @@
+{
+  "chunk_id": "124ef424-5f27-4334-8332-815c0042cfed",
+  "content": "Context: 2. General Conditions;\n\n## 2. General Conditions;  \n- ·(i) The total amount of conveyance hire reimbursed in any one month should not exceed t 300 per individual.\n- OM, dated\n- 26-5-2010.\n- The charges reimbursable will be the fare by bus, local train or a them, if the places visited are connected by any or a combination of these public conveyances. If, on such routes, .aray other conveyance is used, reimbursement will be on a certificate that hiring of such .a conveyance was necessary",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 452698,
+  "end_char": 453197,
+  "chunk_index": 1160,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. General Conditions;",
+    "hierarchy": "2. General Conditions;"
+  }
+}

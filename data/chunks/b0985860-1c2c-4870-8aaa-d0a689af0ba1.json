@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b0985860-1c2c-4870-8aaa-d0a689af0ba1",
+  "content": "Context: 29. Postaf Tariff and Savi:ngs Schemes\n\n| Post Office Monthly Income Scheme Account (MIS) | 7.4 % per annum payable monthly. | In multiples of INR ~ 1,000. Maximum investment limit is INR ~ 9 lakh in single account and INR ~ 15 lakh in joint account. | |\n| Senior Citizen Savings Scheme (SCSS) | 8.2 % per annum | In multiples of INR ~ 1,000 maximum not exceeding INR ~ 30 lakh. | Investment under this scheme qualifies for the benefit of Section 80-C of the IT Act from 1-4-2007. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1383886,
+  "end_char": 1384377,
+  "chunk_index": 3495,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "29. Postaf Tariff and Savi:ngs Schemes",
+    "hierarchy": "29. Postaf Tariff and Savi:ngs Schemes"
+  }
+}

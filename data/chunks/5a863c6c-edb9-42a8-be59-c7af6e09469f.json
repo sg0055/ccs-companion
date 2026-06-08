@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5a863c6c-edb9-42a8-be59-c7af6e09469f",
+  "content": "Context: (f) At the Same Station-\n\n- (g) Between two stations within a short distance of not more than 20 km.\n- (i)\n- (ii)\n- No T.A. if no change of residence is involved\n- If change of residence is involved-\n- (a) Full Transfer T.A. will be allowed and\n- (b) Basic Pay.\n- Composite transfer grant equal to one-third of 80% of - GIO (20), SR 116.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 732465,
+  "end_char": 732811,
+  "chunk_index": 1860,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(f) At the Same Station-",
+    "hierarchy": "(f) At the Same Station-"
+  }
+}

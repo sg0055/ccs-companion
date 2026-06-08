@@ -1,0 +1,26 @@
+{
+  "chunk_id": "92d8aaa5-b3c4-402e-84f3-628a23faf90b",
+  "content": "Context: (i) DA on Tour.-\n\n- (vi) Reimbursement of Food charges.There will be no separate reimbursement of food bills. Instead, the lumpsum amount payable will be as per Table (i) above and, depending on the length of absence from headquarters, would be regulated as per Table (vii) below. Since the concept of reimbursement has been done away with, no vouchers will be required. This methodology is in line with that followed by Indian Railways at present (with suitable enhancement of rates), i.e. Lumpsum amount payable. The lumpsum",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 697231,
+  "end_char": 697766,
+  "chunk_index": 1775,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(i) DA on Tour.-",
+    "hierarchy": "(i) DA on Tour.-"
+  }
+}

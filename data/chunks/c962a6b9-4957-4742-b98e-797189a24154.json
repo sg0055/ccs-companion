@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c962a6b9-4957-4742-b98e-797189a24154",
+  "content": "Context: 4. For Family Planning :\n\n- Appendix-Ill.  \nAdditional casual leave of 4 days to be treated as Special Casual Leave vide Chapter \"Casual Leave\". - AUTHORS  \n13. Other purposes.Special Casual Leave may also be granted for-\n1. Training and duty as members of officially sponsored Auxiliary Police\n3. Organizations, such as Home Guards, National Volunteer Corps, etc.\n2. Training as a member of St. John Ambulance Brigade (to the extent\n5. not covered by ordinary Casual Leave due).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 640403,
+  "end_char": 640891,
+  "chunk_index": 1626,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. For Family Planning :",
+    "hierarchy": "4. For Family Planning :"
+  }
+}

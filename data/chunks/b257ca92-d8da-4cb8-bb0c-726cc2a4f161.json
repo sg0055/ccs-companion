@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b257ca92-d8da-4cb8-bb0c-726cc2a4f161",
+  "content": "Context: 7. T .A. for medical attendance and treatment\n\n## 7. T .A. for medical attendance and treatment  \nEmployees and members of their families are entitled to T.A. for their journeys to obtain appropriate medical attendance and treatment if it is certified by the AMA/Special'ist/Medical Officer attached to the Hospital to whom the patient was referred, that the journey was unavoidably  \nnecessary to obtain treatment. The entitlements are as under-",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 862401,
+  "end_char": 862856,
+  "chunk_index": 2183,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. T .A. for medical attendance and treatment",
+    "hierarchy": "7. T .A. for medical attendance and treatment"
+  }
+}

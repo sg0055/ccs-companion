@@ -1,0 +1,26 @@
+{
+  "chunk_id": "261d3e1d-d17d-4a6f-acd9-19971c78b9c6",
+  "content": "Context: ExcEPTIONS:-\n\nIn cases covered by (b), resignation will not be accepted if it is in the public interest to pursue the disciplinary case. The Competent Authority may,  \nhowever, accept the resignation-  \n- (i)\n- if the case does not involve moral turpitude and public claims, or\n- (ii) if the available evidence does not have a base strong enough to lead eventually to dismissal or removal from service, or",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1020945,
+  "end_char": 1021359,
+  "chunk_index": 2588,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "ExcEPTIONS:-",
+    "hierarchy": "ExcEPTIONS:-"
+  }
+}

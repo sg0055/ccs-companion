@@ -1,0 +1,26 @@
+{
+  "chunk_id": "aeaa1187-b50f-432f-8904-d73d1d361ea9",
+  "content": "Context: 20. Pension through Public Sector Banks / Post Office Savings Bank\n\n11. Arrears of pension on the death of the pensioner.Pension is payable for the day of death of the pensioner. The Bank/ P.O. will, on receipt of the death certificate of the pensioner, verify his account and recover overpayment, if any, made. Arrears of pension due will be disbursed to the nominee,",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1138272,
+  "end_char": 1138649,
+  "chunk_index": 2889,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "20. Pension through Public Sector Banks / Post Office Savings Bank",
+    "hierarchy": "20. Pension through Public Sector Banks / Post Office Savings Bank"
+  }
+}

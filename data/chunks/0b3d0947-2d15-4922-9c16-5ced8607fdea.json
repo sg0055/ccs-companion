@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0b3d0947-2d15-4922-9c16-5ced8607fdea",
+  "content": "Context: 1. Reservation for SCs/ST s\n\n3. SC candidate to intimate change of religion.Every SC member should immediately inform the Appointing Authority in the event of any change of his/her religion. - Order 81 of Section 2.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 17283,
+  "end_char": 17507,
+  "chunk_index": 45,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Reservation for SCs/ST s",
+    "hierarchy": "1. Reservation for SCs/ST s"
+  }
+}

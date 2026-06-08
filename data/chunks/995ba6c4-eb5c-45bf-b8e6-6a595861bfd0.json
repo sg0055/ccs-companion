@@ -1,0 +1,26 @@
+{
+  "chunk_id": "995ba6c4-eb5c-45bf-b8e6-6a595861bfd0",
+  "content": "Context: Allotment of alternate accommodation\n\n- Rule 49.\n- Allotment of alternate accommodation or regularization of accommodation in the name of certain persons in retirement cases. (1) In the event of retirement of an allottee, the same accommodation may be regularized in the name of the spouse or ward of the retired allottee,\n- (b) if the spouse or ward is entitled for it.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 515536,
+  "end_char": 515915,
+  "chunk_index": 1315,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Allotment of alternate accommodation",
+    "hierarchy": "Allotment of alternate accommodation"
+  }
+}

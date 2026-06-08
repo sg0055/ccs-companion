@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f69c1fe5-2a4a-425d-ae8f-a1bf40a6079a",
+  "content": "Context: 6. Government servants and politics\n\n3. political movement in India relating to Indian affairs.  \n4. Attending meetings organized by political parties not in the nature of a public meeting and held contrary to any prohibitory order or without permission.\n5. Taking active part in holding rallies in support of any political party by arranging for crowds and arranging transport for bringing crowds.\n6. Getting mixed up with demonstrations organized by political parties held in or passing through the vicinity of the Government office.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 121108,
+  "end_char": 121652,
+  "chunk_index": 317,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Government servants and politics",
+    "hierarchy": "6. Government servants and politics"
+  }
+}

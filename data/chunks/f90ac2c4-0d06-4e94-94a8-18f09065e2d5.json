@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f90ac2c4-0d06-4e94-94a8-18f09065e2d5",
+  "content": "Context: 1. Voluntary Retirement\n\n4. after the expiry of normal notice period of three months.  \n5. Notice can be given before attaining the age specified or completing the required years of qualifying service; but the effective date of retirement should be after the attainment of the prescribed age or completion of years of qualifying service. - Note 2, FR 56.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 975886,
+  "end_char": 976249,
+  "chunk_index": 2478,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Voluntary Retirement",
+    "hierarchy": "1. Voluntary Retirement"
+  }
+}

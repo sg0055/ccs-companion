@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9909be82-d65e-42f1-8371-4a719467e415",
+  "content": "Context: 9. Overtime, Alfowance\n\n- (c) The OTA for Staff Car Drivers should be linked with biometric system as normally, the designated parking is allotted in the office building. However, in cases where the parking lot is provided far from office, the Staff Car Driver would mark his/her attendance while leaving from his office and a grace time of not exceeding 2 hours should be allowed to cover the distance travelled after leaving office, including the time to drop the officer and then reaching the parking lot. In such cases, calculation",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 427710,
+  "end_char": 428254,
+  "chunk_index": 1100,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Overtime, Alfowance",
+    "hierarchy": "9. Overtime, Alfowance"
+  }
+}

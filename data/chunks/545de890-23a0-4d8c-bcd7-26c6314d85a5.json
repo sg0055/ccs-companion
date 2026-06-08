@@ -1,0 +1,26 @@
+{
+  "chunk_id": "545de890-23a0-4d8c-bcd7-26c6314d85a5",
+  "content": "Context: 10. Medical claims ·Some useful tips\n\n- 11~ You.need not-consult your AMA for getting in-patienttreatrrrent for yourself or family members from a hospital where you are normally: entitledto the treatment. Female members may, however, be admitted in any recognized women's hospital.\n- T2. ensure that the-claim is preferred within 6 months of completion of treatment. -Section 1, GJD (8-A), Appendix-X.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 871030,
+  "end_char": 871440,
+  "chunk_index": 2207,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Medical claims ·Some useful tips",
+    "hierarchy": "10. Medical claims ·Some useful tips"
+  }
+}

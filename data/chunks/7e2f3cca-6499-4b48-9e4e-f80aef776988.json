@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7e2f3cca-6499-4b48-9e4e-f80aef776988",
+  "content": "Context: AREAS INCLUDED IN PART 'A'\n\n| | | (c) All other places in the District. 5. Baramulla District Entire Gurez-Nirabat, Tangdar Sub-Division and Keran lllaqa. |\n| 5. 6. | LAKSHADWEEP MIZORAM | Entire Union Territory. Chimptuipui District and Areas beyond 25 km from Lunglei Town in Lunglei District. |\n| 7. | SIKKIM | Entire State. |\n| 8. | UTTARAKHAND | Areas under Cha~oli, Pithoragarh, Uttarkashi, Rudraprayag and Champavat Districts. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 479568,
+  "end_char": 480012,
+  "chunk_index": 1224,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "AREAS INCLUDED IN PART 'A'",
+    "hierarchy": "AREAS INCLUDED IN PART 'A'"
+  }
+}

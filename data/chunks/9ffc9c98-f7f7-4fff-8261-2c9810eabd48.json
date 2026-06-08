@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9ffc9c98-f7f7-4fff-8261-2c9810eabd48",
+  "content": "Context: Closing Balance as on 31-3-2023\n\n## Closing Balance as on 31-3-2023  \n~ 95,000  \n| Month | Subscription | Refund | Advance I Withdrawal | Balance |\n| ----------- | ---------------- | ---------- | ------------------------ | ----------- |\n| 2023 | ~ | ~ | ~ | ~ |\n| April | 3,500 | 500 | | 99,000 |\n| May | 3,500 | 500 | | 1,03,000 |\n| June | 3,500 | 500 | 6,000 | 1,01,000 |\n| July | 3,500 | 500 | | 1,05,000 |\n| August | 3,500 | 1,000 | | 1,09,500 |\n| September | 3,500 | 1,000 | | 1,14,000 |\n| October | 3,500 | 1,000 | | 1,18,500 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1398585,
+  "end_char": 1399127,
+  "chunk_index": 3534,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Closing Balance as on 31-3-2023",
+    "hierarchy": "Closing Balance as on 31-3-2023"
+  }
+}

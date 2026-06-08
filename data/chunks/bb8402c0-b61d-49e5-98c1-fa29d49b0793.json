@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bb8402c0-b61d-49e5-98c1-fa29d49b0793",
+  "content": "Context: 7. Repaying Capacity.-\n\n| (b) | In cases of employee retiring after 10 years but not later than 20 years. | Up to 40% of basic pay. 65% of DCR Gratuity may also be adjusted. |\n| (c) | In cases of employee retiring within 10 years. | Up to 50% of basic pay. DCR Gratuity up to 75% can be adjusted. |  \n- Rule 6.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 903832,
+  "end_char": 904151,
+  "chunk_index": 2285,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Repaying Capacity.-",
+    "hierarchy": "7. Repaying Capacity.-"
+  }
+}

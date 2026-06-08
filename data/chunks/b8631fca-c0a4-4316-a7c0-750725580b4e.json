@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b8631fca-c0a4-4316-a7c0-750725580b4e",
+  "content": "Context: Transactions\n\n5. Construction of house.Construction of a house amounts to acquisition of immovable property for which intimation/ sanction, is required. This is independent of sanction of Government loan. Same is the case where the expenditure incurred on repairs or minor construction work in respect of any house is estimated to exceed t 10,000. - GID (4), Rule 18.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 127679,
+  "end_char": 128055,
+  "chunk_index": 334,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Transactions",
+    "hierarchy": "Transactions"
+  }
+}

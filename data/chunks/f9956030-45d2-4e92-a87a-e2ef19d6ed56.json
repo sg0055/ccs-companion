@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f9956030-45d2-4e92-a87a-e2ef19d6ed56",
+  "content": "Context: 10. Retention of Accommodation\n\n- (2) Normal licence fee shall be charged for the period of retention at the old station.\n- (3) In case leave is sanctioned after the allottee joined duty at new station, this period may not be taken into account for the purpose of cancellation of allotment and retention may be allowed for a period of two months only.  \n-Rule 42.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 538278,
+  "end_char": 538650,
+  "chunk_index": 1373,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Retention of Accommodation",
+    "hierarchy": "10. Retention of Accommodation"
+  }
+}

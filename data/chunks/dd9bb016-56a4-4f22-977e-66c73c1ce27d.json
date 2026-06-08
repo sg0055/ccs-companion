@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dd9bb016-56a4-4f22-977e-66c73c1ce27d",
+  "content": "Context: - Section 80-D\n\nConsequence of not linking PAN with Aadhaar.The PAN allotted to a person shall be deemed to be invalid, in case the person fails to intimate the Aadhaar number, on or before the notified date. If a person fails to intimate the Aadhaar number, the PAN allotted to such person shall be made inoperative in the prescribed manner. This amendment will take effect from 1st September, 2019.  \n- Section 139-AA",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1330452,
+  "end_char": 1330880,
+  "chunk_index": 3369,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- Section 80-D",
+    "hierarchy": "- Section 80-D"
+  }
+}

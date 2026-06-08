@@ -1,0 +1,26 @@
+{
+  "chunk_id": "019547db-ad0b-4723-8112-10a488c9a6c4",
+  "content": "Context: 2. Income from house property\n\n'Loss' under the head 'Income from house property'.In the case of let-out property, if the net income happens to be a loss, it can be set off against the income under other heads. In the case of self-occupied property, interest on borrowed capital can be set off against income under any other head, subject to a maximum of~ 30,000 or t 2 lakhs, as the case may be.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1336279,
+  "end_char": 1336684,
+  "chunk_index": 3385,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Income from house property",
+    "hierarchy": "2. Income from house property"
+  }
+}

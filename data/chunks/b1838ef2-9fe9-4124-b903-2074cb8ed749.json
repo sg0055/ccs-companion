@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b1838ef2-9fe9-4124-b903-2074cb8ed749",
+  "content": "Context: 5. Final payment of accumulations in PF\n\nIssuance of Annual Statement.Form 49, which includes details of missing credit/ to the subscribers latest by the 31st of July every year.  \nThe Annual Statement of GPF in debit should be despatched - GID (7), Rule 39.  \nGovernment dues not recoverable.Amount due to the Government or amount misappropriated by the Government servant is not recoverable from the PF final payment to the subscriber.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 574927,
+  "end_char": 575373,
+  "chunk_index": 1464,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Final payment of accumulations in PF",
+    "hierarchy": "5. Final payment of accumulations in PF"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0b216e67-a5ae-4cb2-b2f8-bd20e6ff849c",
+  "content": "Context: 2. Verification of Services\n\n4. In the case of transfers.Certificate will be recorded for the period up to the date for which pay is drawn by the office, even if it is part of the month/year. The new office should verify whether certificate has been recorded correctly and agrees with LPC.\n5. Foreign service.No certificate will be recorded by the departmental officers. Certificate will be recorded by the Accounts Officers only as per\n3. SR 203.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1203633,
+  "end_char": 1204089,
+  "chunk_index": 3055,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Verification of Services",
+    "hierarchy": "2. Verification of Services"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b3f9b33a-659e-48e3-b020-3ce52e0f3b51",
+  "content": "Context: l: General Orders\n\n## l: General Orders  \n1. 'For applying 'Pay'/ 'Pay Slabs' in the existing orders, 'notional pay' admissible in pre-revised scales to be taken into account,  \n- Rule 2, Gio thereon.  \n2. Eligibility.Non-Gazetted staff drawing pay up to ~ 2,200 p.m, [ including special pay, personal pay, etc., under FR 9 (21) (a) j are eligible.\n3. Emolument-s.'Pay'' as cleli1ned under FR 9 ·(21) '(a) plus DP/()Af CCA/Composite Hill Compensatory A'Tlowance.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 429106,
+  "end_char": 429577,
+  "chunk_index": 1104,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "l: General Orders",
+    "hierarchy": "l: General Orders"
+  }
+}

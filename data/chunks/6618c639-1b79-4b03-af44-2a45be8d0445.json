@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6618c639-1b79-4b03-af44-2a45be8d0445",
+  "content": "Context: ?\n\n- (2) The total of their pay will be taken into account only for the purpose of computation of cost-ceiling limits but not for the quantum of advance. - Swamy's HBA Rules, GID (2), Rule 4.\n- (1) Children's Education\n3. Children's Educational Allowance Scheme.Allowance/Hostel Subsidy, will be admissible to any one parent only.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1236240,
+  "end_char": 1236579,
+  "chunk_index": 3139,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "?",
+    "hierarchy": "?"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3523da58-2f5b-411e-a504-df81538a8365",
+  "content": "Context: 3. Reservation for Economically Weaker Sections (EWSs)\n\n3. Identification of persons as EWS.(a) Persons who are not covered under the reservation scheme for SCs/STs/OBCs and whose family has gross annual income below ~ 8 lakhs. Income shall also include income from all sources, i.e. salary, agriculture, business, profession, etc. for the financial year prior to the year of application. The income for this purpose will be gross income taken for the purpose of Income Tax.\n4. (b) Persons whose family does not own or possess any of the following",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 33803,
+  "end_char": 34359,
+  "chunk_index": 87,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Reservation for Economically Weaker Sections (EWSs)",
+    "hierarchy": "3. Reservation for Economically Weaker Sections (EWSs)"
+  }
+}

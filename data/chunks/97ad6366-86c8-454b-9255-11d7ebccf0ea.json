@@ -1,0 +1,26 @@
+{
+  "chunk_id": "97ad6366-86c8-454b-9255-11d7ebccf0ea",
+  "content": "Context: EXPLANATIONS.-\n\n6. husbands or widowed are not included in the term \"Family\".  \n5. A member of the family whose income from all sources, does not exceed the amount of minimum family pension prescribed in Central Government (i.e. t 9,000 p.m.) and Dearness Relief thereon is deemed to be wholly dependent on the Government servant.\n- Rule 4 (d) Explanations and GID (2), Rule 4.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 649141,
+  "end_char": 649527,
+  "chunk_index": 1649,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "EXPLANATIONS.-",
+    "hierarchy": "EXPLANATIONS.-"
+  }
+}

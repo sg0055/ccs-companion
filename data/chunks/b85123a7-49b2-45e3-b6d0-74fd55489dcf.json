@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b85123a7-49b2-45e3-b6d0-74fd55489dcf",
+  "content": "Context: 1. Admissibility.-\n\n11. If the Government servant dies while under suspension.In such cases, the period of suspension will be treated as duty for all purposes including payment of pay and allowances. The family pension is payable to the eligible member of the family as in the case of death while in service. - FR 54-B.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1115419,
+  "end_char": 1115747,
+  "chunk_index": 2829,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Admissibility.-",
+    "hierarchy": "1. Admissibility.-"
+  }
+}

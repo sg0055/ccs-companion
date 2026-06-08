@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4bf3fcad-eb37-40ae-b5b4-4197f38fc98e",
+  "content": "Context: 3. Certain Special Entries.-\n\n4. GPF account number.To be entered on the right hand top of Page 1 by means of a rubber stamp as soon as the official is admitted to GPF. - GIO (6), SR 199.\n5. Home Town.Declaration submitted under LTC Scheme to be kept in Service Book. - GIO (9), SR 199.\n6. CGEGI Scheme.(i) Nomination under the Central Government Employees' Group Insurance Scheme will be pasted in Service Book, duly countersigned by Head of Office. - GIO (7), SR 199.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1195800,
+  "end_char": 1196278,
+  "chunk_index": 3035,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Certain Special Entries.-",
+    "hierarchy": "3. Certain Special Entries.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1b1ed8e9-84de-4e73-93b6-b95b5e32a2ab",
+  "content": "Context: 6. Facilities available\n\n(xix) CGHS Pensioners and their eligible dependent family members, holding a valid CGHS card and residing in non-CGHS area are eligible to avail medical facilities (both emergency and non-emergency) for in-patient treatment and post-operative follow-up treatment subject to conditions. Similarly, CGHS beneficiaries and their eligible dependent family members (both Pensioners and serving employees) on visit to non-CGHS area are eligible to obtain treatment under emergency subject to conditions.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 778868,
+  "end_char": 779399,
+  "chunk_index": 1979,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Facilities available",
+    "hierarchy": "6. Facilities available"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7b5ff630-8fd4-4694-aa3d-1a061969f74f",
+  "content": "Context: 3. Modes of Procurement\n\nLTE i's a restricted procurement method where a preselected list of vendors is directly invited to bid. Unsolicited bids from uninvited bidders are generally not accepted, except in special circumstances. LTE offers a simple and quick procedure but may not provide the same value for money as open tendering. It is a suitable option for procurements below a certain threshold. LTE should be the default procurement mode when the estimated value of procurement is between ~ 2.5 lakh to ~ 25 lakh. The bidding",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 958114,
+  "end_char": 958655,
+  "chunk_index": 2425,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Modes of Procurement",
+    "hierarchy": "3. Modes of Procurement"
+  }
+}

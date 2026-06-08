@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d9ee67b8-8c13-4dda-9352-58e195d2e4b1",
+  "content": "Context: 11. Conditions.-\n\n- (4) For those passing all the examinations in quick succession, Personal Pay admissible separately for each examination for 12 months.\n- (5) For LDCs during training in Hindi Typewriting or before results are declared or after results are declared but before they start drawing the Personal Pay, the rate and the period will be as applicable as if they had not been promoted.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1257512,
+  "end_char": 1257916,
+  "chunk_index": 3191,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Conditions.-",
+    "hierarchy": "11. Conditions.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0eb6749d-ecd4-41a1-978d-9a92e0adb665",
+  "content": "Context: Interest-bearing advances:\n\n## Interest-bearing advances:  \n1. Advance for purchase of Personal Computer. iPad can also be purchased. - OM, dated 7-10-2016 and 13-6-2022.  \nVGE  \n2. Advance for construction/ purchase of house/flat/ enlargement of living accommodation.  \n[ Rates of interest are prescribed for each financial year for Item 1 and periodically for Item 2.]  \nAll interest-bearing advances except those mentioned above at SI. Nos. 1 and 2 have been abolished by the Seventh Central Pay Commission.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 889518,
+  "end_char": 890037,
+  "chunk_index": 2253,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Interest-bearing advances:",
+    "hierarchy": "Interest-bearing advances:"
+  }
+}

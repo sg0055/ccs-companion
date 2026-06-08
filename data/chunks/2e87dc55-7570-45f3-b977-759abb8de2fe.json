@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2e87dc55-7570-45f3-b977-759abb8de2fe",
+  "content": "Context: Guidelines on Air Travel\n\n2. The travel agents are expected to provide to the Government employees the \"best available fare\" on the date of booking on the basis of tour programme as per their entitlement.\n3. Tickets to be booked atleast 21 days prior to intended date of travel to avail most competitive fares. Cancellations to be avoided. One ticket for each leg of travel to be booked.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 713702,
+  "end_char": 714098,
+  "chunk_index": 1813,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Guidelines on Air Travel",
+    "hierarchy": "Guidelines on Air Travel"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2b3e7ae4-b821-42aa-8c47-504a87634108",
+  "content": "Context: A. Fixation of Pay on deputation\n\n| Pay in Level 11 at a stage equal to or next higher | 96,600 |\n| NOTE.- DA and HRA admissible on ex cadre pay. | |\n| (b) If he opts to draw deputation allowance. Pay in Level 10 | 92,700 |\n| Deputation allowance at 5% of pav t 4,635 limited to ~ 4,500 | 4,500 |  \nNoTE. DA and HRA not admissible on deputation allowance. Hence in this case opting for cadre pay will be more beneficial.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1386112,
+  "end_char": 1386541,
+  "chunk_index": 3501,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "A. Fixation of Pay on deputation",
+    "hierarchy": "A. Fixation of Pay on deputation"
+  }
+}

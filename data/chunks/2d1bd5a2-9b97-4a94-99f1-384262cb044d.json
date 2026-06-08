@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2d1bd5a2-9b97-4a94-99f1-384262cb044d",
+  "content": "Context: 18. Officers appointed on contract\n\n3. Encashrnent of Earned Leave at credit to officers appointed on contract in various posts under the ·Central Government will be allowed on the date of 'termination of contract, subject to the condition that for each completed year of service put in by him in the post in such contract appointment, not more than 10 days benefit of earned leave encashment shall be permissible. While calculating the encashment of leave in such a contract appointment, the number of days of leave for which encashment had been",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 624520,
+  "end_char": 625075,
+  "chunk_index": 1589,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "18. Officers appointed on contract",
+    "hierarchy": "18. Officers appointed on contract"
+  }
+}

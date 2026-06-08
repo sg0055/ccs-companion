@@ -1,0 +1,26 @@
+{
+  "chunk_id": "22fe8988-e905-42c0-9c63-8ae295a7b94d",
+  "content": "Context: Medical claims requiring opinion of specialists\n\n- OM, dated 14-5-2018.  \n- (i) CGHS beneficiaries who have subscribed to Medical Insurance Policies can claim reimbursement both from Insurance Company and CGHS / Department subject to condition that the reimbursement should not exceed the total expenditure on treatment. - OM, dated 19-2-2009.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 814815,
+  "end_char": 815167,
+  "chunk_index": 2069,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Medical claims requiring opinion of specialists",
+    "hierarchy": "Medical claims requiring opinion of specialists"
+  }
+}

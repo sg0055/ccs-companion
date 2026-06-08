@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8971e98b-f401-48fa-a644-227717f9e7c0",
+  "content": "Context: ?\n\n- (3) If both the Government servants contribute, parents of both will be eligible for the benefits.\n- (4) Judicially separated couple are treated as separate entities.\n- G.I., M.H., O.M. No. F. 21-12/63-H. (M), dated 16-12-1964.\n- (1) The title of each of them will be\n9. Allotment of Residence.considered independently.\n- (2) Only one residence will however, be allotted, except in the case of judicial separation.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1239350,
+  "end_char": 1239778,
+  "chunk_index": 3147,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "?",
+    "hierarchy": "?"
+  }
+}

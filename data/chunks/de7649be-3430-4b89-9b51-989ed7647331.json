@@ -1,0 +1,26 @@
+{
+  "chunk_id": "de7649be-3430-4b89-9b51-989ed7647331",
+  "content": "Context: 3. Applications for appointment in PSUs.-\n\n6. will not be considered/forwarded, if-\n4. (i) the employee is under suspension; or\n5. (ii) disciplinary proceedings are pending against him and\n6. a charge-sheet has been issued; or\n7. sanction for prosecution, where necessary, has been\n8. (iii) accorded by the Competent Authority; or\n9. (iv) where a prosecution is not necessary, a charge-sheet has been filed in a Court of Law against him for criminal prosecution.\n10. no application should",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1214316,
+  "end_char": 1214813,
+  "chunk_index": 3082,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Applications for appointment in PSUs.-",
+    "hierarchy": "3. Applications for appointment in PSUs.-"
+  }
+}

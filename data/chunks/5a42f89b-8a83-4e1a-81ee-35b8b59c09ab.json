@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5a42f89b-8a83-4e1a-81ee-35b8b59c09ab",
+  "content": "Context: 2. Applicability.-\n\n- 6-A. The format of Annual Performance Assessment Report (APAR) for the post of Joint Secretary appointed on Lateral Recruitment shall be similar to the APAR format applicable to Central Secretariat Service officers of equivalent status and the APAR of such officers may be recorded online to the extent possible. - OM, dated 19-8-2020.  \n7. Periodicity.APARs are written annually according to financial year, i.e., 1st April to 31st March (in some departments, calendar year system is\n2. still continued).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 315661,
+  "end_char": 316197,
+  "chunk_index": 826,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Applicability.-",
+    "hierarchy": "2. Applicability.-"
+  }
+}

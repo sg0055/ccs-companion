@@ -1,0 +1,26 @@
+{
+  "chunk_id": "76274507-a679-49bf-acf9-5d53e2f1093e",
+  "content": "Context: (b) Free diet.-\n\n- These orders are applicable only in respect of treatment\n- (e) procedures for which CGHS rates are available.\n- OM, dated 9-11-2017.\n- (f) The private HCOs empanelled under CGHS shall provide quality service to CGHS beneficiaries and care may be taken to avoid inconvenience, especially for the Senior Citizens, cancer patients and terminally ill patients. Private HCOs shall avoid any discrimination to CGHS beneficiaries. - OM, dated 27-9-2018.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 792824,
+  "end_char": 793298,
+  "chunk_index": 2012,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(b) Free diet.-",
+    "hierarchy": "(b) Free diet.-"
+  }
+}

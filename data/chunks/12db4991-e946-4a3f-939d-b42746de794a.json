@@ -1,0 +1,26 @@
+{
+  "chunk_id": "12db4991-e946-4a3f-939d-b42746de794a",
+  "content": "Context: 4. Regulation of DA.-\n\n15. (b) For officers whose pay in civil post is fixed after taking into account portion / full pension, the DA will be based on pay plus such pension taken into account for pay fixation. If pay plus pension exceeds the maximum pay of the post, the DA will be based on that maximum.\n16. For officers on leave, the DA will be based on the leave salary\n17. (c) plus non-ignorable part of pension.  \n\"Pension\" will be the uncommuted value of pension. - Para. (xii).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 399820,
+  "end_char": 400313,
+  "chunk_index": 1033,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Regulation of DA.-",
+    "hierarchy": "4. Regulation of DA.-"
+  }
+}

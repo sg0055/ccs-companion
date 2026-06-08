@@ -1,0 +1,26 @@
+{
+  "chunk_id": "27d404b6-64ef-46a2-82f6-3b6a9ebeff2e",
+  "content": "Context: Children Education Allowance :-\n\nReimbursement of Children Education Allowance is admissible for the first child born after failure of sterilization operation beyond two children.  \n- (c) Reimbursement as indicated above will be applicable for expen diture on the education of school going children only i.e., for children from classes nursery to twelfth, including classes eleventh and twelfth held by junior colleges or schools affiliated to Universities or Boards of Education and two years Diploma course in Polytechnic.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 875281,
+  "end_char": 875814,
+  "chunk_index": 2218,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Children Education Allowance :-",
+    "hierarchy": "Children Education Allowance :-"
+  }
+}

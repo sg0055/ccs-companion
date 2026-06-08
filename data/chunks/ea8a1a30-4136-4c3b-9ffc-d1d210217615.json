@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ea8a1a30-4136-4c3b-9ffc-d1d210217615",
+  "content": "Context: Ans.\n\n2. Calculate the maximum amount recoverable on 30-9-2023 from the salary of a Government servant against whom a Court attachment order for { 63,000 was received on 15-9-2023. Particulars of his pay, etc., are as follows:-  \nPay { 43,600 p.m. in Level 6, DA 46%.  \nHRA { 7,848; Transport Allowance { 3,600 plus DA.  \nA sum of { 2,600 p.m. was being attached from his salary for a period of 24 months till December, 2023 in satisfaction of a decree in another case.  \n| Ans. | Ans. | Ans. | Ans. | Ans. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1395316,
+  "end_char": 1395833,
+  "chunk_index": 3525,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans.",
+    "hierarchy": "Ans."
+  }
+}

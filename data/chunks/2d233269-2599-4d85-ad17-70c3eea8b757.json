@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2d233269-2599-4d85-ad17-70c3eea8b757",
+  "content": "Context: 2. Conditions.-\n\n- (b) Calculation of OTA for each day to be rounded to the nearest multiple of 5 paise. Total claim for a month to be rounded to the nearest rupee as per general orders.\n- (v) Maximum limit.OTA in a month not to exceed one-third of monthly working hours.\n- (vi) Other forms of compensation not admissible.Compensation like conveyance charges, etc., not admissible in respect of O.T. duty for which OTA is drawn. In case of recall from residence for 0.T. duty, conveyance charges/ free conveyance admissible.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 430867,
+  "end_char": 431400,
+  "chunk_index": 1108,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Conditions.-",
+    "hierarchy": "2. Conditions.-"
+  }
+}

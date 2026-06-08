@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6e4d3a1c-1bc9-4d0a-bbf1-955957e3b887",
+  "content": "Context: 3. When salary is received in arrears\n\n## 3. When salary is received in arrears  \nFor the purpose of chargeability to tax, salary includes arrears of salary received in the year, irrespective of the years to which such arrears relate, if not taxed earlier on accrual basis. However, the recipient can claim  \nrelief which is computed in the following manner:-  \n1. Calculate the tax payable on the total income, including the arrears, in the year in which the same is received A",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1338029,
+  "end_char": 1338516,
+  "chunk_index": 3389,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. When salary is received in arrears",
+    "hierarchy": "3. When salary is received in arrears"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "24e88f71-1a9e-47fa-a961-295d522d2d48",
+  "content": "Context: Revocation of Suspension\n\n## Revocation of Suspension  \nAn order of suspension made or deemed to have been made may be modified or revoked at any time by the authority who made it (or deemed to  \nhave made) or any authority to which such authority is subordinate.  \n- Rule 10 (5) (c).  \nAn order of suspension made or deemed to have been made shall not be valid after a period of ninety days unless it is extended after review, for a further period before the expiry of ninety days.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 206461,
+  "end_char": 206952,
+  "chunk_index": 539,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Revocation of Suspension",
+    "hierarchy": "Revocation of Suspension"
+  }
+}

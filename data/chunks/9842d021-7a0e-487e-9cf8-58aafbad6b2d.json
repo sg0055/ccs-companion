@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9842d021-7a0e-487e-9cf8-58aafbad6b2d",
+  "content": "Context: 3. Separate Pool for certain categories of employees\n\nDeputy Chairman, Rajya Sabha - not exceeding three units  \nJudges of Supreme Court  \nnot exceeding two units  \n- Rule 33.  \nnot exceeding seven units  \nJ  \n- (h) Allotment to doctors and paramedical staff posted to Emergency Medical Relief Units [ EMRU] of Prime Minister or VVIPs.Shall be regulated as per guidelines issued from time to time.  \n- Rule 34.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 512141,
+  "end_char": 512560,
+  "chunk_index": 1306,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Separate Pool for certain categories of employees",
+    "hierarchy": "3. Separate Pool for certain categories of employees"
+  }
+}

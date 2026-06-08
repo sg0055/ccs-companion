@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c51ad2c6-b83a-4f78-818f-97d92543b528",
+  "content": "Context: non-empanelled hospital, in case of emergency\n\n- (b) Beneficiaries may decide to use their own health insurance cards for the hospitalization. In such cases, they are eligible for dual claim as per rules where the first claim is made to the insurance company. A set of certified documents submitted I issued by the insurer may then be submitted to the Office for reimbursement as per rules. The limitation being the CGHS rates in force, and in any case, shall not exceed the total expenditure incurred.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 833675,
+  "end_char": 834186,
+  "chunk_index": 2112,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "non-empanelled hospital, in case of emergency",
+    "hierarchy": "non-empanelled hospital, in case of emergency"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e463e7bf-6a79-4a23-b032-56b27eb32a5f",
+  "content": "Context: 3. List of Classified Cities for HRA\n\n| Assam Bihar Chandigarh Delhi | ... ... ... | Guwahati (UA) Patna (UA) |\n| Chhattisgarh | ... | Chandigarh (UA), S.A.S. Nagar, Mohali** Durg-Bhilai Nagar (UA), Raipur (UA) |\n| | Delhi (UA) | ... |\n| Gujarat | Ahmedabad (UA) | Rajkot (UA), Jamnagar (UA), Bhavnagar (UA), Vadodara (UA), Surat (UA) |\n| Haryana Jammu Kashmir | ... | Faridabad*, Gurgaon (UA)* |\n| and | ... | Srinagar (UA), Jammu (UA) |\n| Jharkhand | ... | Jamshedpur (UA), Dhanbad (UA), Ranchi (UA), Bokaro Steel City (UA) |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 409787,
+  "end_char": 410323,
+  "chunk_index": 1057,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. List of Classified Cities for HRA",
+    "hierarchy": "3. List of Classified Cities for HRA"
+  }
+}

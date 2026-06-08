@@ -1,0 +1,26 @@
+{
+  "chunk_id": "74c898e2-ff8d-41f2-a873-b7402bdf18db",
+  "content": "Context: 2. Methods of Recruitment\n\nShort-term contract is also a form of deputation where officers from non-Government bodies e.g. universities, research institutions, public sector undertakings for teaching, research, scientific and technical post(s) can come to Central Government posts.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 3197,
+  "end_char": 3487,
+  "chunk_index": 8,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Methods of Recruitment",
+    "hierarchy": "2. Methods of Recruitment"
+  }
+}

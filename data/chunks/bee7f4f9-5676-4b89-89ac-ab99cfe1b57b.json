@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bee7f4f9-5676-4b89-89ac-ab99cfe1b57b",
+  "content": "Context: 6. Government servants and politics\n\n11. make a report to that effect to the Government.\n13. Associating with and participating in the activities of Dharma Parcharak Sanstha and Door Darshi Party.\n14. Government servant should not bring or attempt to bring any political or other outside influence to bear upon any superior authority to further his interests in respect of matters pertaining to his service under Government.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 122651,
+  "end_char": 123084,
+  "chunk_index": 320,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Government servants and politics",
+    "hierarchy": "6. Government servants and politics"
+  }
+}

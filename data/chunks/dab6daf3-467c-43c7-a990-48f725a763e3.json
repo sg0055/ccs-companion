@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dab6daf3-467c-43c7-a990-48f725a763e3",
+  "content": "Context: FREOUENTL Y ASKED QUESTIONS\n\nprivate airlines on L TC.  \n4. What is the time-limit for drawal of LTC advance ?  \nThe time-limit for drawal of LTC advance is 125 days for journeys by train and 65 days for journeys by other modes of transport, viz. air/ road / sea.  \n5. Can a recovery of advance be made in instalments? No.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 680851,
+  "end_char": 681182,
+  "chunk_index": 1729,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "FREOUENTL Y ASKED QUESTIONS",
+    "hierarchy": "FREOUENTL Y ASKED QUESTIONS"
+  }
+}

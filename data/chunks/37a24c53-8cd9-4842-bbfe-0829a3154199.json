@@ -1,0 +1,26 @@
+{
+  "chunk_id": "37a24c53-8cd9-4842-bbfe-0829a3154199",
+  "content": "Context: 29. Postaf Tariff and Savi:ngs Schemes\n\n| (ii) | 51 grams to 200 grams | | 30 | 41 | 47 | 71 | 83 |\n| (iii) | 201 | grams to 500 grams | 35 | 59 | 71 | 94 | 106 |\n| (iv) | 501 grams to 1000 grams | | 47 | 77 | 106 | 142 | 165 |\n| (v) | 1001 grams to 1500 grams | | 59 | 94 | 142 | 189 | 224 |\n| (vi) | 1501 grams | to 2000 grams | 71 | 112 | 177 | 236 | 283 |\n| (vii) | 2001 grams to 2500 grams | | 83 | 130 | 212 | 283 | 342 |\n| (viii) | | | 94 | 148 | | 330 | 401 |\n| (ix) | 2501 grams to 3000 grams | | 106 | | 248 | 378 | 460 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1381574,
+  "end_char": 1382114,
+  "chunk_index": 3490,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "29. Postaf Tariff and Savi:ngs Schemes",
+    "hierarchy": "29. Postaf Tariff and Savi:ngs Schemes"
+  }
+}

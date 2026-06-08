@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8d757312-d56b-4934-b270-a487c01ed318",
+  "content": "Context: 1. T.A. and Joining Time\n\nNo joining time is admissible.  \nJourney time in excess of 2 days is allowed as joining time.  \n- remote locality.-\n- (b) If the place of posting in the Region is a\n- (i) Period of travel from the remote locality to the specified station.\n- (ii)  \nJourney time as prescribed is allowed as free joining time.  \n- Period of travel from the specified station to a place outside the Region.  \nJourney time in excess of 2 days is allowed as additional joining time.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 942464,
+  "end_char": 942959,
+  "chunk_index": 2381,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. T.A. and Joining Time",
+    "hierarchy": "1. T.A. and Joining Time"
+  }
+}

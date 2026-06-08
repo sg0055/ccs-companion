@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5fc1e312-e634-441d-944d-b02098d5e058",
+  "content": "Context: (vii) Timing restrictions.-\n\n## (vii) Timing restrictions.-  \n| Length of absence | Amount Payable |\n| ---------------------------------------------------- | ------------------------ |\n| If absence from headquarters is < 6 hours | 30% of Lumpsum amount |\n| If absence from headquarters is between 6-12 hours | 70% of Lumpsum amount |\n| If absence from headquarters is > 12 hours | 100% of Lumpsum amount |  \nAbsence from Headquarter will midnight and will be calculated on a per day basis.  \nbe reckoned from midnight to -GIO (1), SR 71.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 697913,
+  "end_char": 698459,
+  "chunk_index": 1777,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(vii) Timing restrictions.-",
+    "hierarchy": "(vii) Timing restrictions.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1b8fe557-3907-423b-bfb9-f60c8cc6526b",
+  "content": "Context: 3. Reservation for Economically Weaker Sections (EWSs)\n\n5. assets, irrespective of the family income:-\n6. 5 acres of agricultural land and above [ Property held in different\n7. and above;\n1. places/ cities would be clubbed];\n2. Residential flat and commercial property of 1000 sq ft.\n10. Residential plot of 100 sq. yards and above in notified\n3. municipalities;\n12. Residential plot of 200 sq. yards and above in areas other than\n4. the notified municipalities.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 34359,
+  "end_char": 34830,
+  "chunk_index": 88,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Reservation for Economically Weaker Sections (EWSs)",
+    "hierarchy": "3. Reservation for Economically Weaker Sections (EWSs)"
+  }
+}

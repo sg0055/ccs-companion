@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3b78bb54-2670-4f42-bfa3-e61be793b7bd",
+  "content": "Context: Medical claims requiring opinion of specialists\n\n- (ii) Heads of Departments of Ministries/Departments can accord post facto approval/ permission in genuine cases, where a Government servant or his family members have gone directly to an empanelled institution after due prescription by a Government specialist but without obtaining prior permission from his/her Ministry/Department and the reimbursement in such cases has to be limited to financial ceilings and procedures outlined in O.M., dated 27-12-2006 (5/. No. (xii) under Para. 7 above). - OM, dated",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 815167,
+  "end_char": 815733,
+  "chunk_index": 2070,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Medical claims requiring opinion of specialists",
+    "hierarchy": "Medical claims requiring opinion of specialists"
+  }
+}

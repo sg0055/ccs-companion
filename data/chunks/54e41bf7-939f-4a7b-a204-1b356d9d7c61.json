@@ -1,0 +1,26 @@
+{
+  "chunk_id": "54e41bf7-939f-4a7b-a204-1b356d9d7c61",
+  "content": "Context: Normal rate:\n\n## Normal rate:  \n30% of Pay in Pay Matrix at Level 8  \n~ 74,300 x 3 o/ioo = ~ 22,290 p.m. subject to a minimum of ~ 9,000 p.m.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1443830,
+  "end_char": 1443980,
+  "chunk_index": 3646,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Normal rate:",
+    "hierarchy": "Normal rate:"
+  }
+}

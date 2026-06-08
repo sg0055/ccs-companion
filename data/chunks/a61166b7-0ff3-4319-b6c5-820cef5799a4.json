@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a61166b7-0ff3-4319-b6c5-820cef5799a4",
+  "content": "Context: AREAS INCLUDED IN PART 'C'\n\n| 1. Chamba District (a) Jhandru Panchayat in Bhartiyat Tehsil. (b) Churah Tehsil (c) Dalhousie Town (including Banikhet proper) 2. Kullu District (a) Outer Seraj (excluding Villages of Jakat-Khana and Burow in Nirmand Tehsil). (b) Entire District (excluding Outer Seraj area and Pargana of Pandrabis but including villages Jakat-Khana and Burao of Tehsil Nirmand). 3. Mandi District (a) Chhuhar Valley (Jogindernagar Tehsil). (b) Following Panchayats in Thunag Tehsil: Bagraa, Chhatri, Chhotdhar, Garagushain,",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 483924,
+  "end_char": 484471,
+  "chunk_index": 1239,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "AREAS INCLUDED IN PART 'C'",
+    "hierarchy": "AREAS INCLUDED IN PART 'C'"
+  }
+}

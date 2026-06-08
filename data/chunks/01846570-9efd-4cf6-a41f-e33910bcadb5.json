@@ -1,0 +1,26 @@
+{
+  "chunk_id": "01846570-9efd-4cf6-a41f-e33910bcadb5",
+  "content": "Context: 2. Applicability.-\n\n4. History Sheet.-A History Sheet in the prescribed form to be placed at the bottom of the APAR folder. In the case of Group 'A' officers, passport size photograph to be affixed at the right hand top corner of History Sheet. History Sheet will contain all the details of the officer concerned, viz., name, age, qualifications, record of service, etc. Any changes occurring after completion of History Sheet to be promptly added.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 313746,
+  "end_char": 314203,
+  "chunk_index": 821,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Applicability.-",
+    "hierarchy": "2. Applicability.-"
+  }
+}

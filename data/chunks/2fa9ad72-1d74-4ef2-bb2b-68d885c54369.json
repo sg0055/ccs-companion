@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2fa9ad72-1d74-4ef2-bb2b-68d885c54369",
+  "content": "Context: Calculate the interest on GPF with the following particulars.-\n\n## Calculate the interest on GPF with the following particulars.-  \n- (i) Closing balance as on 31-3-2023\n- (ii) Monthly subscription\n- (iii) Rate of interest\n- (iv) Taken an advance of f 10,000 during June, 2022 recoverable in 20 equal instalments\n- (v) Taken an advance of f 6,000 during June, 2023 recoverable in 10 equal instalments including the outstanding advance.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1398089,
+  "end_char": 1398533,
+  "chunk_index": 3532,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Calculate the interest on GPF with the following particulars.-",
+    "hierarchy": "Calculate the interest on GPF with the following particulars.-"
+  }
+}

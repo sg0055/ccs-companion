@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5c15c8d4-afa6-48cf-b0ec-88b03f9284f4",
+  "content": "Context: - OM, dated 6-4-201'8.\n\n- (i) With effect from 19-1-2012.Minor children of widowed/separated daughters who are residing with and dependent upon CGHS beneficiary are also eligible for medical facilities up to the age of 18 years (i.e.) the age of their becoming major. - OM, dated 19-1-2012.\n- (ii) Income limit for dependants with effect from 8-11-2016.The income limit for the purpose of dependency for members of family (other than spouse) is ~ 9,000 per month plus the amount of Dearness Relief",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 765618,
+  "end_char": 766124,
+  "chunk_index": 1944,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- OM, dated 6-4-201'8.",
+    "hierarchy": "- OM, dated 6-4-201'8."
+  }
+}

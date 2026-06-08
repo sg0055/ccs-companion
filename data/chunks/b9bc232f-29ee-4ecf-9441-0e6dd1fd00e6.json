@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b9bc232f-29ee-4ecf-9441-0e6dd1fd00e6",
+  "content": "Context: Limits:\n\n## Limits:  \n1. Items 1, 2 and 4.standing at credit, whichever is less.\n2. without Rule 15 (1) (B).\n3. Up to 12 months' pay or three-fourth of the amount\n4. Up to 90% of the amount standing at credit.\n2. Item 3.-\n3. Items 5 to 10.-\n7. Subscriber may be allowed to withdraw up to 90% of the amount\n8. (a) standing at credit.\n9. (b) The condition of depositing back the amount withdrawn for a house, which has been sold subsequently has been done away with.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 566752,
+  "end_char": 567225,
+  "chunk_index": 1445,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Limits:",
+    "hierarchy": "Limits:"
+  }
+}

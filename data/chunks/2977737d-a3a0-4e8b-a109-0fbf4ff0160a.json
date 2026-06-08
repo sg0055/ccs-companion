@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2977737d-a3a0-4e8b-a109-0fbf4ff0160a",
+  "content": "Context: 1. Definition of Goods\n\nThe term 'goods' includes all articles tangible like material, commodity, furniture, a group of machineries comprising of an integrated production process or such other category of goods or intangible products like software, technology transfer, licenses, patents or other intellectual properties purchased or otherwise acquired for the use of Government but excludes books, publications, periodicals, etc. for a library. It also includes works and services which are incidental or consequential to the supply",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 954988,
+  "end_char": 955530,
+  "chunk_index": 2416,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Definition of Goods",
+    "hierarchy": "1. Definition of Goods"
+  }
+}

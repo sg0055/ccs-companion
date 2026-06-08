@@ -1,0 +1,26 @@
+{
+  "chunk_id": "baa8e703-a5f1-49fe-b756-751e8ca80680",
+  "content": "Context: ExcEPTIONS:-\n\n- (d) The resignation was not tendered with a view to take up an appointment in a private commercial company or under a corporation, company, body, controlled or financed by the Government.\n- (e) The period of absence from duty between relief on resignation and resumption of duty, is not more than 90 days. - Rule 26 ofSwamy's Pension Compilation.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1026218,
+  "end_char": 1026589,
+  "chunk_index": 2601,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "ExcEPTIONS:-",
+    "hierarchy": "ExcEPTIONS:-"
+  }
+}

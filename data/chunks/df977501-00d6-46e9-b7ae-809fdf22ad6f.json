@@ -1,0 +1,26 @@
+{
+  "chunk_id": "df977501-00d6-46e9-b7ae-809fdf22ad6f",
+  "content": "Context: 1.\n\n- (ii) constitute an expert committee with representation of persons · with benchmark disabilities for identification of such posts;\n- (iii) undertake periodic review of the identified posts at an interval not exceeding three years. - Section 33, Rights of PwD Act, 2016.  \nPUB",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 52572,
+  "end_char": 52862,
+  "chunk_index": 136,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1.",
+    "hierarchy": "1."
+  }
+}

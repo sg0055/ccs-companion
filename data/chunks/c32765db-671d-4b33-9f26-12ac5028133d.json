@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c32765db-671d-4b33-9f26-12ac5028133d",
+  "content": "Context: 7. Advance payment to supplier\n\n## 7. Advance payment to supplier  \n\" Payments for services rendered or supplies made can ordinarily be released only after the services l:iave been rendered or supplies made. It may become necessary to make advance payments in the following types of cases :-  \n- (i) Advance payment demanded by firms holding maintenance contracts for servicing of Air-conditioners, computers, other costly equipment, etc. .\n- Advance payment demanded by firms against fabrication contracts,\n- (ii) turnkey contracts etc.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 966136,
+  "end_char": 966682,
+  "chunk_index": 2450,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Advance payment to supplier",
+    "hierarchy": "7. Advance payment to supplier"
+  }
+}

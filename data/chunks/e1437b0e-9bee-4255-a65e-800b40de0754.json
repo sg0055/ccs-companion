@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e1437b0e-9bee-4255-a65e-800b40de0754",
+  "content": "Context: 6. Medical Advance\n\nAdvance paid to the official is to be adjusted against the relevant claim and balance, if any, recovered from pay in four instalments. In cases of prolonged treatment, reimbursement may continue to be allowed on the basis of necessary certificate in this regard, the  \nAdjustment of advance.advance being adjusted in the final claim.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 860762,
+  "end_char": 861124,
+  "chunk_index": 2178,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Medical Advance",
+    "hierarchy": "6. Medical Advance"
+  }
+}

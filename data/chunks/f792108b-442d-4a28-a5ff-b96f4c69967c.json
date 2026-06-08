@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f792108b-442d-4a28-a5ff-b96f4c69967c",
+  "content": "Context: 1. Income from Salary\n\n- (e) Contribution up to e 1,50,000 per annum to the new pension fund introduced by the LIC or any other insurer notified by the Central · Government. - Section 80-CCC\n- (f) (i) Contribution to the account under a Pension Scheme notified by the Central Government as does not exceed-\n- (a) in the case of an employee, 10% of his salary;\n- 14%, where such contribution is made by the Central/\n- (b) State Government;\n- (c) in any other case, 20% of gross total income.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1321344,
+  "end_char": 1321843,
+  "chunk_index": 3348,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Income from Salary",
+    "hierarchy": "1. Income from Salary"
+  }
+}

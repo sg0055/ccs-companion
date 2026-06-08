@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c9e25daa-6082-483b-9a8a-3340d793ce75",
+  "content": "Context: (b) Free diet.-\n\n- (a) CGHS beneficiaries are allowed to undergo treatment at private hospitals empanelled under CGHS of specific treatment procedures listed under CGHS rate list as advised by a Specialist in a Central Government/ State Government Specialist hospital or a CGHS Medical Officer without any requirement of any other referral (permission) letter.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 791405,
+  "end_char": 791774,
+  "chunk_index": 2009,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(b) Free diet.-",
+    "hierarchy": "(b) Free diet.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d430f4b5-2144-419b-886a-7b080cd8de73",
+  "content": "Context: 7. T .A. for medical attendance and treatment\n\n3. Special provision.Refund of air fare paid in individual cases will be considered on merits if Governrn:ent is satisfied that air travel was absolutely essential and that travel 'by any other means would have definitely en dangered the -l'ifo 'of the patient/ involved a risk of serious aggravation of :his nonditlon. Patients from Imphal and .other .similarlv placed stations and Tripura referred for treatment to Kolkata .and back are eligible for air travel facility.. - Appendix - V11.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 863570,
+  "end_char": 864117,
+  "chunk_index": 2186,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. T .A. for medical attendance and treatment",
+    "hierarchy": "7. T .A. for medical attendance and treatment"
+  }
+}

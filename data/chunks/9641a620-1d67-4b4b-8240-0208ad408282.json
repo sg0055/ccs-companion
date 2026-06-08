@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9641a620-1d67-4b4b-8240-0208ad408282",
+  "content": "Context: Outside India also-\n\n5. Cost of CPAP Machine and BIPAP Machine for domiciliary use of\n8. beneficiaries subject to the prescribed conditions.\n- GID (24), Rule 8.\n8. Cost of Neuro-lmplants viz., Deep Brain Stimulation Implants, lntra-thecal Beclofen Pump, lntra-thecal Morphine Pump, Spinal Cord Stimulators.\n- GIDs (25), (25-A), (26), (26-B), (26-C) and (26-0), Rule 8.\n10. Cost of cochlear implant subject to prescribed conditions.\n- GID (27), Rule 8.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 843577,
+  "end_char": 844037,
+  "chunk_index": 2137,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Outside India also-",
+    "hierarchy": "Outside India also-"
+  }
+}

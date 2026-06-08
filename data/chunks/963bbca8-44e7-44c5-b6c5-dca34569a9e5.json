@@ -1,0 +1,26 @@
+{
+  "chunk_id": "963bbca8-44e7-44c5-b6c5-dca34569a9e5",
+  "content": "Context: (xiv) Simplification of referral system»\n\n| ---------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------- |\n| Additional-Director, CGHS of City/Zone | 7,00,000 | 7,00,000 | 1,00,000 |\n| Director, CGHS | 15,00;000 | 15,00,000 | 1,50,000 |\n| Additional Secretary and DG, CGHS | 25,00,000 | 25,00,000 | 1,50,000 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 804359,
+  "end_char": 804835,
+  "chunk_index": 2040,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(xiv) Simplification of referral system»",
+    "hierarchy": "(xiv) Simplification of referral system»"
+  }
+}

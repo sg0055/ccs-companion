@@ -1,0 +1,26 @@
+{
+  "chunk_id": "373c815d-3e25-433a-9d5e-7fc80ac1da80",
+  "content": "Context: 1. House Building Advance\n\n## 1. House Building Advance  \nA Government servant drawing a basic pay of {31,100 was sanctioned an advance of { 9,00,000 which was paid in two instalments in March, 2023 and August, 2023. The advance to be repaid in 100 instalments of { 9,000 each. Rate of interest 7.1% per annum. Recovery of the advance commenced from the pay of January, 2024. If the official wants to repay the advance with interest on 25-4-2025, calculate the amount payable by the official.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1427740,
+  "end_char": 1428241,
+  "chunk_index": 3607,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. House Building Advance",
+    "hierarchy": "1. House Building Advance"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "08674ed1-7e1f-48e1-badc-8e53cc759c74",
+  "content": "Context: (i) DA on Tour.-\n\n- (iii) Reimbursement of Taxes / GST.The entitlement prescribed in respect of hotel accommodation/Guest House is exclusive of all Taxes/ GST. Taxes will be reimbursed over and above the entitlement, calculated on the actual charges paid within the entitlement. -GIO (1-8), SR 51.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 695783,
+  "end_char": 696089,
+  "chunk_index": 1771,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(i) DA on Tour.-",
+    "hierarchy": "(i) DA on Tour.-"
+  }
+}

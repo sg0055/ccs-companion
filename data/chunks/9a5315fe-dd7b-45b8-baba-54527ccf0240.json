@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9a5315fe-dd7b-45b8-baba-54527ccf0240",
+  "content": "Context: 20. Pension through Public Sector Banks / Post Office Savings Bank\n\n- (f) Pensioners can also submit Life Certificates using the Face Authentication technology system based on UIDAI Aadhaar software whereby a Digital Life Certificate is generated from any Android-based smart phone by capturing the live photograph of the pensioner for online submission on the Jeevan Pramaan mobile application.OM, dated 30-9-2022.\n- (iv) Non-employment or employment / re-employment certificate in the month of November each year.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1143006,
+  "end_char": 1143530,
+  "chunk_index": 2899,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "20. Pension through Public Sector Banks / Post Office Savings Bank",
+    "hierarchy": "20. Pension through Public Sector Banks / Post Office Savings Bank"
+  }
+}

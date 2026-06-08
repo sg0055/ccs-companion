@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5523b977-09d2-4f74-a2cc-2e808451ce55",
+  "content": "Context: (15 points)\n\n3. (i) reservation to be kept within the prescribed percentage and (ii) reservation not to exceed 50% of the cadre.\n- (3) The number of points in each roster will be equal to the number of points in the cadre. As and when cadre strength is increased or decreased, the roster will be expanded or contracted.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 43501,
+  "end_char": 43829,
+  "chunk_index": 112,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(15 points)",
+    "hierarchy": "(15 points)"
+  }
+}

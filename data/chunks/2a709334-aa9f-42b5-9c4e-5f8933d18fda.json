@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2a709334-aa9f-42b5-9c4e-5f8933d18fda",
+  "content": "Context: (b) Free diet.-\n\n- A photocopy of prescription from Government Hospital\n- Specialist/CGHS specialist.\n- Permission given should be strictly for a procedure and not No permission is required in case of emergency, where the beneficiary can avail treatment in a private\n- (iii) for general management. empanelled hospital, as per existing instructions.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 787360,
+  "end_char": 787718,
+  "chunk_index": 2000,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(b) Free diet.-",
+    "hierarchy": "(b) Free diet.-"
+  }
+}

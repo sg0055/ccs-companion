@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2ea8a4cb-eba6-4ab4-885b-e86f7863def2",
+  "content": "Context: .. Holidays\n\n- If the change has to be notified at a very short notice, it could be announced through PIS/AIR/TV/Newspaper and the Central Government offices may take action accordingly without waiting\n- (iii) for formal orders about the change of date.\n- Order (2), Appendix-Ill.  \nThe date may be changed to the date of holiday - Order (2), Appendix-Ill.  \nDiwali (Deepavali).declared by the concerned State Government.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1298723,
+  "end_char": 1299153,
+  "chunk_index": 3295,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": ".. Holidays",
+    "hierarchy": ".. Holidays"
+  }
+}

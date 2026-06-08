@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e9f9edf4-381f-49e1-9488-72f054b45b17",
+  "content": "Context: 11. Letters of Appreciation\n\n2. Letters of appreciation issued in the following cases by the authorities specified therein, may, however, be kept in the APAR Dossier of the\n3. Government servants concerned:-\n4. (a) Issued by the Government or a Secretary or Head of Department in respect of any outstanding work done.\n5. (b) Issued by special Bodies or Commissions or Committees, etc., or excerpts of their reports expressing appreciation for a Government servant by name.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 334768,
+  "end_char": 335249,
+  "chunk_index": 871,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Letters of Appreciation",
+    "hierarchy": "11. Letters of Appreciation"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "572531d9-9bb3-4574-a5ec-9c832f746fb7",
+  "content": "Context: 1. Eligibility\n\nThe officials, who opt for AILTC facility, would be issued a \"Privilege Pass Surrender Certificate\" (PPSC) i.e. a prerequisite for availing AILTC. The \"Pass Issuing Authority\" (PIA) shall issue the PPSC. - GID (3), Rule 1.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 646289,
+  "end_char": 646536,
+  "chunk_index": 1642,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Eligibility",
+    "hierarchy": "1. Eligibility"
+  }
+}

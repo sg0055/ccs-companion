@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c7c70891-e578-4dfa-b2f9-3e978a4a7a7b",
+  "content": "Context: 1. General Provident Fund\n\n3. Amount of subscription.A sum (in whole rupees) as fixed by the subscriber, subject to a minimum of 6 per cent of emoluments and not more than his total emoluments. - Rule 8 (1).\n4. \"Emoluments\" means pay, leave salary and any remuneration of the nature of pay received in foreign service. Does not include DA.  \n- Rule 2 (1) (b}.  \n- NOTE.Whole or part of the bonus amount (ad hoc or productivity linked) may be deposited in the Provident Fund. - GID (2), Rule 7.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 559255,
+  "end_char": 559757,
+  "chunk_index": 1425,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Provident Fund",
+    "hierarchy": "1. General Provident Fund"
+  }
+}

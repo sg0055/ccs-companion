@@ -1,0 +1,26 @@
+{
+  "chunk_id": "af75de73-026f-48e1-9b9c-1ea48d56cea3",
+  "content": "Context: (a) Calculation of Barned Leave and Ha1if 'Pay Leave\n\n| 1-2-2021 to 15-3-2021 | 1-2-2021 to 15-3-2021 | | 44 | 23 |\n| Credit 1-7-2021 | Credit 1-7-2021 | 10 | | 33 |\n| Commuted leave from 20-9-2021 | Commuted leave from 20-9-2021 | | 30 | 3 |\n| Credit 1-1-2022 (10 days less Vis th of 19 days Dies non) 10 - 1.06 = 8.94 rounded to 9 days | Credit 1-1-2022 (10 days less Vis th of 19 days Dies non) 10 - 1.06 = 8.94 rounded to 9 days | 9 | | 12 |\n| Credits | 1-7-2022 · 1-1-2023 } 1-7-2023 :, . · 1-1-2024 (5 X 10) 1-7-2024 | so | | 62 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1404260,
+  "end_char": 1404805,
+  "chunk_index": 3547,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(a) Calculation of Barned Leave and Ha1if 'Pay Leave",
+    "hierarchy": "(a) Calculation of Barned Leave and Ha1if 'Pay Leave"
+  }
+}

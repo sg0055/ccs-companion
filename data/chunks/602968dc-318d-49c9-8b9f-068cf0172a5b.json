@@ -1,0 +1,26 @@
+{
+  "chunk_id": "602968dc-318d-49c9-8b9f-068cf0172a5b",
+  "content": "Context: 1. Admissibility.-\n\n- Rule 50 (3).  \n6. Limitation.When an award of family pension under the EoP Rules, 1939 is authorized, no family pension shall be payable during the currency of award.  \nThe family pension payable shall not be subject to any limitation with reference to the family pension admissible to a member of the family in respect of the same Government servant or pensioner for the service rendered by him in any other organization, including the service rendered in the armed forces. - Rule SO (5).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1107310,
+  "end_char": 1107830,
+  "chunk_index": 2807,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Admissibility.-",
+    "hierarchy": "1. Admissibility.-"
+  }
+}

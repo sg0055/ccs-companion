@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1eb068f0-14d4-492a-adca-7f8070e55bff",
+  "content": "Context: 5. Reinstatement\n\n4. termination of the proceedings against him.\n- (4) When minor penalty is awarded.\n- (5) If detention under a law providing for preventive detention is held\n7. by the Competent Authority to be unjustified.\n- (6) In case of deemed suspension on grounds of detention found to be\n9. erroneous and no prosecution is launched.\n- (7) In case of arrest for debt, if the liability is proved to be due to\n11. circumstances beyond the official's control.\n- (8) Official's death while under suspension.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 212297,
+  "end_char": 212816,
+  "chunk_index": 556,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Reinstatement",
+    "hierarchy": "5. Reinstatement"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1afdda63-0d5c-4cb9-ab66-0a89adb50408",
+  "content": "Context: Terms and conditions:\n\nIn case of direct air travel by a non-entitled Government employee on LTC from his Headquarters to the place of visit in NER / J&amp;K / Ladakh / A&amp;N, reimbursement shall be regulated to the entitled class rail fare from the Headquarters / place of posting to the nearest relevant railhead Chennai / Visakhapatnam) based on the place of visit (in NER / J&amp;K / A&amp;N) + Economy class air fare from the J&amp;K / Ladakh / A&amp;N or the actual",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 663324,
+  "end_char": 663806,
+  "chunk_index": 1685,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Terms and conditions:",
+    "hierarchy": "Terms and conditions:"
+  }
+}

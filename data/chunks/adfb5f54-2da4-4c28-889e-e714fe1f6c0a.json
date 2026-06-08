@@ -1,0 +1,26 @@
+{
+  "chunk_id": "adfb5f54-2da4-4c28-889e-e714fe1f6c0a",
+  "content": "Context: 6. Not granted.-\n\n13. Leave Salary.(a) Outside India: Pay last drawn plus Dearness Allowance and House Rent Allowance; (b) In India: Leave salary will be equal to pay last drawn plus Dearness Allowance and House Rent Allowance. No Study Allowance admissible. Stipend, scholarship or remuneration for any part-time employment during the period of study leave should be adjusted against the leave salary subject to the condition that the leave salary will not be less than that admissible during half pay leave. - Rule 56 (1) and",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 618833,
+  "end_char": 619369,
+  "chunk_index": 1573,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Not granted.-",
+    "hierarchy": "6. Not granted.-"
+  }
+}

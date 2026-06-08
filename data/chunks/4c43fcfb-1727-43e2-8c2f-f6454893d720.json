@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4c43fcfb-1727-43e2-8c2f-f6454893d720",
+  "content": "Context: - Section 80-D\n\n- Section 139-AA  \nRequirement to furnish Permanent Account Number.The deductee shall furnish his Permanent Account Number to the deductor, failing which tax shall be deducted at the higher rates as specified in this section.  \n- Section 206-AA  \nTaxable income is arrived at by subtracting the above admissible deductions from the total income and is rounded off to the multiple of ten rupees, rupees five and above being rounded off to the next higher ten rupees. - Section 288-A",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1330880,
+  "end_char": 1331386,
+  "chunk_index": 3370,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- Section 80-D",
+    "hierarchy": "- Section 80-D"
+  }
+}

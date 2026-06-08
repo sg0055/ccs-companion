@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b74c3591-3caf-4577-9c89-141352e2f495",
+  "content": "Context: 20. Pension through Public Sector Banks / Post Office Savings Bank\n\n5. There have been complaints that life certificate submitted over the counter of pension paying branches are misplaced causing delay in payment of monthly pension. In order to alleviate the hardship faced by pensioners, agency banks are instructed to mandatorily issue duly signed acknowledgements. They were also advised to consider entering the receipt of life certificate in CBS and issue a system-generated acknowledgements which would serve the twin purpose of acknowledgement as well as real time",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1146238,
+  "end_char": 1146818,
+  "chunk_index": 2906,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "20. Pension through Public Sector Banks / Post Office Savings Bank",
+    "hierarchy": "20. Pension through Public Sector Banks / Post Office Savings Bank"
+  }
+}

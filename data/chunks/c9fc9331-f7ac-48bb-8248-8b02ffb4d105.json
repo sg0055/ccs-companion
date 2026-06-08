@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c9fc9331-f7ac-48bb-8248-8b02ffb4d105",
+  "content": "Context: 4. Commutation of Pension\n\n## 4. Commutation of Pension  \nFormula.Amount to be commuted x Commutation value x 12.  \n. Commutation Value for different ages is given in a Table under the · CCS (Commutation of Pension) Rules (with effect from 1-1-2006).  \nAn official retires with a pension of ~ 57,000. The maximum amount that he can commute is 40% of his pension, i.e., ~ 22,800 ignoring the balance which is in fraction. The commutation amount will be as follows . a~cording to his age next birthday:-",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1441636,
+  "end_char": 1442146,
+  "chunk_index": 3640,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Commutation of Pension",
+    "hierarchy": "4. Commutation of Pension"
+  }
+}

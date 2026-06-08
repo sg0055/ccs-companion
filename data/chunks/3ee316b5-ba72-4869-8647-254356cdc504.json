@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3ee316b5-ba72-4869-8647-254356cdc504",
+  "content": "Context: in same or different department\n\nIf a Government servant is appointed to another post by direct recruitment either in the same department or a different department, it may be necessary to consider him for confirmation in the new post in which he has been appointed by direct recruitment irrespective of the fact that the officer was holding the earlier post on a substantive basis. Confirmation in the new entry grade becomes necessary because the new post may not be in the same line or discipline and the job requirements may be quite",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 6860,
+  "end_char": 7405,
+  "chunk_index": 20,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "in same or different department",
+    "hierarchy": "in same or different department"
+  }
+}

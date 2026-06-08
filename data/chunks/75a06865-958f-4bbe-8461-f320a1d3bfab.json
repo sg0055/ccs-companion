@@ -1,0 +1,26 @@
+{
+  "chunk_id": "75a06865-958f-4bbe-8461-f320a1d3bfab",
+  "content": "Context: NOTE:\n\n- (i) any offence or conduct involving moral turpitude;\n- {ii) corruption, embezzlement or misappropriation of Govern ment money, possession of disp.roportionate assets, misuse of official powers for personal gain;  \n- serious negligence and dereliction of duty resulting in\n- (iii) considerable loss to Government;\n- (iv)\n- desertion of duty;",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 190073,
+  "end_char": 190432,
+  "chunk_index": 486,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "NOTE:",
+    "hierarchy": "NOTE:"
+  }
+}

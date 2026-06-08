@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bc1350e9-63f9-4242-80a5-22ad68594798",
+  "content": "Context: ln ,India orily~-\n\n11. ·Blood,and blood transfusion charges.\n12. 'Dental'treatmenr-; (only in Government hospitals, private recognized .hospitals) Surgical operations needed for removal of Odontomes -arrd.impacted wisdom-tooth; Treatment of gum boils; Extraction.  \n'Scaling.and gum treatment including Pyorrhoea and Gingivitis, Fillingeafueeth (cost of denture reimbursable), Root canal treatment.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 837879,
+  "end_char": 838286,
+  "chunk_index": 2123,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "ln ,India orily~-",
+    "hierarchy": "ln ,India orily~-"
+  }
+}

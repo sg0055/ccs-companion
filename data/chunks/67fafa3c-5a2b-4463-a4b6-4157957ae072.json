@@ -1,0 +1,26 @@
+{
+  "chunk_id": "67fafa3c-5a2b-4463-a4b6-4157957ae072",
+  "content": "Context: 1. Admissibility.-\n\n5. Additional Family Pension.Additional Family Pension is payable on attaining the age of 80 years and above. The additional family pension will be admissible from the 1st day of the month in which the date of birth falls, i.e., only on completion of the age of 80 years and so on.  \n| Age of family pensioner | Additional family pension |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1106099,
+  "end_char": 1106467,
+  "chunk_index": 2804,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Admissibility.-",
+    "hierarchy": "1. Admissibility.-"
+  }
+}

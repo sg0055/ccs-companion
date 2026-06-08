@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d2c33f5d-56a4-4dc8-ae04-be92557255b1",
+  "content": "Context: 3. Seniority of reverted and promoted officers\n\n- 3.2. Reversion without future Increment postponement.If the reduction is for a specified period and does not affect future increments, the Government servant's seniority upon re-promotion may be fixed as if the reduction had not occurred.\n- 3.3. Reversion with future Increment postponement.If the reduction is for a specified period and affects future increments, the Government servant's seniority upon re-promotion may be fixed by considering the period of service rendered in the higher grade.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 287746,
+  "end_char": 288302,
+  "chunk_index": 752,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Seniority of reverted and promoted officers",
+    "hierarchy": "3. Seniority of reverted and promoted officers"
+  }
+}

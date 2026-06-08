@@ -1,0 +1,26 @@
+{
+  "chunk_id": "413716e6-c050-4194-af69-9819e30f9c42",
+  "content": "Context: 11. Conditions.-\n\n| (iii) | If distance between examination centre and office and examination centre and residence both exceed 8 km. | T.A. admissible under SR 130. |  \n14. Conveyance charges for attending Hindi examination while on leave.T.A. under SR 130 admissible if office and residence are at a distance of more than 8 km from examination centre. In other cases, conveyance charges by public conveyance allowed, if distance between examination centre and the office/ residence is more than 1.6 km.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1261871,
+  "end_char": 1262383,
+  "chunk_index": 3201,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Conditions.-",
+    "hierarchy": "11. Conditions.-"
+  }
+}

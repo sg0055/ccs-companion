@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1af33157-5617-45a2-8ac1-b37bb23b8301",
+  "content": "Context: 1. Income from Salary\n\nRent-free accommodation.If the employee is living in a rent-free accommodation (unfurnished), an amount equal to the licence fee which would have been paid by an official of similar status not entitled to rent-free accommodation should be added to the salary. If the accommodation is furnished, there will be a further addition equal to 10 per cent per annum of the original cost of furniture provided or act ual hire charges payable, if such furniture is hired from a third party. Bogioadue (vix",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1317794,
+  "end_char": 1318322,
+  "chunk_index": 3341,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Income from Salary",
+    "hierarchy": "1. Income from Salary"
+  }
+}

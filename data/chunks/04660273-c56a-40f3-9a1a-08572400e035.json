@@ -1,0 +1,26 @@
+{
+  "chunk_id": "04660273-c56a-40f3-9a1a-08572400e035",
+  "content": "Context: 5. Benefits on Retirement\n\n1. The notice of voluntary retirement shall require acceptance by the Appointing Authority.\n2. Subscriber, may withdraw his notice with the specific approval of such authority if the request for withdrawal is made at least fifteen\n2. days before the intended date of his retirement.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1169616,
+  "end_char": 1169934,
+  "chunk_index": 2971,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Benefits on Retirement",
+    "hierarchy": "5. Benefits on Retirement"
+  }
+}

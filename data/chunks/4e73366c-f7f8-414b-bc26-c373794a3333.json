@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4e73366c-f7f8-414b-bc26-c373794a3333",
+  "content": "Context: 2009-10.-\n\n## 2009-10.-  \n- (i) Overall assessment to reflect the pen picture of the officer reported upon by the Reporting Officer to be done in a box in the APAR. A column is added in the section relating to the Reviewing Authority for giving his remarks on the pen picture reflected by the Reporting Officer.\n- (ii) Reviewing Officer to indicate specifically the differences, if any, with the Reporting Officer along with reasons in the APAR.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 317463,
+  "end_char": 317917,
+  "chunk_index": 832,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2009-10.-",
+    "hierarchy": "2009-10.-"
+  }
+}

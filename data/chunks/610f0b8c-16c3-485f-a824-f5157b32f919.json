@@ -1,0 +1,26 @@
+{
+  "chunk_id": "610f0b8c-16c3-485f-a824-f5157b32f919",
+  "content": "Context: 8. Revised procedure from 1-4-2009\n\n7. The Competent Authority for considering adverse remarks under the existing instructions may consider the representation in consultation with the Reporting/ Reviewing Officer.  \n8. He shall decide the matter objectively based on the material placed.\n9. This work should be completed within a period of thirty days from the\n3. date of representation.\n10. The Competent Authority after due consideration may reject / accept/ modify the APAR accordingly.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 326786,
+  "end_char": 327284,
+  "chunk_index": 853,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Revised procedure from 1-4-2009",
+    "hierarchy": "8. Revised procedure from 1-4-2009"
+  }
+}

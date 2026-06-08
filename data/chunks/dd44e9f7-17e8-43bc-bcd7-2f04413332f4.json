@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dd44e9f7-17e8-43bc-bcd7-2f04413332f4",
+  "content": "Context: Ans.\n\n| Pay | Pay | Pay | 43,600 | |\n| DA 46% | DA 46% | DA 46% | 20,056 | |\n| HRA 18% | HRA 18% | HRA 18% | 7,848 | |\n| Transport Allowance | Transport Allowance | Transport Allowance | 5,256 | |\n| | | Total | 76,760 | |\n| Less: Amount exempt from attachment { | Less: Amount exempt from attachment { | Less: Amount exempt from attachment { | | |\n| DA 20,056 | DA 20,056 | DA 20,056 | DA 20,056 | |\n| HRA 7,848 | HRA 7,848 | HRA 7,848 | HRA 7,848 | |\n| Transport Allowance | | | 33,160 | |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1396343,
+  "end_char": 1396842,
+  "chunk_index": 3527,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans.",
+    "hierarchy": "Ans."
+  }
+}

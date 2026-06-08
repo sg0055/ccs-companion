@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3095e470-aafc-457d-9d6c-bd1d51c5e4b7",
+  "content": "Context: 2. Authorized Medical Attendants\n\n- GID (19) and (19-A), Rule 8.  \n2. Private Medical Practitioners are appointed as AMAs where adequate number of Government Doctors in various systems of medicines are not available or when their services are not available within a radius of five kilometres or because of the remoteness of the area.\n3. The AMA of a Government servant is determined with reference to the place at which he falls ill, irrespective of whether it is the permanent/ temporary residence or a place of casual stay.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 845466,
+  "end_char": 846000,
+  "chunk_index": 2141,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Authorized Medical Attendants",
+    "hierarchy": "2. Authorized Medical Attendants"
+  }
+}

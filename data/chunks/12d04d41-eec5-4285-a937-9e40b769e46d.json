@@ -1,0 +1,26 @@
+{
+  "chunk_id": "12d04d41-eec5-4285-a937-9e40b769e46d",
+  "content": "Context: Daily Allowance:\n\n- (i) His family consisted of his wife, two sons aged 14 years and 11 years, two dependent brothers aged 25 years and 16 years and a widowed sister, having a rental income oft 14,000 p.m. residing with him.\n- (ii) Distance between residence and Railway Station is 10 kms. and at Station 'Y' is 5 kms.\n- He travelled by AC first class on 5-7 by Rajdhani Express, leaving 'X' Station on 5-7- at 16.30 hrs. and reached 'Y' Station on 6-7- at 08.30 hrs. He could not take his family with him due to non",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1421527,
+  "end_char": 1422052,
+  "chunk_index": 3591,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Daily Allowance:",
+    "hierarchy": "Daily Allowance:"
+  }
+}

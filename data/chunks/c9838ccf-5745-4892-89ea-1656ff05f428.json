@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c9838ccf-5745-4892-89ea-1656ff05f428",
+  "content": "Context: ?\n\n## ?  \n1. Medical Attendance/Treatment.(1) The couple together with all family members form a single unit for medical claims unless they are judicially separated. The husband and wife should furnish a joint declaration as to who will prefer the claim for reimbursement in respect of the spouse and family members. The declaration may be revised in the event of promotion, transfer, resignation, etc., of either.\n- (2) In the absence of a declaration, the husband will prefer the claim.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1234926,
+  "end_char": 1235423,
+  "chunk_index": 3136,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "?",
+    "hierarchy": "?"
+  }
+}

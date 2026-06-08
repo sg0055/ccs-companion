@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dc4a3e1c-44cb-423e-b3b1-331536d74fcb",
+  "content": "Context: 1. Allotment of Quarters\n\n- (c) it is surrendered by the allottee;\n- (d) the allottee ceases to occupy the accommodation. Rule 14.  \nAcceptance of allotment.(1) An offer of allotment of an accommo dation shall be accepted by the al'lottee within eight days from the date of allotment of the accommodation through automated system or by manual system of allotment, as the case may be.  \n- (2) The allottee may accept the allotment of the accommodation by himself or through an authorized representative before the next bidding-cycle.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 505522,
+  "end_char": 506063,
+  "chunk_index": 1290,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Allotment of Quarters",
+    "hierarchy": "1. Allotment of Quarters"
+  }
+}

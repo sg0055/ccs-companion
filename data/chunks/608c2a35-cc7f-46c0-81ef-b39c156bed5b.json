@@ -1,0 +1,26 @@
+{
+  "chunk_id": "608c2a35-cc7f-46c0-81ef-b39c156bed5b",
+  "content": "Context: 10. Authorization of Pension and Gratuity\n\nThe amount of gratuity as determined by the Accounts Officer shall be intimated to the Head of Office with the remarks that the amount of gratuity may be drawn and disbursed to the retired Government servant after adjusting the Government dues, if any. - Rule 63 (2).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1074388,
+  "end_char": 1074707,
+  "chunk_index": 2725,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Authorization of Pension and Gratuity",
+    "hierarchy": "10. Authorization of Pension and Gratuity"
+  }
+}

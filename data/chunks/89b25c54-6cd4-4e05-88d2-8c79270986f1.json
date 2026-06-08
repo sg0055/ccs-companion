@@ -1,0 +1,26 @@
+{
+  "chunk_id": "89b25c54-6cd4-4e05-88d2-8c79270986f1",
+  "content": "Context: 7. Advance\n\n- Claim.1. When advance is taken, (a) the claim should be submitted within one month from the date of return journey. If not, outstanding advance will be recovered in one lumpsum and the claim will be treated as one where no advance is sanctioned. Further, penal interest at 2% over GPF interest on the entire advance from the date of drawal to the date of recovery will be charged.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 668367,
+  "end_char": 668770,
+  "chunk_index": 1698,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Advance",
+    "hierarchy": "7. Advance"
+  }
+}

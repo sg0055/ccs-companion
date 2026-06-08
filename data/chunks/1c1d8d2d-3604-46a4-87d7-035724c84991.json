@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1c1d8d2d-3604-46a4-87d7-035724c84991",
+  "content": "Context: 1. General Principles\n\n- GID (4), Rule 19.  \n- (3) Who is not a CGHS beneficiary and CGHS beneficiaries who proceed outside the Headquarter on duty, leave, etc., should produce the certificate from AMA, and in such cases, a non-Gazetted Government servant may produce certificate from RMP if there is no AMA available within a radius of 8 kms of his residence. - Rule 19 (1).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 585340,
+  "end_char": 585724,
+  "chunk_index": 1490,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Principles",
+    "hierarchy": "1. General Principles"
+  }
+}

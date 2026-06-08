@@ -1,0 +1,26 @@
+{
+  "chunk_id": "51240c23-caf6-4c45-9e3e-b55c88a28d32",
+  "content": "Context: EXPLANATIONS.-\n\n- Rule 4 (d) Explanations and GID (2), Rule 4.\n6. Condition of dependency not applicable on the husband and wife. Husband and wife is one unit for purpose of LTC and hence the condition of dependency is not applicable. - GID (3), Rule 4.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 649527,
+  "end_char": 649789,
+  "chunk_index": 1650,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "EXPLANATIONS.-",
+    "hierarchy": "EXPLANATIONS.-"
+  }
+}

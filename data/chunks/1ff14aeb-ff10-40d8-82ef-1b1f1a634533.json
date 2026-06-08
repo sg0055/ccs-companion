@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1ff14aeb-ff10-40d8-82ef-1b1f1a634533",
+  "content": "Context: - OM, dated 6-4-201'8.\n\n- B. Validity of CGHS Card.For serving beneficiaries and their dependants, 5 years from the date when the Department approved the application for plastic card of the main cardholder. For pensioners except whole life card from the date of approval of application by Additional Director of the City / Headquarter in Delhi till the period covered by the subscription. -OM, dated 10-2-2021.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 762650,
+  "end_char": 763069,
+  "chunk_index": 1937,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- OM, dated 6-4-201'8.",
+    "hierarchy": "- OM, dated 6-4-201'8."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c6a8e442-457e-4e8f-ace9-24426cbb837a",
+  "content": "Context: 1. Admissibility.-\n\n| If survived by more than one widow, shall be paid in equal shares. On the death or ineligibility of a widow, her share will be payable to her child or children, subject to eligibility. On re-marriage by the childless widow, family pension will continue till her income equals or exceeds minimum family pension and DR thereon. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1110223,
+  "end_char": 1110581,
+  "chunk_index": 2815,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Admissibility.-",
+    "hierarchy": "1. Admissibility.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bc15f26c-33ec-43cb-b01d-00478c979972",
+  "content": "Context: 1. New Timelines for settlement of the Medical Claims\n\n2. Full reimbursement case/Cases for relaxation of Rules As per the new guidelines, they fall into two categories:\n2. (a)\n3. Full reimbursement- Non-HPC (Non- High Power Committee) cases\n4. (b)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 805871,
+  "end_char": 806128,
+  "chunk_index": 2044,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. New Timelines for settlement of the Medical Claims",
+    "hierarchy": "1. New Timelines for settlement of the Medical Claims"
+  }
+}

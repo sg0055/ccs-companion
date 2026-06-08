@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1ce0c8e3-6d74-4d98-8298-8408f3eb7d81",
+  "content": "Context: 5. Family means.-\n\n9. Invalid gratuity.Invalid Gratuity will be granted to a Government servant who retires from the service on account of any bodily or mental infirmity which permanently incapacitated him for the service and who had exercised option or in whose case the default option under Rule 10 of CCS (Implementation of NPS) Rules, is for availing benefits under National Pension System. If the official had opted for availing benefits under the CCS (Pension) Rules or the CCS (EOP) Rules and in whose case the",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1191385,
+  "end_char": 1191911,
+  "chunk_index": 3023,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Family means.-",
+    "hierarchy": "5. Family means.-"
+  }
+}

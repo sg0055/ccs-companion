@@ -1,0 +1,26 @@
+{
+  "chunk_id": "47489b81-baaf-40f1-845a-dee079969f92",
+  "content": "Context: 1. General Provident Fund\n\n11. Family.\"Family\" includes wife/wives except judicially separated wife, husband (unless expressly excluded), parents, a paternal grandparent when no parent is alive, children (including adopted children), minor brothers, unmarried sisters and deceased son's widow and children. A ward under the \"Guardians and Wards Act, 1890\", who lives with the Government servant and to whom the Government servant has given through a special will the same status as that of a natural child, will also be treated as a",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 562089,
+  "end_char": 562630,
+  "chunk_index": 1432,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Provident Fund",
+    "hierarchy": "1. General Provident Fund"
+  }
+}

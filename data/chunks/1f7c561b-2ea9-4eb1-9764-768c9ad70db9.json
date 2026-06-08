@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1f7c561b-2ea9-4eb1-9764-768c9ad70db9",
+  "content": "Context: 13. During training in lndia.-\n\n25. HRA is not admissible if his wife/ her husband has been allotted accommodation at the same station by the Central Government, State Government, an Autonomous Public Undertaking or semi-Government Organization such as Municipality, Port Trust, etc., whether he/she resides in that accommodation or he/ she resides separately in accommodation rented by him/ her. - Para. 5.1 (iii).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 407777,
+  "end_char": 408201,
+  "chunk_index": 1053,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "13. During training in lndia.-",
+    "hierarchy": "13. During training in lndia.-"
+  }
+}

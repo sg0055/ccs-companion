@@ -1,0 +1,26 @@
+{
+  "chunk_id": "955e87c2-b39a-4f54-982b-bf4cce24b7c6",
+  "content": "Context: 3. Applications for appointment in PSUs.-\n\nWhen the conduct of a Government servant is under investigation, but the investigation has not reached the stage of issue of charge-sheet or prosecution sanction or filing charge-sheet for criminal prosecution in a Court, his application may be forwarded with brief comments on the nature of allegations. It should be made clear that, in the event of actual selection, he would not be released for taking the new appointment, if by that time  \ncharge-sheet is issued/filed in a Court of Law.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1214981,
+  "end_char": 1215524,
+  "chunk_index": 3084,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Applications for appointment in PSUs.-",
+    "hierarchy": "3. Applications for appointment in PSUs.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "58a08363-39fa-4cfa-8346-263c2d68fe0c",
+  "content": "Context: Major Penalties.-\n\n- a.\n- Articles of charge should have been delivered.  \n- 15.\n- b. The Charged Officer had failed to submit the written statement of defence on or before specified date.\n13. On completion, the Inquiry Officer will submit his report and his findings on each article of the charges to the Disciplinary Authority.\n14. The report of the Inquiring Authority should be submitted within six months from the date of receipt of order of his appointment as Inquiring Authority.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 167999,
+  "end_char": 168494,
+  "chunk_index": 431,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Major Penalties.-",
+    "hierarchy": "Major Penalties.-"
+  }
+}

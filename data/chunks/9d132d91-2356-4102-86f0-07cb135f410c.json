@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9d132d91-2356-4102-86f0-07cb135f410c",
+  "content": "Context: 11. Conditions.-\n\n- (7) Employee granted Personal Pay while holding a higher post will draw the same, on reversion, at the rate equal to increment in the lower post for  \nthe remaining period, subject to the condition that pay plus do not exceed the maximum of pay scale of the lower post.  \nPersonal Pay",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1258346,
+  "end_char": 1258659,
+  "chunk_index": 3193,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Conditions.-",
+    "hierarchy": "11. Conditions.-"
+  }
+}

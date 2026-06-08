@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1436de56-7cd8-4990-b5a3-24b8ce2e81c5",
+  "content": "Context: (c) Room Rent -\n\n## (c) Room Rent -  \nGeneral ward - &lt; 1,500  \nSemi-private ward - &lt; 3,000  \nPrivate ward - &lt; 4,500  \n(For both NABH and Non-NABH accredited HCOs)  \n- OM, dated 12-4-2023.  \n(xxxiv) Reimbursement for availing treatment for Occupational Therapy, Speech Therapy and Applied Behaviour Analysis (ABA)-based behavioural therapy in individuals with Autism Spectrum Disorder (ASD) / Non-autistic person / children with ADHD and specific learning disabilities, subject to conditions. - OM, dated 1-5-2023.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 783942,
+  "end_char": 784473,
+  "chunk_index": 1991,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(c) Room Rent -",
+    "hierarchy": "(c) Room Rent -"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ee8327c0-c215-4d30-90cd-8333bd2572a3",
+  "content": "Context: 2. Non-ACC cases:\n\nWhere the appointing authority is the President of India, the recommendations of the DPC should be submitted to the Minister-in Charge of the Department concerned for acceptance or otherwise of the recommendations. In case the circumstances do necessitate, the Minister may refer the matter again to the DPC for reconsideration of its earlier recommendations. If the DPC reiterates its earlier recommendations giving also reasons in support thereof, the matter should be placed before the Minister for his",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 301518,
+  "end_char": 302051,
+  "chunk_index": 786,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Non-ACC cases:",
+    "hierarchy": "2. Non-ACC cases:"
+  }
+}

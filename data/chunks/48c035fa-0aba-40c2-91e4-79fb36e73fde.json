@@ -1,0 +1,26 @@
+{
+  "chunk_id": "48c035fa-0aba-40c2-91e4-79fb36e73fde",
+  "content": "Context: 4. Government e-Marketplace (GeM)\n\n## 4. Government e-Marketplace (GeM)  \nGovernment of India has established the Government e-Marketplace (GeM) for common use Goods and Services. The Procurement of Goods and Services by Ministries or Departments will be mandatory through GeM. The credentials of suppliers on GeM shall be certified by GeM SPY. The procuring authorities will certify the reasonability of rates. GeM Portal:https:/ /gem.gov.in.  \nFor direct on-line purchases, GeM portal shall be utilized as under:  \n| | Limit |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 963561,
+  "end_char": 964098,
+  "chunk_index": 2444,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Government e-Marketplace (GeM)",
+    "hierarchy": "4. Government e-Marketplace (GeM)"
+  }
+}

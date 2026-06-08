@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b9fee96f-52bd-44b4-90da-2fe9b5fb4bc6",
+  "content": "Context: 2. Income from house property\n\nWhere an employee has income under any other head, viz., income from house property, dividend, interest, etc., he can furnish the particulars. of such income and tax deducted at source thereon to his employer in the prescribed form and the employer can compute the total tax liability taking into account such income also and deduct appropriate tax from salary. Such computation should not reduce the tax deductible from the salary had other income not been taken into account. However, the loss under the head",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1335561,
+  "end_char": 1336111,
+  "chunk_index": 3383,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Income from house property",
+    "hierarchy": "2. Income from house property"
+  }
+}

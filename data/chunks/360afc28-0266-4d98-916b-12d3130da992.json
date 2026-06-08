@@ -1,0 +1,26 @@
+{
+  "chunk_id": "360afc28-0266-4d98-916b-12d3130da992",
+  "content": "Context: (a) Important conditions governing foreign service:\n\n8. A Government servant deputed on foreign service for three years or more to the United Nations Secretariat or other United Nations Bodies, the lnternational Monetary Fund, the International Bank for Reconstruction and Development and the Asian Development Bank or the Commonwealth Secretariat has an option to pay the pension contribution to Government and count such service as qualifying for pension or avail of the retirement benefits under the rules of the aforesaid Organizations and not count such",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 233979,
+  "end_char": 234546,
+  "chunk_index": 613,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(a) Important conditions governing foreign service:",
+    "hierarchy": "(a) Important conditions governing foreign service:"
+  }
+}

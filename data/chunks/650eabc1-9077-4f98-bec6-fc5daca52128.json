@@ -1,0 +1,26 @@
+{
+  "chunk_id": "650eabc1-9077-4f98-bec6-fc5daca52128",
+  "content": "Context: 3. List of Classified Cities for HRA\n\nNOTE.The remaining cities/ towns in various States/ LITs which are not covered by classification as HXH or HY\" are classified as \"Z\" for the purpose of HRA. OMs, dated 29-8-2008, 21-7-2015, 3-2-2017, 15-7-2019 and 25-2-2020\\_",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 412263,
+  "end_char": 412535,
+  "chunk_index": 1062,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. List of Classified Cities for HRA",
+    "hierarchy": "3. List of Classified Cities for HRA"
+  }
+}

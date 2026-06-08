@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9cb4645d-5b1b-4464-aa75-dd4a5480a008",
+  "content": "Context: 8. Reimbursement\n\n- (g) Cancellation / Reschedule charges.One-time relaxation for reimbursement of cancellation / rescheduling charges of air / train tickets for LTC journeys has been provided to those who had booked tickets in advance for journey during lockdown between 21-3-2020 to 31-5-2020 but were not able to perform the journey. In cases where airlines have kept the refund amount in credit shell, period of repayment of LTC advance may be allowed till 30-11-2021 or till such time the amount in credit shell is utilized,",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 671686,
+  "end_char": 672224,
+  "chunk_index": 1707,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Reimbursement",
+    "hierarchy": "8. Reimbursement"
+  }
+}

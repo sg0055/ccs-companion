@@ -1,0 +1,26 @@
+{
+  "chunk_id": "56ff668a-0b18-4d1b-b268-9ad7617af046",
+  "content": "Context: INCOME TAX\n\n- NOTE 3.Standard deduction under Section 16 (ia) is allowed from the financial year 2023-2024 to individuals and HUFs who opt for-calculation of tax under Section 1152BACalso.\n- NoTE 4.Tax is calculated without allowing any 'exempti.ons or deductions under Chapter VI-A except Section 80-CCD (2). Also-deductions under Sections 10, 10-AA.are not allowed.\n- NOTE 5.'The rates,of surcharge and cess are 'same -as tthose existing in the old (existing) regime.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1458263,
+  "end_char": 1458741,
+  "chunk_index": 3686,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "INCOME TAX",
+    "hierarchy": "INCOME TAX"
+  }
+}

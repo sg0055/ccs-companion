@@ -1,0 +1,26 @@
+{
+  "chunk_id": "78580d40-23ca-4a14-a5f2-0b0802ee71ca",
+  "content": "Context: Certificate of Disability\n\n## Certificate of Disability  \nA person who wants to avail the benefit of reservation will have to submit a certificate of disability issued by a Competent Authority. Such certificate in the event of selection of such person for any post, will be subject to such verification / re-verification as may be decided by the competent  \nauthority.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 56173,
+  "end_char": 56550,
+  "chunk_index": 150,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Certificate of Disability",
+    "hierarchy": "Certificate of Disability"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d7405500-98ee-46b0-ada1-d8bb39bc7776",
+  "content": "Context: (vii) Timing restrictions.-\n\nDA rates for foreign travel will be regulated as prescribed by  \nNOTE.Ministry of External Affairs.  \n1. For local journey, DA is only at half the rate. - GIO (2), SR 71.\n2. For enforced halts en route treated as duty, due to breakdown of communications caused by flood, rain, etc., D.A. is admissible.  \n3. D.A. is admissible for period of absence at tour station regularized as special casual leave due to disturbances, imposition of curfew, etc.  \n- GIO (4) (b), SR 51.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 698982,
+  "end_char": 699492,
+  "chunk_index": 1779,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(vii) Timing restrictions.-",
+    "hierarchy": "(vii) Timing restrictions.-"
+  }
+}

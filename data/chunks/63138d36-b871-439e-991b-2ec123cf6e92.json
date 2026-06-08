@@ -1,0 +1,26 @@
+{
+  "chunk_id": "63138d36-b871-439e-991b-2ec123cf6e92",
+  "content": "Context: JOINING TIME\n\n## JOINING TIME  \n1. An officer was transferred from Station 'A' to Station 'B' and was relieved on 5-3- (A.N.). While in transit at Station 'X' en route, he received an order on 14-3- (F.N.) for his transfer to Station 'C' in cancellation of the order for his transfer to Station 'Bf. Cucufate the joining time admissible  \nfrom the following data and state when the officer should join his new post at Station 'C' at the latest:  \n| | Distance in km. | Distance in km. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1408580,
+  "end_char": 1409075,
+  "chunk_index": 3557,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "JOINING TIME",
+    "hierarchy": "JOINING TIME"
+  }
+}

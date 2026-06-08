@@ -1,0 +1,26 @@
+{
+  "chunk_id": "40e92ad8-07a2-48e2-b14a-8e8878619190",
+  "content": "Context: 8. Preparation of Pension Papers\n\n- Rule 54.  \n2. Intimation to Directorate of Estates.Every Head of Office will obtain details of Government accommodation occupied by the retiring Government servant and send the details to the Directorate of Estates for issuance of 'No Demand Certificate'. - Rule 55.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1061361,
+  "end_char": 1061672,
+  "chunk_index": 2692,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Preparation of Pension Papers",
+    "hierarchy": "8. Preparation of Pension Papers"
+  }
+}

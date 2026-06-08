@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8a7e9c43-238b-4bdd-b3c5-ae10135a2612",
+  "content": "Context: 7. Attachment for debt and maintenance\n\n- (9) In cases in which a judgment-debtor does not sign the Acquittance Roll and intentionally allows his pay to remain undisbursed in order to evade payment on account of an attachment order issued by a Court of Law, the Head of the Office may draw the pay of the judgment-debtor in satisfaction of the attachment order, subject to the prescribed restrictions, and remit the amount to the Court concerned.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 393984,
+  "end_char": 394439,
+  "chunk_index": 1018,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Attachment for debt and maintenance",
+    "hierarchy": "7. Attachment for debt and maintenance"
+  }
+}

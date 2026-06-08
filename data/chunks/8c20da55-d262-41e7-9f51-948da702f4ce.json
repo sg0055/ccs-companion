@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8c20da55-d262-41e7-9f51-948da702f4ce",
+  "content": "Context: Risk and Hamshi,p Matrix\n\n| .I:: bO ::i: | R'JH1 Level > =9: ~ 25,000 pm level <=8:;f 17,300 pm | ~ R1H2 Level > - 9: f 16,900 pm level < -8: t 9,700 pm | R1H3 level >=9: t5,300pm level <-8: < 4,100 pm |\n| ~ E :::, V, '6 ci2 (1) ~ | R2Hl Level > =9: { 16,900 pm level <=8: t 9,700 pm | \"' [\"'Rl!-;12 level >\"c9: < 10,500 pm level <=8: t 6,000pm | R2H3 level > = 9: f 3,400 pm Level < - 8: f 2,700 pm |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 475262,
+  "end_char": 475672,
+  "chunk_index": 1214,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Risk and Hamshi,p Matrix",
+    "hierarchy": "Risk and Hamshi,p Matrix"
+  }
+}

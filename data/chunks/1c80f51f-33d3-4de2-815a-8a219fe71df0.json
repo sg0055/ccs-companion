@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1c80f51f-33d3-4de2-815a-8a219fe71df0",
+  "content": "Context: 1. Appeal\n\n2. Appeal has to be preferred within forty-five days of receipt of the order appealed against, direct to the Appel.late Authority, who may condone\n2. delay, if valid reasons are given.\n3. The appeal should contain all material statements and arguments on which the appellant relies and should be complete in itself. It should not\n5. be in disrespectful or improper language.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 181778,
+  "end_char": 182172,
+  "chunk_index": 465,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Appeal",
+    "hierarchy": "1. Appeal"
+  }
+}

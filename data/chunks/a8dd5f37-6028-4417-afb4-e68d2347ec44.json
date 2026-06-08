@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a8dd5f37-6028-4417-afb4-e68d2347ec44",
+  "content": "Context: Not eligible.\n\n## Not eligible.  \n- Order (3).  \nAn employee (a) who knows Hindi Typewriting/Stenography even before joining service, (b) who has received training or passed the Hindi Typewriting/Stenography Test from a recognized institution and (c) for whom training in Hindi Typewriting/Stenography is not obligatory, is not eligible.  \n4. (1) Cash Awards admissible even to those who qualify by making use of Electronic Typewriters, Computers, Word Processors. (Effective from January, 1996.)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1249517,
+  "end_char": 1250022,
+  "chunk_index": 3173,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Not eligible.",
+    "hierarchy": "Not eligible."
+  }
+}

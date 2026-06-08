@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c4c9b8c1-f405-4578-83fe-59fcedd3f25c",
+  "content": "Context: Medical claims requiring opinion of specialists\n\nshall also be informed by telephone / e-mail to submit the same to the Office of Additional-Director, CGHS. As per the existing guidelines, the medical claims of beneficiaries aged 80 years and above shall be processed on priority out of turn. - OM, dated 18-9-2019.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 820477,
+  "end_char": 820801,
+  "chunk_index": 2083,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Medical claims requiring opinion of specialists",
+    "hierarchy": "Medical claims requiring opinion of specialists"
+  }
+}

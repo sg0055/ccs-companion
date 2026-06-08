@@ -1,0 +1,26 @@
+{
+  "chunk_id": "072e3e5b-c189-483a-a649-81de0ce91920",
+  "content": "Context: 1. Warning/ Admonition/Reprimand\n\n1. There may be occasions when a superior officer may find it necessary to criticize adversely his subordinate's work or call for an explanation bringing the defects to the notice and giving him an opportunity to explain. If the lapse is not serious enough, like negligence, carelessness, lack of thoroughness, etc., to justify the imposition of the formal punishment of censure, but calls for some formal action such as the communication of a written warning/ admonition/ reprimand, it may be administered and",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 158319,
+  "end_char": 158872,
+  "chunk_index": 408,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Warning/ Admonition/Reprimand",
+    "hierarchy": "1. Warning/ Admonition/Reprimand"
+  }
+}

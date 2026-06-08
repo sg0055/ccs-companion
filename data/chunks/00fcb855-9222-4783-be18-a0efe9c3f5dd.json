@@ -1,0 +1,26 @@
+{
+  "chunk_id": "00fcb855-9222-4783-be18-a0efe9c3f5dd",
+  "content": "Context: Transactions\n\nln both the cases, if the transaction is with a person having official dealings with the employee, previous sanction of the prescribed authority is necessary. - Rule 18 (2} and (3).  \nMovable property includes  \n- (a)\n- Jewellery.\n- Insurance Policies, the annual premia of which exceeds two months\n- (b) basic pay of the Government servant.\n- (c) Shares, Securities and Debentures.\n- (d)\n- Loans advanced or taken by such employees, whether secured or\n- (e)\n- not.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 124640,
+  "end_char": 125128,
+  "chunk_index": 326,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Transactions",
+    "hierarchy": "Transactions"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0e078c5a-1d73-45b1-b47b-679c5d089774",
+  "content": "Context: Transport by rail:\n\n- (c) One Second Class fare by the shortest route between the stations - from and to which the car is actually transported by rail can be drawn for a Chauffeur or Cleaner. - Note 1, SR 116 (a) I (iv).  \nTransport by road :",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 740069,
+  "end_char": 740320,
+  "chunk_index": 1879,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Transport by rail:",
+    "hierarchy": "Transport by rail:"
+  }
+}

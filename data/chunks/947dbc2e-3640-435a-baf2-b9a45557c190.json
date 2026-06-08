@@ -1,0 +1,26 @@
+{
+  "chunk_id": "947dbc2e-3640-435a-baf2-b9a45557c190",
+  "content": "Context: Ans:\n\n| Pay from date of promotion till 30-6-2023 | {65,200 |\n| Pay in Level 7 after adding two increments on DNI | {68,000 |\n| Pay on DNI i.e., 1-7-2023 in Level 9 at a Level equal to or next higher as compared to { 68,000 | {69,200 |\n| Date of next increment in the promoted post | 1-1-2024 |\n| HB-33 | |  \n3. An official drawing pay of ~ 56,900 in Level 7 from 1-7-2024 is promoted on 1-9-2024 to a post in Level 10. He opts for fixation of pay from the date of promotion. Fix his pay and indicate his DNI.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1391435,
+  "end_char": 1391953,
+  "chunk_index": 3516,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans:",
+    "hierarchy": "Ans:"
+  }
+}

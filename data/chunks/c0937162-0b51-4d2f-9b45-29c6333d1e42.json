@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c0937162-0b51-4d2f-9b45-29c6333d1e42",
+  "content": "Context: Instructions for Pension Disbursing Authorities.-\n\n- (ii) On death of a pensioner, the spouse is not required to submit Form 14 (now Form 10 of CCS (Pension) Rules, 2021), if he/she was having a joint account with the pensioner and authorization for payment of family pension exists in the Pension Payment Order (PPO) in his/her favour. In such cases, spouse will be required to provide only a copy of the death certificate to the pension paying branch in order to commence his/her family pension.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1149774,
+  "end_char": 1150280,
+  "chunk_index": 2916,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Instructions for Pension Disbursing Authorities.-",
+    "hierarchy": "Instructions for Pension Disbursing Authorities.-"
+  }
+}

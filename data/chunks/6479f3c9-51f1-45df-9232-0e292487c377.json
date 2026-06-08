@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6479f3c9-51f1-45df-9232-0e292487c377",
+  "content": "Context: 8. Family means-\n\n12. 'Emoluments' for the purpose of retirement/ death gratuity means 'pay' as defined in FR 9 (21) (a) (i), i.e., basic pay (substantive or officiating), non-practising allowance and dearness allowance on the date of retirement/ death. When there is reduction in the 'emoluments' during the last ten months of service, gratuity may be based on 'average emoluments' for the last ten months instead of 'emoluments'. - Rule 45 (6).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1072003,
+  "end_char": 1072458,
+  "chunk_index": 2718,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Family means-",
+    "hierarchy": "8. Family means-"
+  }
+}

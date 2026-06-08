@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b696141c-088d-4a59-8240-6b5f80b619a0",
+  "content": "Context: 5. Relaxations.-\n\nin Level-1 in conformity with the Rule 7 of the CCS (RP) Rules, 2016. All pre-revised pay stages lower than pre-revised pay of { 7,000 in the pre revised 15 scale shall not be considered for determining the benefit of bunching, on the same lines as has been clarified by this Department's O.M., dated 3-8-2017 on application of the benefit on account of bunching.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 90026,
+  "end_char": 90416,
+  "chunk_index": 239,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Relaxations.-",
+    "hierarchy": "5. Relaxations.-"
+  }
+}

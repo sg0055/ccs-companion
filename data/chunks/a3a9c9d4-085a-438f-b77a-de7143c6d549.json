@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a3a9c9d4-085a-438f-b77a-de7143c6d549",
+  "content": "Context: Instructions for Pension Disbursing Authorities.-\n\n- (viii) If family pension has been sanctioned to a disabled child and the disability is temporary, the guardian of such disabled child shall produce disability certificate once in every 5 years to the effect that he/she continues to suffer from such disorder/ disability in order to continue family pension. No fresh certificate of disability would be required in the case of a child with permanent disability. A disabled child will also be required to self-certify every year that he/she has not started",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1152571,
+  "end_char": 1153136,
+  "chunk_index": 2923,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Instructions for Pension Disbursing Authorities.-",
+    "hierarchy": "Instructions for Pension Disbursing Authorities.-"
+  }
+}

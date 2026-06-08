@@ -1,0 +1,26 @@
+{
+  "chunk_id": "511d930d-ba68-43ed-91e3-20a5925dee1b",
+  "content": "Context: 6. Deposit-linked Insurance Scheme\n\n9. In the case of missing employees, payment can be made to the nominee/ legal heirs after expiry of a period of seven years following the month of disappearance of the subscriber on production of a proper proof of death or a Decree of the Court that the employee shall be presumed to be dead as laid down in Section 108 of the Indian Evidence Act.\n- GID (1) and Notes thereunder, Rules 33-B (GPF), 35-B (CPF).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 581118,
+  "end_char": 581573,
+  "chunk_index": 1479,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Deposit-linked Insurance Scheme",
+    "hierarchy": "6. Deposit-linked Insurance Scheme"
+  }
+}

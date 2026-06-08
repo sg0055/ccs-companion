@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a877cbdb-2a7b-4aa4-b6b7-6213c13d645a",
+  "content": "Context: TRAVELLING ALLOWANCE\n\n| | Distance between Station 'C' and Hqrs. 'A' is 5 kms. | Distance between Station 'C' and Hqrs. 'A' is 5 kms. | Distance between Station 'C' and Hqrs. 'A' is 5 kms. | Distance between Station 'C' and Hqrs. 'A' is 5 kms. | Distance between Station 'C' and Hqrs. 'A' is 5 kms. | Distance between Station 'C' and Hqrs. 'A' is 5 kms. |\n| | | | Hrs. | 9-6 | 119.00 | 5 kms by taxi |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1413822,
+  "end_char": 1414232,
+  "chunk_index": 3571,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "TRAVELLING ALLOWANCE",
+    "hierarchy": "TRAVELLING ALLOWANCE"
+  }
+}

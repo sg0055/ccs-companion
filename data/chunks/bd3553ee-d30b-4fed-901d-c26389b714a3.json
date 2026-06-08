@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bd3553ee-d30b-4fed-901d-c26389b714a3",
+  "content": "Context: non-empanelled hospital, in case of emergency\n\n## non-empanelled hospital, in case of emergency  \n- (a) CGHS beneficiaries and other Central Government employees including their eligible family members under CS (MA) Rules have the option to go to a nearby Government hospital / empanelled private hospital or even any private hospital, in case of emergency. In case of treatment undertaken at private non-empanelled hospitals under emergency, reimbursement will be limited to CGHS rates or actual, whichever may be lower.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 833145,
+  "end_char": 833675,
+  "chunk_index": 2111,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "non-empanelled hospital, in case of emergency",
+    "hierarchy": "non-empanelled hospital, in case of emergency"
+  }
+}

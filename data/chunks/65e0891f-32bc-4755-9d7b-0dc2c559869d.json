@@ -1,0 +1,26 @@
+{
+  "chunk_id": "65e0891f-32bc-4755-9d7b-0dc2c559869d",
+  "content": "Context: 12. Second Mortgage.-\n\n- (1)\n- Loan to be obtained should be from recognized financial institu tions like Banks, Government Financial Corporations, Co-operative Housing Finance Institutions, Public Companies formed and registered in India with the specific purpose of financing housing like Housing Development Finance Corporation Limited.\n- the amount of loan now raised should\n- (2) The total HBA taken plus not exceed the prescribed cost ceiling.\n- Second charge can be created in respect of loan for meeting the",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 909574,
+  "end_char": 910098,
+  "chunk_index": 2299,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "12. Second Mortgage.-",
+    "hierarchy": "12. Second Mortgage.-"
+  }
+}

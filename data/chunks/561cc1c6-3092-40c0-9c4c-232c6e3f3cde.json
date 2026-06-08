@@ -1,0 +1,26 @@
+{
+  "chunk_id": "561cc1c6-3092-40c0-9c4c-232c6e3f3cde",
+  "content": "Context: 4. Absorption in ABs/PSUs, etc.\n\nIndia and its Subsidiary Banks, LIC, GIC of India and its four subsidiaries, viz., National Insurance Company Ltd., New India Assurance Company Ltd., Oriental Insurance Company Ltd., and United India Insurance Company Ltd., are treated as 'Central Autonomous Bodies'.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 983044,
+  "end_char": 983353,
+  "chunk_index": 2495,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Absorption in ABs/PSUs, etc.",
+    "hierarchy": "4. Absorption in ABs/PSUs, etc."
+  }
+}

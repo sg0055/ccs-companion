@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a87d500b-925d-4c8c-b2c5-20326bba703c",
+  "content": "Context: 11. Guidelines for Reviewing.-\n\n12. Custody and handling of APARs.APARs to be in the custody of the designated officers. To ensure safe custody, a Register to be maintained to show the APARs files on hand, their movements, etc. Proper handing over/ taking over to be ensured when the officer concerned is transferred, etc. (Not only contents of APARs but their movements also to be kept confidential.)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 320116,
+  "end_char": 320526,
+  "chunk_index": 839,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Guidelines for Reviewing.-",
+    "hierarchy": "11. Guidelines for Reviewing.-"
+  }
+}

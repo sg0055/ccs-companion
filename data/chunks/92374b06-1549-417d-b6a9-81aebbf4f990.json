@@ -1,0 +1,26 @@
+{
+  "chunk_id": "92374b06-1549-417d-b6a9-81aebbf4f990",
+  "content": "Context: 4. Block years and carry forward of L TC\n\n1. the grace period, i.e., by 31-12-2026.  \n2. In the above case, suppose the official avails of LTC to Home town after 31-12-2024, this will be debited against the block 2024-2025 and hence he will not be entitled to \"anywhere in India LTC\". In this case, he will lose his entitlement for 2022-2023 by not availing it before the grace period. - Rule 10.  \nThe Government servant and his family can visit either the same place - Rule 11.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 656786,
+  "end_char": 657274,
+  "chunk_index": 1669,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Block years and carry forward of L TC",
+    "hierarchy": "4. Block years and carry forward of L TC"
+  }
+}

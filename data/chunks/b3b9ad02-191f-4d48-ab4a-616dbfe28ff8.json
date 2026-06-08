@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b3b9ad02-191f-4d48-ab4a-616dbfe28ff8",
+  "content": "Context: Half Pay Leave Account\n\n## Half Pay Leave Account  \n| Period | Number of Days | Number of Days | Number of Days |\n| -------------------------- | ------------------ | ------------------ | ------------------ |\n| | Earned | Availed | Balance |\n| Credit as on 1-6-2023 | ... | ... | 102 |\n| 1-7-2023 Credit ( % x 4) | 7 | ... | 109 |\n| 1-8-2023} 12-8-2023 | ... | 12 | 97 |\n| 31-10-2023 | ... | . .. | 97 |  \nLeave encashment :  \nEL at credit 300 days  \nBasic Pay at Level 8 as on 31-10-2023  \nDA 46%  \n55,200  \nt  \nt 25,392  \nt 80,592",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1406280,
+  "end_char": 1406820,
+  "chunk_index": 3552,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Half Pay Leave Account",
+    "hierarchy": "Half Pay Leave Account"
+  }
+}

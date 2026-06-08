@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b1bd8d35-8a6b-4f62-b807-b9e6b8100030",
+  "content": "Context: 12.\n\n- (c) Recovery.(1) Account should be rendered within one month of the completion of the journey if the family travels in one batch. (2) If the family travels in more than one batch, account to be rendered within one month of completion of the journey by the last batch. (3) In any case, the journeys should be completed within one year and account rendered within one month thereof. Otherwise, the amount should be refunded.  \n- GIO (3), SR 148.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 750483,
+  "end_char": 750942,
+  "chunk_index": 1907,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "12.",
+    "hierarchy": "12."
+  }
+}

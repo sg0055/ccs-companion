@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0768ba95-54ba-42e3-b900-31b238f743be",
+  "content": "Context: 13. Encashment of Leave\n\n3. When an employee retires on superannuation while under suspension or while disciplinary or criminal proceedings are pending against him, the whole or part of cash equivalent of leave salary may be withheld to meet recoveries from him possibly arising on conclusion of the proceedings. On conclusion of the proceedings, payment may be released after adjustment of Government dues, if any;",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1095393,
+  "end_char": 1095817,
+  "chunk_index": 2777,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "13. Encashment of Leave",
+    "hierarchy": "13. Encashment of Leave"
+  }
+}

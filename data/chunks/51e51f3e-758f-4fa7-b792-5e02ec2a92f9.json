@@ -1,0 +1,26 @@
+{
+  "chunk_id": "51e51f3e-758f-4fa7-b792-5e02ec2a92f9",
+  "content": "Context: 3. Journey fare for children studying at outstations\n\n## 3. Journey fare for children studying at outstations  \nScope.Applicable to all Central Government Civilian employees, State Government employees on deputation to Central Government, Industrial/Work-charged employees on regular establishment posted in India. Not applicable to persons employed in Railways, Armed Forces, India Based Staff serving in Missions abroad, and part-time/ contingent employees.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 884734,
+  "end_char": 885202,
+  "chunk_index": 2241,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Journey fare for children studying at outstations",
+    "hierarchy": "3. Journey fare for children studying at outstations"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dea30e14-7948-4fef-a0c8-c54422d016fc",
+  "content": "Context: 5. Emoluments and Average Emoluments\n\nAverage emoluments the last ten months of service.  \nis the average of the emoluments drawn during - Rule 32.  \nService/ Retirement/ Death Gratuity is based on the emoluments drawn at the time of retirement / death while in service. However, Retirement / Death Gratuity will be based on the 'average emoluments' if the emoluments have been reduced during the last ten months of service otherwise than as penalty. - Rule 45 and Proviso to Rule 45 (6).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1051898,
+  "end_char": 1052395,
+  "chunk_index": 2671,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Emoluments and Average Emoluments",
+    "hierarchy": "5. Emoluments and Average Emoluments"
+  }
+}

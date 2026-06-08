@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bf2cc135-d58d-4cce-973c-ac626ddf4cc9",
+  "content": "Context: 1. Income from Salary\n\n- (xv) Bank.\n- (xvi)\n- Senior Citizens Saving Scheme, 2004.\n- (xvii) Post Office Five Year Time Deposit Scheme. -\n- Section 80-C\n- (xviii) Being an employee of the Central Government, as a contribution to a specified account, referred to in PFRDA Act, of the Pension Scheme referred to in Section 80-CCD, for a fixed period of not less than 3 years. -Section80-C",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1320950,
+  "end_char": 1321344,
+  "chunk_index": 3347,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Income from Salary",
+    "hierarchy": "1. Income from Salary"
+  }
+}

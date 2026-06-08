@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dea36608-7be3-4ae5-b88e-fc5e7cff5743",
+  "content": "Context: Ans:\n\n## Ans:  \n- (a) Adding one increment to the basic pay in the substantive post in parent cadre:  \nPay in parent cadre post = { 36,000.  \nIncrement = 3% of { 36,000 = { 1,080.  \nAdding one increment = ~ 37,080 [ i.e. ~ 36,000 plus t. 1,080]  \n- (b)  \nPay and DA admissible in parent cadre: DA@ 140% on basic pay = { 51,912 (140% of { 37,080).  \nTotal emoluments in the parent cadre = { 88,992 {{ 37,080 plus { 51,912).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1389482,
+  "end_char": 1389913,
+  "chunk_index": 3511,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans:",
+    "hierarchy": "Ans:"
+  }
+}

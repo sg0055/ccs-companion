@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f9ece6fc-5717-454a-8b0c-29e49e9c164b",
+  "content": "Context: 2. Non-ACC cases:\n\n- (f) Cases of additional vacancies.Where a DPC has already been held in a year and further vacancies arise during the same year due to death, resignation, voluntary retirement, etc. or because the vacancies were not intimated to the DPC due to error or omission on the part of the Department concerned, another meeting of the DPC should be held for drawing up a panel for these vacancies as these vacancies could not be anticipated at the time of holding the earlier DPC.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 299783,
+  "end_char": 300283,
+  "chunk_index": 782,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Non-ACC cases:",
+    "hierarchy": "2. Non-ACC cases:"
+  }
+}

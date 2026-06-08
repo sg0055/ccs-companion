@@ -1,0 +1,26 @@
+{
+  "chunk_id": "fd2c9c4e-c3a7-4148-a27d-df0b1f4630ac",
+  "content": "Context: Hostel Aocommodatien\n\n| 1. Single Room | 21.5 to 30 | {470 | 6 a:nd 7 | t 550 |\n| Single Room (with Kitchen) | 30.5 to 39.5 | :{ 660 | .8 | t 780 |\n| 2. Double Room | 47.5 to 60 | t 910 | 9 and above | t 1,070 |  \n- GIO, Rule 74 (1) and (2).  \nThese rates would be subject to a maximum ceiling of 10% of monthly emoluments of the allottee.  \nThe above rates of licence fee for \"Hostel Accommodation\" are also applicable in respect of Transit Pool Accommodation throughout the country. - OM, dated 28-4-2011, SR 317-8-5, FR 45-A.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 553956,
+  "end_char": 554493,
+  "chunk_index": 1412,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Hostel Aocommodatien",
+    "hierarchy": "Hostel Aocommodatien"
+  }
+}

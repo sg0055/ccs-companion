@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ead0a65f-f70f-42c3-8c2f-872c0800f7ac",
+  "content": "Context: 2. Clarifications for fixation in Level 13.-\n\n## 2. Clarifications for fixation in Level 13.-  \n- (i) The fitment factor for fixation of Pay in Level-13 is 2.57 only and not 2.67. (Contd. on Page 128)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 340647,
+  "end_char": 340856,
+  "chunk_index": 887,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Clarifications for fixation in Level 13.-",
+    "hierarchy": "2. Clarifications for fixation in Level 13.-"
+  }
+}

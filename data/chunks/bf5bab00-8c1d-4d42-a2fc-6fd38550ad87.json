@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bf5bab00-8c1d-4d42-a2fc-6fd38550ad87",
+  "content": "Context: 14. Change of Accommodation\n\n- (5) six months of the date of superannuation.\n- If an allottee fails to accept a change of accommodation offered to him within eight days of the issue of such offer or allotment, he shall not be considered again for a change of accommodation for one year from the\n- (6) date of non-acceptance for that Type of accommodation.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 547824,
+  "end_char": 548188,
+  "chunk_index": 1397,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "14. Change of Accommodation",
+    "hierarchy": "14. Change of Accommodation"
+  }
+}

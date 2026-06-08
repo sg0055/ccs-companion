@@ -1,0 +1,26 @@
+{
+  "chunk_id": "58f3852f-bf66-4df2-a8a2-7a609c9914b5",
+  "content": "Context: - OM, dated 6-4-201'8.\n\n- A. Accrual of CGHS benefits.The benefits of CGHS accrue from the date on which the Government servant applies for a CGHS card. CGHS is a compulsory scheme for all Central Government employees residing within the areas covered by CGHS dispensaries. As soon as a person joins Central Government service and intimates his residential address which is within a CGHS covered area, CGHS contribution at the appropriate rate should be recovered whether the CGHS card is issued or not. But in such cases, the offices",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 760973,
+  "end_char": 761516,
+  "chunk_index": 1932,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- OM, dated 6-4-201'8.",
+    "hierarchy": "- OM, dated 6-4-201'8."
+  }
+}

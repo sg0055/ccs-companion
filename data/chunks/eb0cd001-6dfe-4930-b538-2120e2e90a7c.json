@@ -1,0 +1,26 @@
+{
+  "chunk_id": "eb0cd001-6dfe-4930-b538-2120e2e90a7c",
+  "content": "Context: (B) OTHERWISE THROUGH OPEN COMPETITION Roster cadre strength up to 13 posts\n\n| 7 | SC | OBC | UR | EWS | UR | OBC | SC | ST | | | | | | |\n| 8 | OBC | UR | EWS | UR | OBC | SC | ST | | | | | | | |\n| 9 | UR | EWS | UR | OBC | SC | ST | | | | | | | | |\n| 10 | EWS | UR | OBC | SC | ST | | | | | | | | | |\n| 11 | UR | OBC | SC | ST | | | | | | | | | | |\n| 12 | OBC | SC | ST | | | | | | | | | | | |\n| 13 | SC | ST | | | | | | | | | | | | |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 47229,
+  "end_char": 47673,
+  "chunk_index": 121,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(B) OTHERWISE THROUGH OPEN COMPETITION Roster cadre strength up to 13 posts",
+    "hierarchy": "(B) OTHERWISE THROUGH OPEN COMPETITION Roster cadre strength up to 13 posts"
+  }
+}

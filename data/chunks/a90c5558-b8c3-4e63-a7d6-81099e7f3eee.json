@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a90c5558-b8c3-4e63-a7d6-81099e7f3eee",
+  "content": "Context: Terms and conditions:\n\nNon-entitled Government employees travelling by air under Special Dispensation Scheme directly from their Headquarters / place of posting to the place of visit in NER/J&amp;K/A&amp;N/Ladakh, must take the print-out of the concerned webpage having flight and fare details of the flight for relevant railhead viz. Kolkata/ Guwahati /Delhi/ Amritsar/ Chennai / Vishakhapatnam to the place of visit viz. NER or UT of J&amp;K or UT of Ladakh or UT of A&amp;N within the same time-slot where the direct flight has",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 664550,
+  "end_char": 665089,
+  "chunk_index": 1688,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Terms and conditions:",
+    "hierarchy": "Terms and conditions:"
+  }
+}

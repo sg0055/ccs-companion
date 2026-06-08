@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2c9a16c8-f459-4e40-ac4b-1e08ae088bc8",
+  "content": "Context: Conditions to be fulfilled.-\n\n- (iii) becomes eligible for promotion.\n- (iv) The benefit should be allowed to only one officer, the seniormost eligible officer, though more than one officer may be serving\n- outside the cadre.\n- (v) When such seniormost eligible officer does not require the benefit, it will be passed on to the next officer.\n- (vi)\n- A purely fortuitous promotion given to the junior will not entitle the senior to this benefit.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 309083,
+  "end_char": 309537,
+  "chunk_index": 808,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions to be fulfilled.-",
+    "hierarchy": "Conditions to be fulfilled.-"
+  }
+}

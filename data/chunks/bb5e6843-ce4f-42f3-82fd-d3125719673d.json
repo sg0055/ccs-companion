@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bb5e6843-ce4f-42f3-82fd-d3125719673d",
+  "content": "Context: Conditions for grant of benefits :\n\n(GP { 4,200) in Department of Posts, who was granted 1st MACP in the Grade Pay of { 4,600 in PB-2, he will now be granted (Grade Pay of { 4,800 in the pay band PB-2) Level 8 of the Pay Matrix consequent upon upgradation of the post of Postal Inspector from GP of { 4,200 to GP of { 4,600 / Level 7 in the Pay Matrix. However, all the financial upgradations under the Scheme should be done strictly in accordance with the hierarchy of Levels in the Pay Matrix as notified vide CCS (Revised Pay) Rules, 2016.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 920690,
+  "end_char": 921241,
+  "chunk_index": 2328,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions for grant of benefits :",
+    "hierarchy": "Conditions for grant of benefits :"
+  }
+}

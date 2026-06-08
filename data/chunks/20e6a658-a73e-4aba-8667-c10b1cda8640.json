@@ -1,0 +1,26 @@
+{
+  "chunk_id": "20e6a658-a73e-4aba-8667-c10b1cda8640",
+  "content": "Context: RESERVATION ROSTERS FROM 1-2-2019\n\n| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |\n| 7 | 41 | 74 | 107 | 140 | 174 |\n| 15 | 47 | 81 | 114 | 147 | 180 |\n| 20 | 54 | 87 | 121 | 154 | 187 |\n| 27 | 61 | 94 | 127 | 162 | 194 |\n| 35 | 68 | 99 | 135 | 168 | 199 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 37753,
+  "end_char": 38242,
+  "chunk_index": 96,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "RESERVATION ROSTERS FROM 1-2-2019",
+    "hierarchy": "RESERVATION ROSTERS FROM 1-2-2019"
+  }
+}

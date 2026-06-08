@@ -1,0 +1,26 @@
+{
+  "chunk_id": "558f077c-2e00-454c-82d5-2ae29adb2653",
+  "content": "Context: 1.\n\n4. No Government establishment shall dispense with or reduce in rank, an employee who acquires a disability during his or her service: Provided that, if an employee after acquiring disability is not suitable for the post he was holding, shall be shifted to some other post with the same pay scale and service benefits: Provided further that if it is not possible to adjust the employee against any post, he may be kept on a supernumerary post until a suitable post is available or he attains the age of",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 51548,
+  "end_char": 52063,
+  "chunk_index": 133,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1.",
+    "hierarchy": "1."
+  }
+}

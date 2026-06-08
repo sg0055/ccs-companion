@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ab430659-782b-4266-8335-d63770d2bbdd",
+  "content": "Context: 1. LTC to home town.-\n\n- GID (9), Rule 7.  \n- (d) Government employees whose headquarters and home town are same are not eligible for home town LTC. - Rule 8.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 654163,
+  "end_char": 654330,
+  "chunk_index": 1662,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. LTC to home town.-",
+    "hierarchy": "1. LTC to home town.-"
+  }
+}

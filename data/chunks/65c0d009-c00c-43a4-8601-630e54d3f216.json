@@ -1,0 +1,26 @@
+{
+  "chunk_id": "65c0d009-c00c-43a4-8601-630e54d3f216",
+  "content": "Context: Children Education Allowance :-\n\n- (e) Henceforth, the reimbursement of Children Education Allowance shall have no nexus with the performance of the child in his class. In other words, even if a child fails in a particular class, the reimbursement of Children Education Allowance shall not be stopped.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 877193,
+  "end_char": 877503,
+  "chunk_index": 2223,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Children Education Allowance :-",
+    "hierarchy": "Children Education Allowance :-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "25371abf-768a-433f-b890-a8eaf181c103",
+  "content": "Context: The following cities are covered under CGHS as notified by Government:-\n\n## The following cities are covered under CGHS as notified by Government:-  \n1. Agartala\n2. Agra\n3. Ahmedabad\n4. Aizwal\n5. Ajmer\n6. Aligarh\n7. Allahabad (Prayagraj)\n8. Ambala\n9. Amritsar\n10. Baghpat\n11. Bengaluru\n12. Bareilly\n13. Berhampur\n14. Bhopal\n15. Bhubaneshwar\n16. Chandrapur\n17. Chandigarh\n18. Chhatrapati Sambhaji Nagar (Aurangabad)\n19. Chennai\n20. Chhapra\n21. Coimbatore\n22. Cuttack\n23. Darbhanga\n24. Dhanbad\n25. Dehradun 2.S.\n26. Ghaziabad,",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 754429,
+  "end_char": 754962,
+  "chunk_index": 1918,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "The following cities are covered under CGHS as notified by Government:-",
+    "hierarchy": "The following cities are covered under CGHS as notified by Government:-"
+  }
+}

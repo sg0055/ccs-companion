@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6f3cbf35-680b-4060-8f03-997d89dffef6",
+  "content": "Context: 8. Entitlement for family on death of a Subscriber\n\nshall be transferred to Government account. The remaining accumulated pension corpus shall be paid in lumpsum to the person(s) in whose favour a nomination has been made. If there is no such nomination or if the nomination made does not subsist, the amount of remaining accumulated pension corpus shall be paid to the legal heir(s). - Rule 20.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1175117,
+  "end_char": 1175521,
+  "chunk_index": 2984,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Entitlement for family on death of a Subscriber",
+    "hierarchy": "8. Entitlement for family on death of a Subscriber"
+  }
+}

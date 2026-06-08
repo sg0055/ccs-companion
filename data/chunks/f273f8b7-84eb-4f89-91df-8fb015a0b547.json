@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f273f8b7-84eb-4f89-91df-8fb015a0b547",
+  "content": "Context: 8. Out-of-turn allotment on medical grounds\n\nCommittee for consideration of out-of-turn allotment of Quarters. Requests for out-of-turn allotment of accommodation by relaxation under SR 317-B-25 will be considered by constituting a separate Committee for (1) allotment of Types I to IV and (2) allotment of Type IV Special and higher types of accommodation. The Committee shall meet at least once in three months and after scrutiny of the requests, recommend the cases for consideration and orders of the Minister. - GIO below Rule 33.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 525746,
+  "end_char": 526290,
+  "chunk_index": 1341,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Out-of-turn allotment on medical grounds",
+    "hierarchy": "8. Out-of-turn allotment on medical grounds"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0bca64ac-c7c8-4e8b-b8a7-00320f2bbc89",
+  "content": "Context: Daily Allowance:\n\n| Conveyance: | Conveyance: | Conveyance: | Conveyance: | | |\n| Transport of car by Rail ~,32,500 limited | Transport of car by Rail ~,32,500 limited | Transport of car by Rail ~,32,500 limited | Transport of car by Rail ~,32,500 limited | | 28,750 |\n| | | | | Total | 1,88,730 |  \nNoTE.Members of family viz., major brother is not included in the definition of family vide GIO (2) SR2 (8).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1426823,
+  "end_char": 1427240,
+  "chunk_index": 3604,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Daily Allowance:",
+    "hierarchy": "Daily Allowance:"
+  }
+}

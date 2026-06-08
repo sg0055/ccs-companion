@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f8f28547-6263-404d-a899-52b45420a20d",
+  "content": "Context: Special Diseases\n\n| 2. | Mental Diseases | Recognized mental hospitals |\n| 3. | Poliomyelitis; } Cerebral Palsy; Spastics | Hospitals where specialized treatment for polio myelitis is available and recognized for the purpose. |\n| 4. | Tubercular Diseases | Recognized hospitals and all institutions/hospitals/ clinics, etc., providing treatment for tuberculosis directly administered by State Governments. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 848788,
+  "end_char": 849204,
+  "chunk_index": 2150,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Special Diseases",
+    "hierarchy": "Special Diseases"
+  }
+}

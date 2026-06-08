@@ -1,0 +1,26 @@
+{
+  "chunk_id": "64fa3d50-5cc3-4f40-89cc-9ad1688df62a",
+  "content": "Context: 21. Ex gratia Pension/Family Pension to CPF Retirees\n\n| 1-1-2022 | 30-6-2022 | 50% | 373% | 381% |\n| 1-7-2022 | 31-12-2022 | 50% | 388% | 396% |\n| 1-1-2023 | 30-6-2023 | 50% | 404% | 412% |  \n- OMs, dated 31-10-2022 and 6-7-2023.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1310078,
+  "end_char": 1310316,
+  "chunk_index": 3321,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "21. Ex gratia Pension/Family Pension to CPF Retirees",
+    "hierarchy": "21. Ex gratia Pension/Family Pension to CPF Retirees"
+  }
+}

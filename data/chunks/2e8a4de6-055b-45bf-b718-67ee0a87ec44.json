@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2e8a4de6-055b-45bf-b718-67ee0a87ec44",
+  "content": "Context: 1. Recruitment Rules·\n\nThe minimum educational qualifications and experience required for direct recruitment may be indicated as precisely as possible and if necessary into two parts, viz., \"Essential Qualifications\" and \"Desirable Qualifications\" taking into account the pay level and the nature of duties, and the provisions in the approved Recruitment Rules for similar higher and lower posts in the same hierarchy.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1321,
+  "end_char": 1748,
+  "chunk_index": 4,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Recruitment Rules·",
+    "hierarchy": "1. Recruitment Rules·"
+  }
+}

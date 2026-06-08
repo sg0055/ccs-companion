@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8975657c-2884-4cbb-ad7f-d285f4fc48f7",
+  "content": "Context: 8. Revised procedure from 1-4-2009\n\n## 8. Revised procedure from 1-4-2009  \n1. The full APAR including the overall Grade and assessment of integrity shall be communicated to the concerned officer with the remarks of the Reviewing Officer and Accepting Authority.\n2. The Section entrusted with maintenance of APARs after its receipt shall disclose the same to the officer reported upon.\n3. The concerned officer shall be given the opportunity to make any representation against the entries within 15 days from the date of receipt of APAR.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 325787,
+  "end_char": 326333,
+  "chunk_index": 851,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Revised procedure from 1-4-2009",
+    "hierarchy": "8. Revised procedure from 1-4-2009"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4688e585-e096-4411-9e2e-87b26e61153b",
+  "content": "Context: .. Holidays\n\n2. 6.\n3. Ganesh Chaturthi/Vinayak Chaturthi\n7. Makarasan kranti\n8. Rath Yatra\n9. Onam\n10. Pongal\n11. Sripanchami /\n9. Basant Panchami\n10. Ugadi /Chaitra Sukladi/Cheti Chand/Gudi Padava/1st Navratra/Nauraj, Chhath\n12. Vishu/Vaisakhi /Vaisakhadi /Bahag Bihu/ Mashadi/ Pooja/Karva Chouth.  \n- Order (1), Appendix-Ill and OMs, dated 28-12-1998, 10-6-2020, 8-6-2021 and 16-6-2022.  \nchange in date of holiday in respect of ldu'I Fitr, ldu'l Zuha, Muharram and ld-e-Milad depending upon",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1297838,
+  "end_char": 1298340,
+  "chunk_index": 3293,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": ".. Holidays",
+    "hierarchy": ".. Holidays"
+  }
+}

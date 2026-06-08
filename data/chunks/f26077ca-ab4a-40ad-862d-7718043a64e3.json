@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f26077ca-ab4a-40ad-862d-7718043a64e3",
+  "content": "Context: Existing pattern of recovery:\n\n- (ii) Adjustment of a portion from retirement/ death gratuity.In the case of employees retiring within 20 years, a portion of the advance and/or interest may be left to be adjusted from the retirement/ death gratuity if a suitable clause to that effect is inserted in the mortgage deed.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 912091,
+  "end_char": 912418,
+  "chunk_index": 2305,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Existing pattern of recovery:",
+    "hierarchy": "Existing pattern of recovery:"
+  }
+}

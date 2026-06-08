@@ -1,0 +1,26 @@
+{
+  "chunk_id": "be57da8e-c36f-4a80-932e-435591589f5e",
+  "content": "Context: on service matters\n\n- (5) Instructions for submission of representations by Government servants.When representations have already been considered and replied, further representations exceeding two on the same issue will be ignored. A Government servant may make a representation to an Authority higher than the lowest Competent Authority only when he is able to establish that all the points or submissions made therein have not been fully and properly considered by his immediate official superior, or the Head of Office concerned",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1226115,
+  "end_char": 1226655,
+  "chunk_index": 3113,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "on service matters",
+    "hierarchy": "on service matters"
+  }
+}

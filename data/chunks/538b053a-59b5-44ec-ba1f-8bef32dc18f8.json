@@ -1,0 +1,26 @@
+{
+  "chunk_id": "538b053a-59b5-44ec-ba1f-8bef32dc18f8",
+  "content": "Context: COMMUTATION TABLE (Effective from 1-1-2006)\n\n- Rule 6.  \n12. Payment of difference in commuted amount on revision of pension.When pension is revised upward retrospectively, payment of commuted value of the quantum of increase in pension may be authorized without further application from the pensioner. Further reduction in pension will become operative from the date of receipt of difference amount by the pensioner or at the end of three months after issue of authority for payment, whichever is earlier. - Rules 10 and 31.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1090506,
+  "end_char": 1091040,
+  "chunk_index": 2765,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "COMMUTATION TABLE (Effective from 1-1-2006)",
+    "hierarchy": "COMMUTATION TABLE (Effective from 1-1-2006)"
+  }
+}

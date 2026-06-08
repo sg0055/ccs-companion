@@ -1,0 +1,26 @@
+{
+  "chunk_id": "20442b40-5fdb-44a2-92b1-859bc8c76090",
+  "content": "Context: Not eligible:-\n\n| Prescribed Examination | Gazetted | Non-Gazetted |\n| ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------- |\n| Pragya Praveen Prabodh Hindi Typewriting Hindi Stenography | 90% or more Mere Pass 60% or more | Mere Pass 55% or more 55% or more Mere Pass Mere Pass |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1256318,
+  "end_char": 1256711,
+  "chunk_index": 3188,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Not eligible:-",
+    "hierarchy": "Not eligible:-"
+  }
+}

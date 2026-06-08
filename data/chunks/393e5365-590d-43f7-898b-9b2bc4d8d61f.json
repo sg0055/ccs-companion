@@ -1,0 +1,26 @@
+{
+  "chunk_id": "393e5365-590d-43f7-898b-9b2bc4d8d61f",
+  "content": "Context: l. your duties\n\n14. you inspect your Service Book every year and affix your signature in token of having inspected the sameas provided for in SR 202 to ensure the accuracy in entries, etc.\n15. in January each year, you should hand over your copy of the Service Book to your office and ensure up to- date entries. are made and returned to you within thirty days of its receipt as provided under Rule 288 (3) of GFR, 2017.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1035647,
+  "end_char": 1036076,
+  "chunk_index": 2629,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "l. your duties",
+    "hierarchy": "l. your duties"
+  }
+}

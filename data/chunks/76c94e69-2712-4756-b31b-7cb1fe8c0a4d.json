@@ -1,0 +1,26 @@
+{
+  "chunk_id": "76c94e69-2712-4756-b31b-7cb1fe8c0a4d",
+  "content": "Context: .. Holidays\n\nThese orders are applicable to administrative staff and staff in operative  \noffices. - D.G., Telecom, No. 12/15/77-TE, dated 31-12-1997.  \nSome categories of employees (excluded and other categories) not getting the 17 holidays should be allowed at least 12 holidays inclusive of 3 National Holidays. - Order (5), Appendix-Ill.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1299664,
+  "end_char": 1300014,
+  "chunk_index": 3297,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": ".. Holidays",
+    "hierarchy": ".. Holidays"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8e4d2c79-dcbc-4526-92b4-a58842fe5195",
+  "content": "Context: 3. Composite method of recruitment\n\nThe field for deputation / short-term contract / absorption should, as far as possible, consist of officers holding analogous posts on regular basis but may be widened to include officers working in the next lower grade also with the qualifying service on regular basis normally prescribed  \nfor promotion.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 6029,
+  "end_char": 6380,
+  "chunk_index": 16,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Composite method of recruitment",
+    "hierarchy": "3. Composite method of recruitment"
+  }
+}

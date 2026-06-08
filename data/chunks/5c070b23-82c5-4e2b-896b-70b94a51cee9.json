@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5c070b23-82c5-4e2b-896b-70b94a51cee9",
+  "content": "Context: 3. Regular Promotions\n\n(b) Minimum eligibility service for promotion as per Seventh .CPC.-  \n| SI. No. | Level | Level | Minimum qualifying service for promotion |\n| ----------- | ------------ | ------------ | -------------------------------------------- |\n| | From | To | Minimum qualifying service for promotion |\n| 1. | Level 1 | Level 2 | 3 Years |\n| 2. | Level.2 | Level 3 | 3 Years |\n| 3. | Level 1 | Level 4 | 8 Years |\n| 4. | Leve'! J | level 4 | 5 Years |\n| 5. | l.evel d | Level 5 | 5 Years |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 303583,
+  "end_char": 304094,
+  "chunk_index": 793,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Regular Promotions",
+    "hierarchy": "3. Regular Promotions"
+  }
+}

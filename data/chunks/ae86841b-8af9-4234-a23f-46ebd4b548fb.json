@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ae86841b-8af9-4234-a23f-46ebd4b548fb",
+  "content": "Context: 1. Service Book\n\n- Rule 288 (1) to 288 (5) of GFR 2017.\n- (c) Creation and Maintenance of Service Records in e-format available in e-Office under e-governance may also be considered.-OM, dated 23-10-2013.\n- (d) Maintenance of Service Book in electronic format in e-Service Book module available under the e-Office Mission Mode Project has been implemented. - GID (2), Rule SR-198.\n- (e) The Service Book of a Government servant is to be transferred from parent Department to present Department on Technical Resignation.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1193784,
+  "end_char": 1194312,
+  "chunk_index": 3029,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Service Book",
+    "hierarchy": "1. Service Book"
+  }
+}

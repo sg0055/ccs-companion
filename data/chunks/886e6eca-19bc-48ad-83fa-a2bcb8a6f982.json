@@ -1,0 +1,26 @@
+{
+  "chunk_id": "886e6eca-19bc-48ad-83fa-a2bcb8a6f982",
+  "content": "Context: Calculate the following:-\n\nPay { 49,000, DA @ 46% - { 22,540 and HRA { 13,230.  \n- (iii) The official should join the new post on the expiry of fifteen days joining time. Since he was relieved on the afternoon of 2-12-2023, he should join the new post on the forenoon of 18-12-2023.  \n(6)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1411950,
+  "end_char": 1412247,
+  "chunk_index": 3566,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Calculate the following:-",
+    "hierarchy": "Calculate the following:-"
+  }
+}

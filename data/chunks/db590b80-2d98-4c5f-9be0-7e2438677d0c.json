@@ -1,0 +1,26 @@
+{
+  "chunk_id": "db590b80-2d98-4c5f-9be0-7e2438677d0c",
+  "content": "Context: 2. Purposes.-\n\n- GIO (4), Rule 4.\n8. (iv) If both husband and wife are employed in Central/State Government, Public Undertakings, semi-Government Institutions or Local Bodies,  \n- the pay of both of them will be taken into consideration for calculating the cost ceiling. - GIO (2), Rule 4.\n- (v) In the case of enlargement to existing accommodation, the total cost of the existing structure and the cost of enlargement should not exceed the limit in 4. Cost Ceiling above. - Rule 2 (vi).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 897549,
+  "end_char": 898045,
+  "chunk_index": 2271,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Purposes.-",
+    "hierarchy": "2. Purposes.-"
+  }
+}

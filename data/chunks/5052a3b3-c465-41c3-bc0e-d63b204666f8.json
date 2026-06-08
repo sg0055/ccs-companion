@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5052a3b3-c465-41c3-bc0e-d63b204666f8",
+  "content": "Context: 4. For Family Planning :\n\n8. Members of Lok Sahayak Sena who have won certificates of merit when required to participate in the Republic Day Parade period of stay not exceeding 14 days plus journey time to Delhi and back to headquarters.\n9. Attending Courts of Law as jurors and assessors with the permission\n3. of Heads of Departments.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 641842,
+  "end_char": 642187,
+  "chunk_index": 1629,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. For Family Planning :",
+    "hierarchy": "4. For Family Planning :"
+  }
+}

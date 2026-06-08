@@ -1,0 +1,26 @@
+{
+  "chunk_id": "02118d97-c76c-443b-ae0d-4c34cb735d5a",
+  "content": "Context: 1. Modalities for purchase of Staff Cars\n\n## 1. Modalities for purchase of Staff Cars  \nCars up to Net Dealer Price of purchase of~ 6,00,000 (Rupee Six Lakhs), available on GeM only shall be considered for purchase as staff car for official use, in consultation with the Financial Adviser based on parameters including price, availability, ease of maintenance, service facility in the specific location of the office, fuel economy, eco-friendliness.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1290817,
+  "end_char": 1291275,
+  "chunk_index": 3275,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Modalities for purchase of Staff Cars",
+    "hierarchy": "1. Modalities for purchase of Staff Cars"
+  }
+}

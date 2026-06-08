@@ -1,0 +1,26 @@
+{
+  "chunk_id": "480246a9-a719-4cb9-8872-c56a69bea753",
+  "content": "Context: 11. Conditions.-\n\nPersonal Pay  \n- (8) Employee at the maximum of his grade pay eligible for Personal Pay equal to the last increment for 12 months or till he/she gets promotion. In special cases, Personal Pay continued for full period even after promotion. Personal Pay granted to non-Hindi speaking English Stenographers for passing Hindi Stenography examination not admissible after promotion to higher post. TOT",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1258659,
+  "end_char": 1259083,
+  "chunk_index": 3194,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "11. Conditions.-",
+    "hierarchy": "11. Conditions.-"
+  }
+}

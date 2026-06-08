@@ -1,0 +1,26 @@
+{
+  "chunk_id": "360db467-185f-45c4-97f0-353ca362c535",
+  "content": "Context: 1. General Provident Fund\n\n6. Enhancement / Reduction.Subscription may be increased twice and/or reduced once at any time during the year. - Rule 8 (4).\n7. Suspension of subscription.Subscription to the fund shall be stopped during suspension, and at the option of the Government servant during leave on half pay, leave without pay and dies non. Proportionate subscription to be recovered for the period of duty and any leave other than HPL / EOL. - Rule 7 (1) and Rule 8.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 560222,
+  "end_char": 560703,
+  "chunk_index": 1427,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Provident Fund",
+    "hierarchy": "1. General Provident Fund"
+  }
+}

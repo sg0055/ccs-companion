@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0817c15a-aec5-4d09-825b-95827bdc9c4a",
+  "content": "Context: Conditions for grant of Child Care Leave (CCL).\n\n- (ix) CCL may be combined with leave of any other kind. Leave of the kind due and admissible (including Commuted Leave not exceeding sixty days and Leave Not Due) may be allowed for the third year in continuation of CCL without production of MC.\n- (x)\n- CCL shall not be debited against the leave account.\n- (xi) May be availed during LTC.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 612745,
+  "end_char": 613143,
+  "chunk_index": 1557,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions for grant of Child Care Leave (CCL).",
+    "hierarchy": "Conditions for grant of Child Care Leave (CCL)."
+  }
+}

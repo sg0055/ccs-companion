@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6c31536d-11ba-49de-9ca4-0f884285bd14",
+  "content": "Context: 5. Monthly subscription and amount of Insurance Cover:-\n\n- Paras. 9.4 and 11.10.  \n8. Interest on arrears of subscription.Arrears of subscriptions of an employee who was on extraordinary leave for any period will be recovered",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1350311,
+  "end_char": 1350545,
+  "chunk_index": 3419,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Monthly subscription and amount of Insurance Cover:-",
+    "hierarchy": "5. Monthly subscription and amount of Insurance Cover:-"
+  }
+}

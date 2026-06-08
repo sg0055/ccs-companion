@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a6b2a833-7e11-49f2-ac13-86fb68e9043e",
+  "content": "Context: ( (c) Resignation-\n\nThe competent authority should examine, with reference to .the merit of the disciplinary case pending against the Covernment servant, whether it would be in the public interest to accept the resignation. Normally, as officers are placed under suspension only in cases of grave delinquency, it would not be correct to accept the resignation of an officer under suspension. Exceptions would be where the alleged offence does not involve moral turpitude or where the evidence against the officer is not strong",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 205058,
+  "end_char": 205593,
+  "chunk_index": 535,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "( (c) Resignation-",
+    "hierarchy": "( (c) Resignation-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e2525aca-4bcd-40c3-ad7b-1d492bb24eda",
+  "content": "Context: 7. Central Administrative Tribunal\n\n3. (i) appointment.\n4. (ii)\n5. Pay, fixation of pay, granting of increments, stepping up of pay, etc.\n6. (iii)\n7. (iv)\n8. (v)\n9. (vi)\n10. (vii)\n11. (viii)\n12. (ix)\n13. (x)\n14. Confirmation, seniority, promotion.\n15. Pension including family pension.\n16. Disciplinary matters, adverse entries in confidential records.\n17. Transfer, posting.\n18. Allotment of quarters, recovery of rent, eviction from Government accommodation.\n19. Claims for Medical Reimbursement, LTC, Leave and Joining Time.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 222958,
+  "end_char": 223494,
+  "chunk_index": 583,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Central Administrative Tribunal",
+    "hierarchy": "7. Central Administrative Tribunal"
+  }
+}

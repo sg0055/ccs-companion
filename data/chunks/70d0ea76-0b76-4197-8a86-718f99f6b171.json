@@ -1,0 +1,26 @@
+{
+  "chunk_id": "70d0ea76-0b76-4197-8a86-718f99f6b171",
+  "content": "Context: 1. Pay Fixation in the new Pay Structure.-\n\nin the applicable Level of the Pay Matrix, the same shall be the Pay. If no such cell is available in the applicable Level, the immediate next higher cell would be the new pay. - Rule 7 of CCS (Revised Pay) Rules, 2016.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 340375,
+  "end_char": 340647,
+  "chunk_index": 886,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Pay Fixation in the new Pay Structure.-",
+    "hierarchy": "1. Pay Fixation in the new Pay Structure.-"
+  }
+}

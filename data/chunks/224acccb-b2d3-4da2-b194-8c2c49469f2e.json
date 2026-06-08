@@ -1,0 +1,26 @@
+{
+  "chunk_id": "224acccb-b2d3-4da2-b194-8c2c49469f2e",
+  "content": "Context: 7. Time-limit for submission of claims for Travelling Allowances\n\n3. The date of submission of the claims shall be determined as indicated below:-\n4. In the case of claims falling under Category 3 (ii), which are presented to the Treasury after a period of sixty days succeeding the date of completion of journey, the date of submission of the claim will be counted from the date when it was submitted by the Government servant to the Head of office/ Controlling Officer within prescribed time-limit of sixty days.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 722941,
+  "end_char": 723464,
+  "chunk_index": 1837,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Time-limit for submission of claims for Travelling Allowances",
+    "hierarchy": "7. Time-limit for submission of claims for Travelling Allowances"
+  }
+}

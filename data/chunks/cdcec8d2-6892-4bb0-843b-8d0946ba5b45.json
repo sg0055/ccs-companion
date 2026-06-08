@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cdcec8d2-6892-4bb0-843b-8d0946ba5b45",
+  "content": "Context: 4. List of stations where HRA is admissible from 1-9-2008 under OM, dated 29-8-2008\n\nAny special dispensation allowed in the past to cities/ towns for grant of HRA at higherrates and not specifically mentioned in OMs, dated 21-7-2015 and 7-7-2017, shall continue to apply, if the same has not been superseded / dispensed with or the existing classification of such city has not been revised to a higher classification on account of the population criteria vide OMs ibid. - OM, dated 15-7-2019.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 413068,
+  "end_char": 413570,
+  "chunk_index": 1064,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. List of stations where HRA is admissible from 1-9-2008 under OM, dated 29-8-2008",
+    "hierarchy": "4. List of stations where HRA is admissible from 1-9-2008 under OM, dated 29-8-2008"
+  }
+}

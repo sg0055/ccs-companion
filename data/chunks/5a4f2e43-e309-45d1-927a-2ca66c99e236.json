@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5a4f2e43-e309-45d1-927a-2ca66c99e236",
+  "content": "Context: 10. Authorization of Pension and Gratuity\n\nbenefits sanctioned upon conclusion of the proceedings; but no recovery shall be made if the pension finally sanctioned is less than the provisional pension already paid or reduced or withheld. - Rules 8 (4) and (5).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1077963,
+  "end_char": 1078231,
+  "chunk_index": 2733,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Authorization of Pension and Gratuity",
+    "hierarchy": "10. Authorization of Pension and Gratuity"
+  }
+}

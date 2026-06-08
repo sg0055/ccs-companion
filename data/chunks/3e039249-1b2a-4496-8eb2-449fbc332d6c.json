@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3e039249-1b2a-4496-8eb2-449fbc332d6c",
+  "content": "Context: 12. Payment of Gratuity under NPS Rules\n\n| ----------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |\n| (i) | Less than one year | Two times of emoluments. |\n| (ii) | One year or more but less than five years | Six times of emoluments. |\n| (iii) | Five years or more but less than eleven years | Twelve times of emoluments. |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1186858,
+  "end_char": 1187342,
+  "chunk_index": 3013,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "12. Payment of Gratuity under NPS Rules",
+    "hierarchy": "12. Payment of Gratuity under NPS Rules"
+  }
+}

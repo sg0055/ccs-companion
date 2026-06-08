@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ea7a41fe-4888-4941-ab70-e95b5c3f2c59",
+  "content": "Context: Time-limit:\n\n## Time-limit:  \n1. Maximum time-limit of fifteen days is being prescribed for\n2. sanction and payment of an advance from the Fund.\n3. In case of emergencies like illness, etc., the time-limit is restricted\n2. to seven days.\n3. For all the above cases of advance, no documentary proof is required. A simple declaration explaining the reasons for advance would be sufficient. - GIDs (1-A) to (1-C), Rule 12.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 564169,
+  "end_char": 564597,
+  "chunk_index": 1439,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Time-limit:",
+    "hierarchy": "Time-limit:"
+  }
+}

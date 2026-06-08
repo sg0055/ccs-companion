@@ -1,0 +1,26 @@
+{
+  "chunk_id": "d8490365-478a-441f-88a5-592d08bda4d7",
+  "content": "Context: (b) ICU Charges -\n\n## (b) ICU Charges -  \n~ 5,400 for all categories of ward entitlement  \n(General ward/ Semi-private ward/ Private ward)  \n(For non-NABH accredited hospitals, the charges shall be 15% less)  \nICU charges are inclusive of Room Rent.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 783684,
+  "end_char": 783942,
+  "chunk_index": 1990,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(b) ICU Charges -",
+    "hierarchy": "(b) ICU Charges -"
+  }
+}

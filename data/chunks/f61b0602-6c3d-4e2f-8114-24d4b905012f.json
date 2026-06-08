@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f61b0602-6c3d-4e2f-8114-24d4b905012f",
+  "content": "Context: 18. Night Duty\n\n## 18. Night Duty  \nNight Duty Allowance is granted to eligible employees as weightage for work done during night:  \n- (i) Night Duty will be defined as duty performed between 22:00 hours and 6:00 hours.\n- (ii) A uniform weightage of 10 minutes shall be given for every hour of night duty performed.\n- (iii) With effect from 1-7-2017, the ceiling of basic pay for entitlement of Night Duty Allowance shall be t 43,600 per month.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 470557,
+  "end_char": 471010,
+  "chunk_index": 1203,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "18. Night Duty",
+    "hierarchy": "18. Night Duty"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bb43d8de-2aed-4085-a8d7-97b283213574",
+  "content": "Context: 3. Modes of Procurement\n\n- Para. 4.3, Manual for Procurement of Goods.\n- Procurement through Selected Suppliers\n- (a) Limited Tender Enquiry - LTE (up to~ 25 (Rupees Twenty five) lakh); and\n- Special Limited Tender Enquiry (SLTE above ~ 25 (Rupees\n- (b) Twenty-five) lakh under special circumstances)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 957805,
+  "end_char": 958114,
+  "chunk_index": 2424,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Modes of Procurement",
+    "hierarchy": "3. Modes of Procurement"
+  }
+}

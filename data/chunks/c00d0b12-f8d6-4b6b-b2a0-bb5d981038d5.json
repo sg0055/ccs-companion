@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c00d0b12-f8d6-4b6b-b2a0-bb5d981038d5",
+  "content": "Context: Cenditions applicable for ad hoc Bonus :\n\n2. Payment chargeable under the head \"Salaries\".\n2. Accounting.-\n- OM, dated 16-9-1998 read with OM, dated 30-9-2004.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1234614,
+  "end_char": 1234782,
+  "chunk_index": 3134,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Cenditions applicable for ad hoc Bonus :",
+    "hierarchy": "Cenditions applicable for ad hoc Bonus :"
+  }
+}

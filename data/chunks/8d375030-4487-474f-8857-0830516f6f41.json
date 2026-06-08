@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8d375030-4487-474f-8857-0830516f6f41",
+  "content": "Context: (f) At the Same Station-\n\nChildren studying in educational institutions away from their parents at the time of transfer but joining their parents at the time of vacation, are treated as members of family subject to other conditions for drawal of T.A.  \n- GIO (11), SR 116.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 735152,
+  "end_char": 735433,
+  "chunk_index": 1867,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(f) At the Same Station-",
+    "hierarchy": "(f) At the Same Station-"
+  }
+}

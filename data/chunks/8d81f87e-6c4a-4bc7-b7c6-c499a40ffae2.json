@@ -1,0 +1,26 @@
+{
+  "chunk_id": "8d81f87e-6c4a-4bc7-b7c6-c499a40ffae2",
+  "content": "Context: 7. Advance\n\n## 7. Advance  \n1. Up to 90% of the fare can be taken. Advance admissible for both outward and return journeys if the leave taken by the official or the anticipated absence of members of family does not exceed 90 days. Otherwise, advance may be drawn for the outward journey only.  \nThe time-limit for drawal of LTC advance is 125 days (i.e. 4 months and  \n5 days) in case of journey by train.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 666331,
+  "end_char": 666745,
+  "chunk_index": 1693,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Advance",
+    "hierarchy": "7. Advance"
+  }
+}

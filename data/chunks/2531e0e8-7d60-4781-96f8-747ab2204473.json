@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2531e0e8-7d60-4781-96f8-747ab2204473",
+  "content": "Context: Medical claims requiring opinion of specialists\n\n- OM, dated 20-6-2014.\n- The Medical Claims which are incomplete in documentation shall be examined for any minor deficiencies, which can be resolved to process the claims by Additional-Directors. These include Photocopy of CGHS Card and validity, Emergency Certificate, issue of Bed-Ticket at Hospital, etc. If empanelled hospital has not",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 819512,
+  "end_char": 819909,
+  "chunk_index": 2081,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Medical claims requiring opinion of specialists",
+    "hierarchy": "Medical claims requiring opinion of specialists"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "59d7c5f2-1ff6-493f-a00a-81dccac944ff",
+  "content": "Context: Ans.\n\n## Ans.  \nPeriod of calculation of Average Emoluments: 20-7-2023 to 31-5-2024.  \n| Period | Emoluments f | Months | Amount f |\n| --------------------- | ---------------- | ---------- | ------------- |\n| 20-7-2023 31-7-2023 | 50,500 | 1 %1 | 19,548.39 |\n| 1-8-2023 31-12-2023 | 50,500 | 5 | 2,52,500.00 |\n| 1-1-2024 23-1-2024 | 50,500 | 2%1 | 37,467.74 |  \n| Period | Emoluments ' | Months | Amount ' |\n| --------------------- | ---------------- | ---------- | ------------- |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1434956,
+  "end_char": 1435446,
+  "chunk_index": 3624,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans.",
+    "hierarchy": "Ans."
+  }
+}

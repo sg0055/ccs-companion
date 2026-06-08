@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a50fe117-cd1b-4c90-a66e-53b498916f6a",
+  "content": "Context: ?\n\n8. Central Government Health Scheme.(1) The spouse drawing higher pay will contribute to the Scheme. Parents of the non-contributing employee will not be eligible for the Scheme's benefits.\n- (2) However, a female contributor has the option to include her parents in-law, instead of her parents, in the family for availing of the medical benefits.\n- G.I., M.H.,O.M. No. F. 6 (1)-54-Hosp., dated 31-5-1954 and F. 4 (1)-18/63-H, dated 3-3-1966.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1238896,
+  "end_char": 1239350,
+  "chunk_index": 3146,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "?",
+    "hierarchy": "?"
+  }
+}

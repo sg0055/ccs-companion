@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bfc773b5-396e-443f-8fb1-47d40241eb32",
+  "content": "Context: (i) DA on Tour.-\n\n| 14 and above 12 and 13 | Reimbursement for hotel accommodation/guest house of up to ~ 7,500 per day. Reimbursement of AC taxi charges as per actual expen diture commensurate with official engagements for travel within the city and Reimbursement of food bills not exceeding.\" 1,200 per day. Reimbursement for hotel accommodation/guest of up to t 4,500 per day Reimbursement of AC taxi charges of up to 50 km per for travel within the city. Reimbursement of food bills not exceeding t 1,000 per |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 693319,
+  "end_char": 693842,
+  "chunk_index": 1765,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(i) DA on Tour.-",
+    "hierarchy": "(i) DA on Tour.-"
+  }
+}

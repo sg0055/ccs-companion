@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f581f4c7-dda5-479f-b8e8-f63f24375d6f",
+  "content": "Context: 5. Monthly subscription and amount of Insurance Cover:-\n\nNomination: If the employee has a \"family\", he shall make such nomination only in favour of a member or members of his \"family\". However, a female subscriber can exclude her husband from her family for the purpose of this Scheme by a notice in writing to the Head of Office.  \n- \"Family\" means husband, wife or wives, parents, children, a ward, minor brothers, unmarried sisters, deceased son's widow and children, and where none of the parents of the members of the Scheme is alive, a paternal grandparent.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1352222,
+  "end_char": 1352795,
+  "chunk_index": 3423,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Monthly subscription and amount of Insurance Cover:-",
+    "hierarchy": "5. Monthly subscription and amount of Insurance Cover:-"
+  }
+}

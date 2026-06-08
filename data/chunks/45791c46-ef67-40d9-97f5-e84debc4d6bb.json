@@ -1,0 +1,26 @@
+{
+  "chunk_id": "45791c46-ef67-40d9-97f5-e84debc4d6bb",
+  "content": "Context: 8. Reimbursement\n\n## 8. Reimbursement  \n- (a) No daily allowance shall be admissible on LTC.\n- (b) Any incidental expenses and expenditure on local journeys shall not be admissible. - GID (1-B), Rule 12.\n- Fares for journeys between duty station and home town, both ways, will be reimbursed by Government in full. Reservation charges are reimbursable; but telegram charges for reservation of\n- (c) onward/ return journeys, etc., are not reimbursable.  \n- GIDs (3) and (4), Rule 13.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 669648,
+  "end_char": 670138,
+  "chunk_index": 1701,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Reimbursement",
+    "hierarchy": "8. Reimbursement"
+  }
+}

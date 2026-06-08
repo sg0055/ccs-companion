@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f4af1006-c9e9-4fae-8791-67cd2ed92eaf",
+  "content": "Context: 6. Facilities available\n\n- OMs, dated 31-10-2011, 7-2-2013, 21-2-2013 and 29-4-2014.  \n(xxiii) Reimbursement of cost of Liver Transplant Surgery in Government Hospitals/Private Hospitals, which are registered under the Transplantation of Human Organs Act, 1994 with prior permission subject to ceiling rates and conditions. - OM, dated 16-1-2013.  \n(xxiv) Reimbursement of cost of surgery of Photo Selective Vaporization  \nof Prostate (PVP) using Green Light HPS Fibre (Angled Delivery Device).  \n- OM, dated 8-8-2013.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 780245,
+  "end_char": 780772,
+  "chunk_index": 1982,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Facilities available",
+    "hierarchy": "6. Facilities available"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b1d82d31-5294-4370-bb18-98628af5f5b7",
+  "content": "Context: 1. Income from Salary\n\nDefinition of salary.Salary includes all kinds of pay, DA, overtime allowance, bonus, leave salary, compensatory allowance, transport allowance (except the exempted amount paid to an employee, who is blind or deaf or dumb or orthopaedically handicapped with disability of lower extremities), value of rent-free quarters, fees, honoraria, reimbursement of tuition fees, pension, subsistence allowance, interim relief, reimbursement of expenditure actually incurred towards medical treatment for self and family",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1313203,
+  "end_char": 1313744,
+  "chunk_index": 3330,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Income from Salary",
+    "hierarchy": "1. Income from Salary"
+  }
+}

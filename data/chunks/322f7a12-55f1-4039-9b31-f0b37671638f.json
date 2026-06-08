@@ -1,0 +1,26 @@
+{
+  "chunk_id": "322f7a12-55f1-4039-9b31-f0b37671638f",
+  "content": "Context: 10. Authorization of Pension and Gratuity\n\n2. Payment of provisional pension/ gratuity.If, for any special reasons, it has not been found possible to complete and forward the pension papers to the Accounts Officer responsible for issue of PPO within the prescribed time-limit or if the pension papers have been returned by the Accounts Officer eliciting further information and the Accounts Officer is not able to issue PPO two months before the date of retirement on superannuation, the Head of Office shall take steps to authorize payment of",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1074707,
+  "end_char": 1075259,
+  "chunk_index": 2726,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "10. Authorization of Pension and Gratuity",
+    "hierarchy": "10. Authorization of Pension and Gratuity"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a99654a6-e017-4d1f-9d22-fe5f06053502",
+  "content": "Context: 7. Calculation of Pension\n\nwhich it falls due.  \nRounding off.The amount of pension should be rounded off to the next higher rupee. Payment of pension for part of a month, if worked out in fraction of a rupee should also be rounded off to the next higher rupee.  \n- Rule 44 (9) and (10).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1060596,
+  "end_char": 1060892,
+  "chunk_index": 2690,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "7. Calculation of Pension",
+    "hierarchy": "7. Calculation of Pension"
+  }
+}

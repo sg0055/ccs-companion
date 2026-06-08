@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e20ec421-0934-40e8-b9fc-d92bdaa72fa9",
+  "content": "Context: 1. General Principles\n\nThe Certificate of Disability is required to be issued in Form 3-A which should be signed by a Government doctor of a Government medical board. Further, a Government servant who is granted leave in accordance with the provisions of Clause (b) of sub-rule (1). of Rule 20, the provisions of Section 20 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016) shall, suo motu apply. --GID (2), Rule 20.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 589005,
+  "end_char": 589446,
+  "chunk_index": 1500,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Principles",
+    "hierarchy": "1. General Principles"
+  }
+}

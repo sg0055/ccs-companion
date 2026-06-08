@@ -1,0 +1,26 @@
+{
+  "chunk_id": "eedcbb02-f314-43e5-afed-c40b96bac7dd",
+  "content": "Context: 1. Classification of cities and rates.-\n\n| cities / towns | cities / towns | Population Criteria ~ | From 1-7-2017 to 30-6-2021 | From 1-7-2021 |\n| (i) | 'X' | 50 lakhs and above | 24 % | 27 % |\n| (ii) | 'Y' | 5 lakhs to 50 lakhs | 16 % | 18 % |\n| (iii) | 'Z' | Below 5 lakhs | 8% | 9% |  \nHRA shall not be less than t 5,400, ~ 3,600, ~ 1,800 for X, Y and Z class cities respectively.  \n* The above rates of HRA will be revised to 27%, 18% and 9% when DA crosses 25 per cent, and further revised to 30 %, 20 % and 10 % when DA crosses 50 points.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 400919,
+  "end_char": 401473,
+  "chunk_index": 1037,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Classification of cities and rates.-",
+    "hierarchy": "1. Classification of cities and rates.-"
+  }
+}

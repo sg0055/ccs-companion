@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bb24380f-2e62-417e-8398-b94ef27cb9a1",
+  "content": "Context: 5. Honorarium admissible for specific cases.\n\n| Daily Allowance | | Same as the officer was entitled to immediately prior to retirement | Same as the officer was entitled to immediately prior to retirement |\n| Secretarial Assistance | I | Where the number of witnesses cited in the charge-sheet is more than 10 | ~ 40,000 |\n| Secretarial Assistance | II | Where the number of witnesses cited in the charge-sheet are between 6-10 | ~ 30,000 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 445891,
+  "end_char": 446341,
+  "chunk_index": 1144,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Honorarium admissible for specific cases.",
+    "hierarchy": "5. Honorarium admissible for specific cases."
+  }
+}

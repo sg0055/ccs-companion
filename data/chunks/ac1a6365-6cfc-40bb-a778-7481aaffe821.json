@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ac1a6365-6cfc-40bb-a778-7481aaffe821",
+  "content": "Context: 3. Certain Special Entries.-\n\n- (ii) Sufficient number of Form No. 13 will be pasted in Service Book and the entries for recoveries, etc., made. Every year, in the month of January,\n- Head of Office will record a certificate in Column 7 in the following form.\n- \"Subscription at the rate of { appropriate to Croup of the Scheme recovered from pay and allowance for the period from January to December \", -GIO (8), SR 199.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1196278,
+  "end_char": 1196708,
+  "chunk_index": 3036,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Certain Special Entries.-",
+    "hierarchy": "3. Certain Special Entries.-"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f19a09bf-45dc-4b82-a5b9-d8ac91402dae",
+  "content": "Context: 4. Change of Name\n\nAfter execution of the Deed, the Government servant should have the change of name published in a prominent local newspaper as well as in the Gazette of India at own expense. On the submission of copy of Deed, Advertisement and Gazette Notification, change of name will be  \nentered in the Service Records.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1207906,
+  "end_char": 1208240,
+  "chunk_index": 3065,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Change of Name",
+    "hierarchy": "4. Change of Name"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0760f104-0898-4745-ad71-59c9f965b960",
+  "content": "Context: 1. General Provident Fund\n\nJ110 family can nominate any person / persons, including a Company / Association / Body of individuals / a Charitable or other Irust or Fund, Subject to its validity, a nomination / notice of cancellation takes effect from the date of its receipt by the Accounts Officer. - .Rule 5.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 561567,
+  "end_char": 561885,
+  "chunk_index": 1430,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Provident Fund",
+    "hierarchy": "1. General Provident Fund"
+  }
+}

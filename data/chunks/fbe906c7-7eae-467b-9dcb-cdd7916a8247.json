@@ -1,0 +1,26 @@
+{
+  "chunk_id": "fbe906c7-7eae-467b-9dcb-cdd7916a8247",
+  "content": "Context: 1. Service Book\n\n2. Entries and Attestation.Every step in official's career should be recorded and each entry attested by Head of Office who will ensure that the entries are correct and also that there is no erasure, overwriting, etc. Entries/ attestation in the Service Book of Head of Office will be made by next higher authority. Head of Office may also authorize a junior officer to attest Service Book entries on his behalf. In such cases, entries/ attestation in the Service Book of such authorized officer will be made by",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1194361,
+  "end_char": 1194898,
+  "chunk_index": 3031,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Service Book",
+    "hierarchy": "1. Service Book"
+  }
+}

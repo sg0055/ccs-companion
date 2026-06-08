@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0accc0b0-d62a-455d-ba45-7e3ec94b1e43",
+  "content": "Context: 3. Applications for appointment in PSUs.-\n\n4. Applications to UPSC.Applications for posts advertised by UPSC can be sent direct by the employee under intimation to the Head of Office giving details of the examination/post applied for and requesting the Head of Office to communicate the permission to the Commission directly. If the Head of Office/Department, considers it necessary to withhold permission,",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1213103,
+  "end_char": 1213518,
+  "chunk_index": 3079,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Applications for appointment in PSUs.-",
+    "hierarchy": "3. Applications for appointment in PSUs.-"
+  }
+}

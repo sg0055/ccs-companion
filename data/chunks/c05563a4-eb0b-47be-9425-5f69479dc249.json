@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c05563a4-eb0b-47be-9425-5f69479dc249",
+  "content": "Context: Leave Salary Contribution:\n\nA person drawing emoluments as Basic Pay i 36,000 and Dearness Allowance t 50,400 (DA @ 140%) with increment @ 3% per annum on the basic pay is appointed in Central Government in the Level 11 of Pay Matrix (in Seventh CPC) with DA@ 15% on deputation basis. What will be his pay in the ex cadre post?",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1389146,
+  "end_char": 1389482,
+  "chunk_index": 3510,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Leave Salary Contribution:",
+    "hierarchy": "Leave Salary Contribution:"
+  }
+}

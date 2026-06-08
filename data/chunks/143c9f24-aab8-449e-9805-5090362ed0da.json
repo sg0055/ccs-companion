@@ -1,0 +1,26 @@
+{
+  "chunk_id": "143c9f24-aab8-449e-9805-5090362ed0da",
+  "content": "Context: 6. Classes of Pension\n\n## 6. Classes of Pension  \n[ Swamy's Pension Compilation]  \nPension is admissible to permanent employees who retire or are retired with a qualifying service of not less than ten years. Temporary employees who retire on superannuation or invalidation after rendering not less than ten years of service or retire voluntarily after 20 years' continuous service are also eligible for pension. The different classes of pension are-  \n1. Superannuation pension\n2. Retiring Pension annuation.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1056204,
+  "end_char": 1056721,
+  "chunk_index": 2680,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Classes of Pension",
+    "hierarchy": "6. Classes of Pension"
+  }
+}

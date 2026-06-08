@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4b9e8e54-a52c-4736-8f57-76ebe70d87af",
+  "content": "Context: 2. General Provisions\n\nthe physical presence of the officer in the office need not· be insisted. -GIO (3), FR 56.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1037710,
+  "end_char": 1037832,
+  "chunk_index": 2634,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. General Provisions",
+    "hierarchy": "2. General Provisions"
+  }
+}

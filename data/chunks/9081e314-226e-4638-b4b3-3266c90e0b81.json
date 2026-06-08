@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9081e314-226e-4638-b4b3-3266c90e0b81",
+  "content": "Context: 13. Annual Return of Assets and Liabilities\n\n- V. The date for submission of Annual Return for each year.The Annual Return as on 31st March every year should be submitted on or before 31st July of that year. - GID (8), Rule 4 and Sec. IV.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 156809,
+  "end_char": 157056,
+  "chunk_index": 403,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "13. Annual Return of Assets and Liabilities",
+    "hierarchy": "13. Annual Return of Assets and Liabilities"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "610bf35e-586c-4f1f-a732-d05aa122b3da",
+  "content": "Context: 9. Subsistence Allowance\n\n- GIO (1) of CCS (CCA), Chapter 4, FR 53 1 (ii) (a).  \nSubsistence Allowance to be reviewed after 3 months and may be % of the allowance during the first 3 months or reduced  \nincreased by up to 50 by up to 50% of the allowance during the first 3 months.  \n- FR 53 1 (ii) (a) - (i) and (ii).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 198456,
+  "end_char": 198782,
+  "chunk_index": 509,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Subsistence Allowance",
+    "hierarchy": "9. Subsistence Allowance"
+  }
+}

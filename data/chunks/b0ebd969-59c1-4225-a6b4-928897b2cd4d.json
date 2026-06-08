@@ -1,0 +1,26 @@
+{
+  "chunk_id": "b0ebd969-59c1-4225-a6b4-928897b2cd4d",
+  "content": "Context: 2. Hostel Subsidy\n\ncannot be obtained, self-attested copy of the report card and original fee receipt(s)/e-receipt(s) which should indicate the amount of expenditure incurred by the Government servant towards lodging and boarding in the residential complex can be produced for claiming Hostel Subsidy. The expenditure on boarding and lodging or the ceiling oft 6,750 as mentioned above, whichever is lower, shall be paid to the employee as Hostel Subsidy. The period/year will mean academic year i.e., twelve months of complete",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 883742,
+  "end_char": 884278,
+  "chunk_index": 2238,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Hostel Subsidy",
+    "hierarchy": "2. Hostel Subsidy"
+  }
+}

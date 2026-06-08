@@ -1,0 +1,26 @@
+{
+  "chunk_id": "50d89eca-c6e9-40b4-90ec-a343d3955762",
+  "content": "Context: COMMUTATION TABLE (Effective from 1-1-2006)\n\nRestoration of commuted portion of pension after 15 years is to be made automatically by bank. Pensioner will not be asked to make application for restoration of commuted portion of pension. In cases where the date of commutation is not readily available in the PPO, the bank will obtain the information from the Accounts Officer who issued the PPO through Central Pension Accounting Office before restoring the commuted portion of pension. The amount of commuted pension will not be deducted from family",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1092794,
+  "end_char": 1093352,
+  "chunk_index": 2770,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "COMMUTATION TABLE (Effective from 1-1-2006)",
+    "hierarchy": "COMMUTATION TABLE (Effective from 1-1-2006)"
+  }
+}

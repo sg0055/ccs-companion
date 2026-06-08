@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ea7c0fc5-540f-4133-ae52-2cc913385899",
+  "content": "Context: 15. Miscellaneous\n\nEstates. Copies of transfer orders may also be endorsed to the Directorate of Estates indicating the details of Government accommodation occupied by them, to avoid unauthorized stay and to improve the availability of residential accommodation for allotment to wait-listed officials. In case of transfers, LPC may be issued only after getting an acknowledgement intimation of the transfer of the allottee to other office from the Directorate of Estates. HRA may not be paid to the official at the new station",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 550377,
+  "end_char": 550912,
+  "chunk_index": 1404,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "15. Miscellaneous",
+    "hierarchy": "15. Miscellaneous"
+  }
+}

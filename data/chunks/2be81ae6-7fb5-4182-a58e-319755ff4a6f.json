@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2be81ae6-7fb5-4182-a58e-319755ff4a6f",
+  "content": "Context: 1. Guidelines for recruitment of casual labour.-\n\n7. Two years' continuous service.The benefit referred to in previous Para. will be available if the casual labourer has put in at least 240 days of service (206 days in the case of offices observing 5-day week) including broken periods of service during each of the two years service.\n8. Ban on engagement of casual workers for duties of Group 'C'. There is complete ban on engagement of casual workers for duties of Group 'C' posts. - Chapter 22.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1229857,
+  "end_char": 1230363,
+  "chunk_index": 3123,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Guidelines for recruitment of casual labour.-",
+    "hierarchy": "1. Guidelines for recruitment of casual labour.-"
+  }
+}

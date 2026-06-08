@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4abc470f-5dbf-4acf-87e3-c7c0113e1b56",
+  "content": "Context: 6. Combination with leave / vacation\n\n## 6. Combination with leave / vacation  \nJoining time may be combined with vacation, or leave of any kind or duration except casual leave. - Rule 6 (2).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 686758,
+  "end_char": 686958,
+  "chunk_index": 1746,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "6. Combination with leave / vacation",
+    "hierarchy": "6. Combination with leave / vacation"
+  }
+}

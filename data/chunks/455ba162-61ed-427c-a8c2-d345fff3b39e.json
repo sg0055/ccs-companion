@@ -1,0 +1,26 @@
+{
+  "chunk_id": "455ba162-61ed-427c-a8c2-d345fff3b39e",
+  "content": "Context: - Section 80-D\n\n8. National Blood Transfusion Council or any State Blood Transfusion Council, having its sole object to the control, supervision, regulation or encouragement in India of the services related to operation and requirements of blood banks.\n9. The Army Central Welfare Fund or the Indian Naval Benevolent Fund or the Air Force Central Welfare Fund established by the Armed Forces of the Union. 090\n10. The Andhra Pradesh Chief Minister's Cyclone Relief Fund.\n11. The National Illness Assistance Fund.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1327323,
+  "end_char": 1327844,
+  "chunk_index": 3362,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- Section 80-D",
+    "hierarchy": "- Section 80-D"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "6b9f465a-a197-4e2f-b9b2-62f4cfd718b6",
+  "content": "Context: AREAS INCLUDED IN PART 'A'\n\n| 3. | HIMACHAL PRADESH | 1. Chamba District (a) Pangi Tehsil (b) Following Panchayats and Villages of Bharmour Tehsil: (i) Panchayats: Badgaun, Bajol, Deol Kugti, Nayagam and Tunda. (ii) Villages: Ghatu of Gram Panchayat Jagat, Kanarsi of Gram Panchayat Chauhata. 2. Kinnaur District (a) Asrang, Chitkul and Hango Kuno/Charang Panchayats. |  \n| SL. 'Ne>. | Name ofStates | Areas covered |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 478219,
+  "end_char": 478645,
+  "chunk_index": 1221,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "AREAS INCLUDED IN PART 'A'",
+    "hierarchy": "AREAS INCLUDED IN PART 'A'"
+  }
+}

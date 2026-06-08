@@ -1,0 +1,26 @@
+{
+  "chunk_id": "a94868dc-a75f-4dfb-bd98-adf45888a60e",
+  "content": "Context: 5. Emoluments and Average Emoluments\n\nEmoluments / Average Emoluments during absence from duty.If an employee immediately before retirement or death in service had been on leave with leave salary, the emoluments which he would have  \n1. drawn had he not been on leave will be taken as 'emoluments'.  \n2. If an employee immediately before his retirement or death while in service, was on leave, and earned an increment which was not withheld, such increment, though not actually drawn, shall be taken as emoluments.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1052395,
+  "end_char": 1052918,
+  "chunk_index": 2672,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Emoluments and Average Emoluments",
+    "hierarchy": "5. Emoluments and Average Emoluments"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cf8f714f-b7b1-4048-9acc-b73a8a19cf61",
+  "content": "Context: Promotion during suspension\n\nIf an officer is suspended subsequent to the meeting of the DPC but before he is actually promoted, then the recommendations would be deemed to have been placed in the sealed cover. - GJD (20), Chapter 3.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 200058,
+  "end_char": 200300,
+  "chunk_index": 515,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Promotion during suspension",
+    "hierarchy": "Promotion during suspension"
+  }
+}

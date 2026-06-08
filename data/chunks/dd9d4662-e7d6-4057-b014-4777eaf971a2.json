@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dd9d4662-e7d6-4057-b014-4777eaf971a2",
+  "content": "Context: FREQUENTLY ASKED QUESTIONS\n\nReimbursement of Rajdhani / Shatabdi rates will be allowed. If the fare paid on travel is less than the fare charged for Rajdhani / Shatabdi type trains, reimbursement would be limited to the actual expenditure.  \n3. What is the condition for grant of one-third of Composite Transfer Grant in cases of transfer within the same city?  \nThere should actually be a change of residence.  \n4. How does the classification of cities I towns affect the rates for transportation of personal effects?",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 753304,
+  "end_char": 753831,
+  "chunk_index": 1914,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "FREQUENTLY ASKED QUESTIONS",
+    "hierarchy": "FREQUENTLY ASKED QUESTIONS"
+  }
+}

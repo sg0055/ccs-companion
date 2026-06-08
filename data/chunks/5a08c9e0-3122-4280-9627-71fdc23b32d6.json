@@ -1,0 +1,26 @@
+{
+  "chunk_id": "5a08c9e0-3122-4280-9627-71fdc23b32d6",
+  "content": "Context: Pension Compilation]\n\n## Pension Compilation]  \nPayment of Arrears of Pension (Nomination) Rules, 1983 provide for any Central Government pensioner to nominate any other person conferring the right to receive, after the death of the pensioner, all moneys payable to the pensioner on account of pension which remain unpaid at the time of his death.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1102348,
+  "end_char": 1102704,
+  "chunk_index": 2794,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Pension Compilation]",
+    "hierarchy": "Pension Compilation]"
+  }
+}

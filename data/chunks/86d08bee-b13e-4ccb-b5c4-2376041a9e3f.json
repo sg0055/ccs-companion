@@ -1,0 +1,26 @@
+{
+  "chunk_id": "86d08bee-b13e-4ccb-b5c4-2376041a9e3f",
+  "content": "Context: - Section 80-D\n\nInter-changeability of PAN and Aadhaar and mandatory quoting in prescribed transactions.Every person, who has not been allotted a PAN, shall apply to the Assessing Officer for allotment of PAN. Every person who is required to furnish or intimate or quote his PAN and who, has not been allotted a PAN but possesses the Aadhaar number, may furnish or intimate or quote his Aadhaar number in lieu of PAN and such person shall be allotted a PAN in the prescribed manner; every person who has been allotted a PAN and",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1329724,
+  "end_char": 1330260,
+  "chunk_index": 3367,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- Section 80-D",
+    "hierarchy": "- Section 80-D"
+  }
+}

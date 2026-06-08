@@ -1,0 +1,26 @@
+{
+  "chunk_id": "0ddd4d14-0c13-4648-badb-cbabc182fd5b",
+  "content": "Context: Entitlements at a glance\n\n| 6 to 11 | -do- | 6000 kg by goods train/ 4 wheeler wagon/ 1 single container | 50 per km |\n| 5 | -do- | 3000 kg | 25 per km |\n| 4 and below | -do- | 1500 kg | 15 per km |  \nThe rates for personal effects will further increase by 25% each time DA rises by 50%.  \nThe rates for transportation by road are on a per km basis and consideration of class of city have been done away with. - GIO (1), SR 116.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 738004,
+  "end_char": 738441,
+  "chunk_index": 1874,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Entitlements at a glance",
+    "hierarchy": "Entitlements at a glance"
+  }
+}

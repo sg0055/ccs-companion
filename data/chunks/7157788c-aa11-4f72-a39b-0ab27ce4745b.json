@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7157788c-aa11-4f72-a39b-0ab27ce4745b",
+  "content": "Context: 2. Methods of Recruitment\n\nAbsorption and deputation are not same. There is a substantial difference between absorption and deputation. The officer, who initially comes on deputation, may be permanently absorbed in the post/ grade if recruitment rules prescribe for absorption as mode of recruitment. Such absorption can be effected only in the case of officers who are on deputation from the Central / State Government.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 3487,
+  "end_char": 3916,
+  "chunk_index": 9,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Methods of Recruitment",
+    "hierarchy": "2. Methods of Recruitment"
+  }
+}

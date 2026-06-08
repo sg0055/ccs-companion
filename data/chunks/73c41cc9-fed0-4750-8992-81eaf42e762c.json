@@ -1,0 +1,26 @@
+{
+  "chunk_id": "73c41cc9-fed0-4750-8992-81eaf42e762c",
+  "content": "Context: Ans:\n\n## Ans:  \n| (a) His pay on grant of II MACP will be fixed as follows: | (a) His pay on grant of II MACP will be fixed as follows: |\n| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |\n| Pay from 1-7-2023 | 55,200 |\n| Pay in Level 6 after adding one increment | 56,900 |\n| Pay on grant of MACP in Level 7 at a cell equal to or next higher as compared to t 56,900 | 56,900 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1430947,
+  "end_char": 1431443,
+  "chunk_index": 3614,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans:",
+    "hierarchy": "Ans:"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "3adc0f5c-c21b-4445-b801-d1e5e4416cc2",
+  "content": "Context: Guidelines on Air Travel\n\n## Guidelines on Air Travel  \n1. With effect from 1-1-2022, in all cases of Air Travel where Government of India bears the cost of air passage, air tickets shall be purchased from the three Authorized Travel Agents viz.\n1. Mis. Balmer Lawrie and Company Limited (BLCL).\n2. M/s. Ashok Travels and Tours (ATT).\n3. Indian Railways Catering and Tourism Corporation Ltd. (IRCTC).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 713293,
+  "end_char": 713702,
+  "chunk_index": 1812,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Guidelines on Air Travel",
+    "hierarchy": "Guidelines on Air Travel"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "06e80b3d-b92e-4c1b-9436-9b031c506a41",
+  "content": "Context: 1. General Principles\n\n6. No leave of any kind can be granted for a continuous period exceeding five years except with the sanction of the President. Without a valid reason, a Government servant who remains absent for continuous period exceeding five years other than foreign service, with or without\n4. leave, should be deemed to have resigned from Government service.  \n- Rule 12.  \n7. An official on leave should not take up any service or employment\n2. elsewhere without obtaining prior sanction of the Competent Authority.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 584104,
+  "end_char": 584640,
+  "chunk_index": 1487,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. General Principles",
+    "hierarchy": "1. General Principles"
+  }
+}

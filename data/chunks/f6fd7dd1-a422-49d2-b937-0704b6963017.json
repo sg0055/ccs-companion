@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f6fd7dd1-a422-49d2-b937-0704b6963017",
+  "content": "Context: - OM, dated 6-4-201'8.\n\nCGHS Card is valid at any CGHS Wellness Centre in the country for availing CGHS benefits as per the details given under:-  \n- i. CGHS Card is valid in any Wellness Centre in India and no additional document/ attachment is required.  \n- Medicines shall be issued for up to 3 months, in case of beneficiaries\n- ii. undergoing treatment for chronic illnesses.\n- iii. Referral / endorsement for treatment from private HCOs empanelled under CGHS shall be issued from any Wellness Centre.  \n- OM, dated 1-5-2023.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 763069,
+  "end_char": 763608,
+  "chunk_index": 1938,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- OM, dated 6-4-201'8.",
+    "hierarchy": "- OM, dated 6-4-201'8."
+  }
+}

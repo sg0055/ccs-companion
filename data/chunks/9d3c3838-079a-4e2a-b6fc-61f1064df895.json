@@ -1,0 +1,26 @@
+{
+  "chunk_id": "9d3c3838-079a-4e2a-b6fc-61f1064df895",
+  "content": "Context: Salient features of the Matrix.-\n\n## Salient features of the Matrix.-  \n- (i) The matrix is divided into 9 cells based on Low, Medium and high risk juxtaposed with low, medium and high hardship.\n- (ii) One extra cell has been added to the top for Siachen Allowance, i.e., R.H. Max.\n- (iii) The risk and hardship in Siachen area is the maximum that any Government employee faces.  \n- (iv) The rates in each cell are in the nature of Rupees per month (~ p.m.). The rates will increase by 25% each time DA rises by 50%.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 476443,
+  "end_char": 476968,
+  "chunk_index": 1217,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Salient features of the Matrix.-",
+    "hierarchy": "Salient features of the Matrix.-"
+  }
+}

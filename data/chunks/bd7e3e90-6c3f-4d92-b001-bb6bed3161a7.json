@@ -1,0 +1,26 @@
+{
+  "chunk_id": "bd7e3e90-6c3f-4d92-b001-bb6bed3161a7",
+  "content": "Context: - OM, dated 6-4-201'8.\n\n- NOTE 3.If an employee or a member of his family covered under CGHS falls ill at a place not covered under CGHS, treatment shall be admissible under CS (MA) Rules. - OM, dated 2-6-1995.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 762431,
+  "end_char": 762650,
+  "chunk_index": 1936,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "- OM, dated 6-4-201'8.",
+    "hierarchy": "- OM, dated 6-4-201'8."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4ce6ee02-c177-4a27-8b65-cf5f77693bdb",
+  "content": "Context: 1. House Building Advance\n\n| Month | Month | Amount paid | Amount recovered | IBB |\n| ------------------------------------------------------ | ---------------- | ----------------------- | --------------------------------------------- | -------------------------------------------------------------------- |\n| September October November December January February | 2024 2024 2024 | ' - - - - - - - - | ' 9,000 9,000 9,000 9,000 9,000 9,000 9,000 | ' 8,28,000 8,19,000 8,10,000 8,01,000 7,92,000 7,83,000 7,74,000 - |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1429253,
+  "end_char": 1429777,
+  "chunk_index": 3610,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. House Building Advance",
+    "hierarchy": "1. House Building Advance"
+  }
+}

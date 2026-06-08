@@ -1,0 +1,26 @@
+{
+  "chunk_id": "7de3db69-7577-4d93-b6f6-524c1e53b3bf",
+  "content": "Context: 5. Guidelines\n\n5. If hospitalization is not considered necessary, hut treatment is expected to be prolonged requiring more than four consultations or more than a course of fifteen injections, as the case may be, either separately or concurrently, the patient should be referred to out-patient department of Government/ recognized hospital.\n6. If, for want of accommodation, admission to a hospital rs not possible, reimbursement of expenses incurred on treatment is permissible to the extent otherwise admissible.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 854126,
+  "end_char": 854648,
+  "chunk_index": 2163,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Guidelines",
+    "hierarchy": "5. Guidelines"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "f9615725-a005-4b88-ac35-a8b62d673e78",
+  "content": "Context: 20. Pension through Public Sector Banks / Post Office Savings Bank\n\n2. The facility to draw pension / family pension through Post Office Savings Bank is available to the pensioners/ family pensioners of Departments of Posts, Telecommunication and Railways.\n3. A retiring employee desiring to draw his pension through a branch of a Public Sector Bank authorized to disburse Government pensions should indicate in his application for pension (Form 6) the name of the Bank and the branch through which he wishes to draw his pension.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1128022,
+  "end_char": 1128560,
+  "chunk_index": 2866,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "20. Pension through Public Sector Banks / Post Office Savings Bank",
+    "hierarchy": "20. Pension through Public Sector Banks / Post Office Savings Bank"
+  }
+}

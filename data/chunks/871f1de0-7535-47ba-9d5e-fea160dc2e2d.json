@@ -1,0 +1,26 @@
+{
+  "chunk_id": "871f1de0-7535-47ba-9d5e-fea160dc2e2d",
+  "content": "Context: 3. Qualifying Service\n\n| 9 | 8 | 29 | 19 | 9 | 9 | 00 | 20 |\n| 19 | 8 | 20 | 39 | 19 | 9 | 00 | 40 |\n| 24 | 7 | 15 | 49 | 24 | 10 | 00 | 50 |\n| 32 | 5 | 25 | 65 | 32 | 9 | 00 | 66 |  \n- Rule 44 (7).",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1046937,
+  "end_char": 1047144,
+  "chunk_index": 2658,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "3. Qualifying Service",
+    "hierarchy": "3. Qualifying Service"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "01699103-e7ec-4805-900d-110d956d5ec7",
+  "content": "Context: Medical claims not requiring special approvals\n\nPensioner CGHS beneficiaries shall submit the medical claims to the CMO in-charge of the CGHS Wellness Centre, where the CGHS Card is enrolled. They shall also submit claims (MRCs) to CGHS of city, where the treatment was taken. CMO in-charge of CGHS Wellness Centre issues Serial Number and sends the claim papers to the office of the Additional Director, CGHS for processing. The Bills shall be processed by the Dealing Assistants and CMO and after the approval by the Additional-Director, the bill for",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 812827,
+  "end_char": 813388,
+  "chunk_index": 2063,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Medical claims not requiring special approvals",
+    "hierarchy": "Medical claims not requiring special approvals"
+  }
+}

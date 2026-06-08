@@ -1,0 +1,26 @@
+{
+  "chunk_id": "949a48f2-d611-499c-a2ce-5bd59e95d3d3",
+  "content": "Context: (b) Calculation of leave encashment\n\n## (b) Calculation of leave encashment  \n| Date of birth | 15-10-1963 | | |\n| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |\n| Date of retirement | 31-10-2023 | | |\n| Leave at credit as on 1-6-2023 | | | |\n| Earned Leave | 298 days | | |\n| Half Pay Leave | 102 days | | |\n| Pay in the Pay Level 8 as on 1-6-2022 | ~ 53,600 | | |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1404937,
+  "end_char": 1405444,
+  "chunk_index": 3549,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "(b) Calculation of leave encashment",
+    "hierarchy": "(b) Calculation of leave encashment"
+  }
+}

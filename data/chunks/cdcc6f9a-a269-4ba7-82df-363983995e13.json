@@ -1,0 +1,26 @@
+{
+  "chunk_id": "cdcc6f9a-a269-4ba7-82df-363983995e13",
+  "content": "Context: FREQUENTLY ASKED QUESTIONS\n\nClaim will be admissible for a third child if the second childbirth resulted in multiple birth or in cases offailure of sterilization operation.  \n2. Can CEA be claimed for the same class twice?  \nCEA can be claimed for the same class twice only when the child fails in a particular class. If the child is admitted to the same class due to other reasons, CEA cannot be claimed twice for the same class.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 887771,
+  "end_char": 888210,
+  "chunk_index": 2248,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "FREQUENTLY ASKED QUESTIONS",
+    "hierarchy": "FREQUENTLY ASKED QUESTIONS"
+  }
+}

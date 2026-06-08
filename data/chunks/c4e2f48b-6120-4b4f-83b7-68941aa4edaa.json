@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c4e2f48b-6120-4b4f-83b7-68941aa4edaa",
+  "content": "Context: Purposes:\n\n## Purposes:  \n- (i) Illness of self, family members or dependants,\n- Education of family members or dependant of the subscriber. Education will include primary, secondary and higher education,\n- (ii) covering all streams and educational institutions,\n- Obligatory expenses, viz. betrothal, marriage, funerals, or other\n- (iii) ceremonies,\n- (iv)\n- Cost of legal proceedings,\n- {v)\n- (vi)\n- Cost of defence,\n- Purchase of consumer durables,\n- Pilgrimage and visiting places of eminence. This will include any",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 562812,
+  "end_char": 563340,
+  "chunk_index": 1435,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Purposes:",
+    "hierarchy": "Purposes:"
+  }
+}

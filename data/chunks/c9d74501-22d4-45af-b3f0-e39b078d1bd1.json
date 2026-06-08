@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c9d74501-22d4-45af-b3f0-e39b078d1bd1",
+  "content": "Context: 9. Gratuity\n\nThe employee may specify the person(s) to whom the right  \nconferred on nominee(s) shall pass in the event of death of the nominee(s).  \nThe employee may provide in the nomination the contingency on the  \nhappening of which the nomination will become invalid.  \nIn such a case, the employee should furnish fresh nomination without delay after the occurrence of the specified contingency. - Rule 46.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1069232,
+  "end_char": 1069652,
+  "chunk_index": 2711,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "9. Gratuity",
+    "hierarchy": "9. Gratuity"
+  }
+}

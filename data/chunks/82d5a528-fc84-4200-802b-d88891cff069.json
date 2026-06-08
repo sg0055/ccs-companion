@@ -1,0 +1,26 @@
+{
+  "chunk_id": "82d5a528-fc84-4200-802b-d88891cff069",
+  "content": "Context: 1. Allotment of Quarters\n\nVCE  \n- '  \n- Rule 10.  \nPreparation of waiting lists for various Types of accommodation. (1) A unified waiting list shall be prepared for each Type of accommodation except for Type VI I (General pool) and Type VI 11 (General Pool) accommodation.  \n- (2) A unified waiting list shall have names of the applicants applied for initial as well as for change of accommodation and shall be prepared\n2. as per entitlement for a Type of accommodation.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 503576,
+  "end_char": 504055,
+  "chunk_index": 1286,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Allotment of Quarters",
+    "hierarchy": "1. Allotment of Quarters"
+  }
+}

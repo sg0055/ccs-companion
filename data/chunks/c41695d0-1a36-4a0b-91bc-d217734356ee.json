@@ -1,0 +1,26 @@
+{
+  "chunk_id": "c41695d0-1a36-4a0b-91bc-d217734356ee",
+  "content": "Context: Emoluments:\n\n- (b) Death Gratuity= t 1,20,596 x 12 = t 1,44,716\n- (c) Death Gratuity = t 1,20,596 x Yi x 45 = t 27,13,410  \nlimited to t 20,00,000  \n- (d) Death Gratuity = t 1,20,596 x 6 = t 7,23,576  \nRate of Death Gratuity for the service of 20 years or more is 'half of emoluments for every completed six-monthly period of service' subject to a maximum of 33 times of emoluments or t 20 lakhs, whichever is less. For the length of service less than 20 years, the rate of Death Gratuity is-",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1446084,
+  "end_char": 1446585,
+  "chunk_index": 3654,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Emoluments:",
+    "hierarchy": "Emoluments:"
+  }
+}

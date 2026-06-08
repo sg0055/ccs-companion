@@ -1,0 +1,26 @@
+{
+  "chunk_id": "e3c9c2b0-1c50-47b4-ba48-58513cd3d573",
+  "content": "Context: Transactions\n\n6. Time-limit for permission.If the prescribed authority does not communicate/ refuse its sanction within sixty days of the receipt of the request in respect of cases covered by 4 above and within thirty days in all other cases, the official is free to assume grant of sanction. - GID, Rule 8.\n7. Punitive action.Non-furnishing of returns in time or furnishing wrong information will be 'good and sufficient reason' for taking disciplinary action against the officer. - GID (23), Rule 18.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 128055,
+  "end_char": 128566,
+  "chunk_index": 335,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Transactions",
+    "hierarchy": "Transactions"
+  }
+}

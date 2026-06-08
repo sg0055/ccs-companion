@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4b25c015-f42c-4064-80ae-8342df9fa6d9",
+  "content": "Context: Conditions for grant of benefits :\n\n16. On grant of financial upgradation under the Scheme, there shall be no change in the designation, classification or higher status. However, financial and certain other benefits which are linked to the pay drawn by an employee such as HBA, allotment of Government accommodation shall be permitted.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 924841,
+  "end_char": 925185,
+  "chunk_index": 2338,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Conditions for grant of benefits :",
+    "hierarchy": "Conditions for grant of benefits :"
+  }
+}

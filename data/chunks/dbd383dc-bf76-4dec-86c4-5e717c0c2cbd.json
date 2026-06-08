@@ -1,0 +1,26 @@
+{
+  "chunk_id": "dbd383dc-bf76-4dec-86c4-5e717c0c2cbd",
+  "content": "Context: MACP SCHEME\n\n## MACP SCHEME  \n1. An official drawing a pay oft 55,200 from 1-7-2023 in Level 6 is granted his II MACP on 29-6-2024. His DNI is 1-7-2024.\n2. (a) Fix his pay on the date of MACP and indicate his DNI.\n3. (b) Fix his pay if he opts for fixation of pay on DNI.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1430667,
+  "end_char": 1430947,
+  "chunk_index": 3613,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "MACP SCHEME",
+    "hierarchy": "MACP SCHEME"
+  }
+}

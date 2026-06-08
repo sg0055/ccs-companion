@@ -1,0 +1,26 @@
+{
+  "chunk_id": "2f963888-536a-446a-b432-be9e8ce70b96",
+  "content": "Context: 2. Pension\n\n- (ii) With effect from 1-1-2006, Pension is payable at 50% of pay last drawn or average emoluments, whichever is more beneficial to the Government servant.\n- (iii) In cases where retirement is on or after 1-1-2006, linkage of full pension with 33 years of qualifying service is dispensed with. Hence pension is payable at 50% of pay last drawn or average emoluments, whichever is more beneficial on completion of qualifying service of 31 Yi years also vide Rule 44 (1). ·",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1440189,
+  "end_char": 1440682,
+  "chunk_index": 3636,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "2. Pension",
+    "hierarchy": "2. Pension"
+  }
+}

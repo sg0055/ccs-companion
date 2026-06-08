@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1c2d8b06-26fd-41f1-b03f-064f557d5fbf",
+  "content": "Context: 4. Increments\n\nThe increment in respect of an employee appointed or promoted or granted financial upgradation under Modified Assured Career Progression Scheme (MACPS) during the period between the 2nd day of January and 1st day of July (both inclusive) shall be granted on 1st day of January and the increment in respect of an employee appointed or promoted or granted financial upgradation including upgradation under MACPS during the period between the 2nd day of July and 1st day of January (both inclusive)",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 376930,
+  "end_char": 377449,
+  "chunk_index": 977,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "4. Increments",
+    "hierarchy": "4. Increments"
+  }
+}

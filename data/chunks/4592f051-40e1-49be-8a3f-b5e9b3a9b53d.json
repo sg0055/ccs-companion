@@ -1,0 +1,26 @@
+{
+  "chunk_id": "4592f051-40e1-49be-8a3f-b5e9b3a9b53d",
+  "content": "Context: C. Island Special (Duty) Allowance\n\n| (i) | Areas within the distance of 8 kms. of municipal limits of Capital Towns: (Port Blair in A & N Islands, Kavaratti and Agatti in Lakshadweep.) | 10% of Baise Pay |\n| (ii) | Difficult areas: (North and Middle Andaman, South Andaman, excluding Port Blair, all Islands in Lakshadweep except Kavaratti, Agatti and Minicoy.) | 16% of Basic Pay |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 491469,
+  "end_char": 491861,
+  "chunk_index": 1256,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "C. Island Special (Duty) Allowance",
+    "hierarchy": "C. Island Special (Duty) Allowance"
+  }
+}

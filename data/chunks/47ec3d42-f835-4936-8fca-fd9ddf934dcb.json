@@ -1,0 +1,26 @@
+{
+  "chunk_id": "47ec3d42-f835-4936-8fca-fd9ddf934dcb",
+  "content": "Context: 8. Maternity Leave\n\n4. admissible under the Act for the corresponding period.  \n- Note below Rule 43 (2).  \n9. Not admissible for 'threatened abortion'. - GID (4), Rule 43.\n10. Admissible for induced abortion.\n- GID (2), Rule 43.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 606259,
+  "end_char": 606497,
+  "chunk_index": 1541,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "8. Maternity Leave",
+    "hierarchy": "8. Maternity Leave"
+  }
+}

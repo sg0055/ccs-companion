@@ -1,0 +1,26 @@
+{
+  "chunk_id": "aba7472e-d2aa-497d-9987-ae8f4fd3ec86",
+  "content": "Context: For Economically Weaker Sections 10% (20 points)\n\n## For Economically Weaker Sections 10% (20 points)  \n| 10 | 50 | 90 | 131 | 170 |\n| ------ | ------ | ------ | ------- | ------- |\n| 21 | 62 | 98 | 142 | 181 |\n| 31 | 70 | 110 | 150 | 190 |\n| 43 | 83 | 122 | 164 | 196 |",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 40082,
+  "end_char": 40361,
+  "chunk_index": 101,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "For Economically Weaker Sections 10% (20 points)",
+    "hierarchy": "For Economically Weaker Sections 10% (20 points)"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "chunk_id": "1db4e07d-402e-43c6-9b06-64fd687686e0",
+  "content": "Context: 1. Applicable to a dependent family member of.-\n\n2. Posts to which appointment made.Only in Group 'C' posts against the direct recruitment quota.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 87382,
+  "end_char": 87536,
+  "chunk_index": 231,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "1. Applicable to a dependent family member of.-",
+    "hierarchy": "1. Applicable to a dependent family member of.-"
+  }
+}

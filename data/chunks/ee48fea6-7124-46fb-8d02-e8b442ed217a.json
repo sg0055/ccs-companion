@@ -1,0 +1,26 @@
+{
+  "chunk_id": "ee48fea6-7124-46fb-8d02-e8b442ed217a",
+  "content": "Context: Ans.\n\nAUTHORS' NOTE 1. First determine the period of calculation of Average Emoluments and make sure that all the broken spells added together make up 10 full months by applying FR 9 (18) and the Al thereunder. Then while calculating the amounts, you take August, 2023, February, 2024, March 2024 and May 2024, in which the broken spells occur as 30 days. Note that January, 2024 is not taken as a broken month. There are no non-qualifying periods in this month but only a variation of pay. It is a full month.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 1435900,
+  "end_char": 1436419,
+  "chunk_index": 3626,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "Ans.",
+    "hierarchy": "Ans."
+  }
+}

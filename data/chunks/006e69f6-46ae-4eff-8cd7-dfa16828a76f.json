@@ -1,0 +1,26 @@
+{
+  "chunk_id": "006e69f6-46ae-4eff-8cd7-dfa16828a76f",
+  "content": "Context: 5. Leave Not Due\n\n3. It is granted on medical certificate (Exception : 4 below) if the leave sanctioning authority is satisfied that there is a reasonable prospect of the Government servant returning to duty on its expiry. - Rule 31 (1).\n4. It may be granted without medical certificate-\n3. (a) in continuation of maternity leave.\n- Rule 43 (4).\n5. (b) to a female Government servant with less than two living children on adoption of a child less than a year old. - Rule 43-8.",
+  "doc_id": "a3187214f410a884",
+  "page_numbers": [
+    1
+  ],
+  "start_char": 598483,
+  "end_char": 598968,
+  "chunk_index": 1523,
+  "total_chunks": 3691,
+  "metadata": {
+    "doc_id": "a3187214f410a884",
+    "filename": "swamy_handbook.md",
+    "file_hash": "a3187214f410a884e3024c095c80e838ac513df91f0f292f54b5249b64d5e7b0",
+    "title": "Swamy Handbook",
+    "author": null,
+    "creation_date": "2026-06-06T07:23:42.933106+00:00",
+    "modification_date": "2026-06-06T10:44:54.653786+00:00",
+    "ingestion_timestamp": "2026-06-06T10:46:51.542986+00:00",
+    "source_type": "markdown",
+    "version": 1,
+    "Header 2": "5. Leave Not Due",
+    "hierarchy": "5. Leave Not Due"
+  }
+}
