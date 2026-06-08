@@ -68,7 +68,7 @@ class LLMConfig(BaseSettings):
     model_name: str = "gemma3:1b"  # Or local model like gemma3-1b / ollama:gemma3-1b
     temperature: float = 0.1  # Low temperature for factual responses
     max_tokens: int = 1000
-    api_key: Optional[str] = Field(default="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", alias="OPENAI_API_KEY")
+    api_key: Optional[str] = Field(default="", alias="OPENAI_API_KEY")
     
 
 class StorageConfig(BaseSettings):
