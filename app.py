@@ -1,18 +1,9 @@
 # app.py
 import sys
 from pathlib import Path
-from unittest.mock import MagicMock
-import types
 
-if "torchvision" not in sys.modules:
-    fake_module = MagicMock()
-    
 
-    fake_module.__spec__ = ModuleSpec(name="torchvision", loader=None)
-    
-    sys.modules['torchvision'] = fake_module
-    sys.modules['torchvision.transforms'] = fake_module
-    sys.modules['torchvision.transforms.v2'] = fake_module
+
 import streamlit as st
 
 
