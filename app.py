@@ -68,40 +68,64 @@ for message in st.session_state.messages:
             st.warning(f"⚠️ Fallback Triggered: {message.get('fallback_reason')}")
 
 
+
 if prompt := st.chat_input("Ask a question about central government rules..."):
     
-   
+    
     with st.chat_message("user"):
         st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
     
-    
+    # RENDER and SAVE the assistant response in the same frame
     with st.chat_message("assistant"):
         with st.spinner("Consulting rulebooks and verifying citations..."):
             
-            response = rag.query(prompt)
-            
-            if response.is_fallback:
-                st.warning(f"⚠️ Fallback Triggered: {response.fallback_reason}")
+            try:
                 
-            st.markdown(response.answer)
-            
-            if response.citations:
-                with st.expander("📚 Verified References", expanded=False):
-                    for cite in response.citations:
-                        section_info = f" (Section: {cite['section']})" if cite.get('section') else ""
-                        st.caption(f"**[{cite['ref']}]** {cite['document']}{section_info}")
-            
-            st.caption(f"Confidence Score: {response.raw_confidence:.2f} | Reliability: {response.confidence_level}")
-            
-    #
-    st.session_state.messages.append({
-        "role": "assistant", 
-        "content": response.answer,
-        "citations": response.citations,
-        "is_fallback": response.is_fallback,
-        "fallback_reason": response.fallback_reason
-    })
+                response = rag.query(prompt)
+                
+                if response.is_fallback:
+                    st.warning(f"⚠️ Fallback Triggered: {response.fallback_reason}")
+                    
+                st.markdown(response.answer)
+                
+                if response.citations:
+                    with st.expander("📚 Verified References", expanded=False):
+                        for cite in response.citations:
+                            section_info = f" (Section: {cite['section']})" if cite.get('section') else ""
+                            st.caption(f"**[{cite['ref']}]** {cite['document']}{section_info}")
+                
+                st.caption(f"Confidence Score: {response.raw_confidence:.2f} | Reliability: {response.confidence_level}")
+                
+                
+                st.session_state.messages.append({
+                    "role": "assistant", 
+                    "content": response.answer,
+                    "citations": response.citations,
+                    "is_fallback": response.is_fallback,
+                    "fallback_reason": response.fallback_reason
+                })
+                st.rerun()
+            except Exception as e:
+                
+                error_msg = str(e)
+                
+                if "402" in error_msg or "credit" in error_msg.lower() or "balance" in error_msg.lower():
+                    st.error(
+                        "**Account Quota Exhausted:** The OpenRouter key has run out of response credits "
+                        "or its free daily limits are completely exhausted. Please switch to a `:free` model "
+                        "or top up your OpenRouter account balance."
+                    )
+                elif "429" in error_msg or "rate limit" in error_msg.lower():
+                    st.error(
+                        "**Provider Rate Limited:** Too many requests are hitting the AI model right now. "
+                        "Please wait 10 seconds and try resubmitting your prompt."
+                    )
+                else:
+                    st.error(
+                        f"⚠️ **LLM Generation Failed:** The application couldn't get a secure response from the server. "
+                        f"Details: `{error_msg}`"
+                    )
     
     
-    st.rerun()
+   
