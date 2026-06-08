@@ -8,6 +8,7 @@ fake_module = MagicMock()
 sys.modules['torchvision'] = fake_module
 sys.modules['torchvision.transforms'] = fake_module
 sys.modules['torchvision.transforms.v2'] = fake_module
+fake_vision.__spec__ = types.SimpleNamespace(name="torchvision")
 
 import streamlit as st
 
