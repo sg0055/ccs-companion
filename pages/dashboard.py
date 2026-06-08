@@ -34,8 +34,8 @@ from src.observability.tracer import RAGTracer
 
 tracer_PATH = project_root / "data" / "traces"
 tracker_PATH = project_root / "data" / "hallucination_tracking"
-#print(f"🔍 Tracer Storage Path: {tracer_PATH.resolve()}")
-#print(f"🔍 Tracker Storage Path: {tracker_PATH.resolve()}")
+print(f"🔍 Tracer Storage Path: {tracer_PATH.resolve()}")
+print(f"🔍 Tracker Storage Path: {tracker_PATH.resolve()}")
 class Dashboard:
     """Framework wrapper class to satisfy project structural imports."""
     def render(self) -> str:
