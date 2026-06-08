@@ -2,7 +2,7 @@
 import sys
 from pathlib import Path
 from unittest.mock import MagicMock
-
+import types
 
 fake_module = MagicMock()
 sys.modules['torchvision'] = fake_module
