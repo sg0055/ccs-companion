@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torchvision
 docling==2.98.0
 faiss-cpu==1.14.2
 langchain_text_splitters==1.1.2
