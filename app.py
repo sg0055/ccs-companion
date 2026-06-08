@@ -4,11 +4,15 @@ from pathlib import Path
 from unittest.mock import MagicMock
 import types
 
-fake_module = MagicMock()
-sys.modules['torchvision'] = fake_module
-sys.modules['torchvision.transforms'] = fake_module
-sys.modules['torchvision.transforms.v2'] = fake_module
-fake_vision.__spec__ = types.SimpleNamespace(name="torchvision")
+if "torchvision" not in sys.modules:
+    fake_module = MagicMock()
+    
+    # Give the spec to the matching variable name!
+    fake_module.__spec__ = types.SimpleNamespace(name="torchvision")
+    
+    sys.modules['torchvision'] = fake_module
+    sys.modules['torchvision.transforms'] = fake_module
+    sys.modules['torchvision.transforms.v2'] = fake_module
 
 import streamlit as st
 
