@@ -16,18 +16,16 @@ import pandas as pd
 
 current_dir = Path(__file__).resolve().parent
 
-
+# 2. This grabs 'ccs-companion' (since data and src are right inside it)
 project_root = current_dir.parent 
-
 
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
-
 from src.evaluation.hallucination_tracker import HallucinationTracker
 from src.observability.tracer import RAGTracer
 
-
+# 3. These will now find your folders perfectly
 tracer_PATH = project_root / "data" / "traces"
 tracker_PATH = project_root / "data" / "hallucination_tracking"
 
