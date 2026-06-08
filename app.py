@@ -1,25 +1,19 @@
-# app.py
 import sys
 from pathlib import Path
-
-
-
+from unittest.mock import MagicMock
 import streamlit as st
-
-
 from transformers import logging as hf_logging
+
 hf_logging.set_verbosity_error()
 
-
+# Ensure the src directory is accessible
 current_dir = Path(__file__).resolve().parent
 if str(current_dir) not in sys.path:
     sys.path.insert(0, str(current_dir))
 
 from src.main import HallucinationProofRAG
 
-
 st.set_page_config(page_title="CCS Companion", page_icon="⚖️", layout="centered")
-
 
 @st.cache_resource(show_spinner="Initializing Rules Engine & Indexes...")
 def load_rag_engine():
@@ -27,18 +21,16 @@ def load_rag_engine():
 
 rag = load_rag_engine()
 
-
 if "messages" not in st.session_state:
     st.session_state.messages = []
-
 
 st.title("⚖️ CCS Companion")
 st.caption("AI-Powered Central Civil Services Rules & Procedures Assistant")
 st.write("---")
 
+
 if not st.session_state.messages:
     st.markdown("<br><br>", unsafe_allow_html=True)
-    
     
     left_pad, center_card, right_pad = st.columns([1, 5, 1])
     
@@ -53,7 +45,6 @@ if not st.session_state.messages:
             unsafe_allow_html=True
         )
         
-        
         col1, col2 = st.columns(2)
         with col1:
             st.info("**📅 Leave Rules**\n\n*“What are the eligibility criteria and maximum duration for Child Care Leave (CCL)?”*")
@@ -67,7 +58,6 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
         
-        
         if message.get("citations"):
             with st.expander("📚 Verified References"):
                 for cite in message["citations"]:
@@ -80,18 +70,16 @@ for message in st.session_state.messages:
 
 if prompt := st.chat_input("Ask a question about central government rules..."):
     
-    
+   
+    with st.chat_message("user"):
+        st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
     
-
-
-if st.session_state.messages and st.session_state.messages[-1]["role"] == "user":
-    user_prompt = st.session_state.messages[-1]["content"]
     
     with st.chat_message("assistant"):
         with st.spinner("Consulting rulebooks and verifying citations..."):
             
-            response = rag.query(user_prompt)
+            response = rag.query(prompt)
             
             if response.is_fallback:
                 st.warning(f"⚠️ Fallback Triggered: {response.fallback_reason}")
@@ -106,7 +94,7 @@ if st.session_state.messages and st.session_state.messages[-1]["role"] == "user"
             
             st.caption(f"Confidence Score: {response.raw_confidence:.2f} | Reliability: {response.confidence_level}")
             
-    
+    #
     st.session_state.messages.append({
         "role": "assistant", 
         "content": response.answer,
@@ -114,3 +102,6 @@ if st.session_state.messages and st.session_state.messages[-1]["role"] == "user"
         "is_fallback": response.is_fallback,
         "fallback_reason": response.fallback_reason
     })
+    
+    
+    st.rerun()
