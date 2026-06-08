@@ -7,13 +7,12 @@ import types
 if "torchvision" not in sys.modules:
     fake_module = MagicMock()
     
-    # Give the spec to the matching variable name!
-    fake_module.__spec__ = types.SimpleNamespace(name="torchvision")
+
+    fake_module.__spec__ = ModuleSpec(name="torchvision", loader=None)
     
     sys.modules['torchvision'] = fake_module
     sys.modules['torchvision.transforms'] = fake_module
     sys.modules['torchvision.transforms.v2'] = fake_module
-
 import streamlit as st
 
 
