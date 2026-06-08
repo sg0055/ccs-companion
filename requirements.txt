@@ -1,5 +1,5 @@
 docling==2.98.0
-faiss==1.5.3
+faiss-cpu==1.7.4
 langchain_text_splitters==1.1.2
 loguru==0.7.3
 numpy==2.4.6
