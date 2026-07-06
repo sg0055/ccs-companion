@@ -3,7 +3,7 @@
 An enterprise-grade, deterministic Retrieval-Augmented Generation (RAG) pipeline meticulously designed around a zero-hallucination mandate. This platform is heavily engineered to ingest, normalize, hierarchically chunk, index, and query dense, highly technical, layout-complex documents (such as the Central Government Swamy Handbook).
 
 The core philosophy of this project is **uncompromising faithfulness to source data**. By combining hybrid lexical/semantic retrieval, state-of-the-art visual document layout analysis, cross-encoder reranking, strict threshold validation, and proactive query routing, the architecture guarantees that if an answer cannot be explicitly verified from the ingested text, the system securely executes a graceful refusal rather than inventing unsupported facts.
-
+https://ccs-companion-8zqti43u2hflu8woudtbum.streamlit.app/
 ---
 
 ## 🏗️ Architectural Overview & Evolution
