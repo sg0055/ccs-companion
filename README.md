@@ -1,4 +1,4 @@
-# Hallucination-Proof RAG Project (Optimized for CCS Rules)
+# Hallucination-Proof RAG Project (Optimized for CCS Rules) By Shivam Gupta 
 
 An enterprise-grade, deterministic Retrieval-Augmented Generation (RAG) pipeline meticulously designed around a zero-hallucination mandate. This platform is heavily engineered to ingest, normalize, hierarchically chunk, index, and query dense, highly technical, layout-complex documents (such as the Central Government Swamy Handbook).
 
