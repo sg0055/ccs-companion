@@ -52,7 +52,7 @@ class ConstrainedGenerator:
         temperature: float = None,
         max_tokens: int = None
     ):
-        self.model_name = "google/gemma-4-31b-it:free"
+        self.model_name = "nvidia/nemotron-3-super:free"
         self.temperature = temperature or settings.llm.temperature
         self.max_tokens = 1000 
         
