@@ -65,10 +65,13 @@ class CacheConfig(BaseSettings):
 
 class LLMConfig(BaseSettings):
     """LLM configuration for generation."""
-    model_name: str = "gemma3:1b"  # Or local model like gemma3-1b / ollama:gemma3-1b
+    model_name: str = "openai/gpt-oss-20b:free" 
     temperature: float = 0.1  # Low temperature for factual responses
     max_tokens: int = 1000
-    api_key: Optional[str] = Field(default="", alias="OPENAI_API_KEY")
+    api_key: Optional[str] = Field(default="", alias="OPENROUTER_API_KEY")
+
+    class Config:
+        env_file = ".env"
     
 
 class StorageConfig(BaseSettings):
@@ -98,6 +101,7 @@ class Settings(BaseSettings):
     class Config:
         env_file = ".env"
         env_nested_delimiter = "__"
+        extra = "ignore"
 
 
 # Singleton instance

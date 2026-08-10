@@ -50,8 +50,17 @@ class DocumentParser:
         file_hash = self._compute_hash(file_path)
         
         
-        with open(file_path, "r", encoding="utf-8") as f:
-            raw_text = f.read()
+        if file_path.suffix.lower() == ".pdf":
+            try:
+                from docling.document_converter import DocumentConverter
+                converter = DocumentConverter()
+                conversion_result = converter.convert(str(file_path))
+                raw_text = conversion_result.document.export_to_markdown()
+            except ImportError:
+                raise ImportError("docling is not installed. Run: pip install docling==2.98.0")
+        else:
+            with open(file_path, "r", encoding="utf-8") as f:
+                raw_text = f.read()
             
         # Extract basic OS-level metadata
         stat = file_path.stat()

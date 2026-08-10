@@ -2,6 +2,7 @@ import sys
 from pathlib import Path
 from unittest.mock import MagicMock
 import streamlit as st
+from loguru import logger
 from transformers import logging as hf_logging
 
 hf_logging.set_verbosity_error()
@@ -15,11 +16,9 @@ from src.main import HallucinationProofRAG
 
 st.set_page_config(page_title="CCS Companion", page_icon="⚖️", layout="centered")
 
-@st.cache_resource(show_spinner="Initializing Rules Engine & Indexes...")
-def load_rag_engine():
-    return HallucinationProofRAG()
+from state import get_rag_engine
 
-rag = load_rag_engine()
+rag = get_rag_engine()
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -107,25 +106,33 @@ if prompt := st.chat_input("Ask a question about central government rules..."):
                 })
                 st.rerun()
             except Exception as e:
-                
                 error_msg = str(e)
-                
-                if "402" in error_msg or "credit" in error_msg.lower() or "balance" in error_msg.lower():
-                    st.error(
-                        "**Account Quota Exhausted:** The OpenRouter key has run out of response credits "
-                        "or its free daily limits are completely exhausted. Please switch to a `:free` model "
-                        "or top up your OpenRouter account balance."
-                    )
-                elif "429" in error_msg or "rate limit" in error_msg.lower():
-                    st.error(
-                        "**Provider Rate Limited:** Too many requests are hitting the AI model right now. "
-                        "Please wait 10 seconds and try resubmitting your prompt."
-                    )
+
+                # Always log the full raw error to terminal
+                logger.exception("LLM call failed | type={} | detail={}", type(e).__name__, error_msg)
+
+                # Show only clean, non-technical messages in the UI
+                if "401" in error_msg or "authentication" in error_msg.lower() or "api key" in error_msg.lower():
+                    st.error("🔑 **Invalid API Key** — Please check your OpenRouter API key in the `.env` file.")
+
+                elif "402" in error_msg or "credit" in error_msg.lower() or "balance" in error_msg.lower():
+                    st.error("💳 **Account Quota Exhausted** — Your OpenRouter free limits are used up. Please wait or switch models.")
+
+                elif "429" in error_msg or "rate limit" in error_msg.lower() or "rate-limited" in error_msg.lower():
+                    st.error("⏳ **Model Busy** — The AI model is rate limited right now. Please wait a few seconds and try again.")
+
+                elif "503" in error_msg or "service unavailable" in error_msg.lower():
+                    st.error("🔧 **Service Unavailable** — The AI provider is temporarily down. Please try again shortly.")
+
+                elif "timeout" in error_msg.lower() or "timed out" in error_msg.lower():
+                    st.error("⌛ **Request Timed Out** — The model took too long to respond. Please try again.")
+
+                elif "connection" in error_msg.lower():
+                    st.error("🌐 **Connection Error** — Could not reach the AI provider. Please check your internet connection.")
+
                 else:
-                    st.error(
-                        f"⚠️ **LLM Generation Failed:** The application couldn't get a secure response from the server. "
-                        f"Details: `{error_msg}`"
-                    )
+                    st.error("❌ **Something went wrong** — The assistant encountered an unexpected error. Please try again.")
+
     
     
    

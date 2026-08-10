@@ -11,13 +11,10 @@ import shutil
 import re
 import os
 from loguru import logger
-from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv()
 from src.config import settings
 from src.generation.context_builder import PreparedContext
-api_key = os.environ.get("OPENROUTER_API_KEY")
 @dataclass
 class GeneratedResponse:
     """Response with citations and confidence metadata."""
@@ -52,7 +49,7 @@ class ConstrainedGenerator:
         temperature: float = None,
         max_tokens: int = None
     ):
-        self.model_name = "nvidia/nemotron-3-super-120b-a12b:free"
+        self.model_name = settings.llm.model_name
         self.temperature = temperature or settings.llm.temperature
         self.max_tokens = 1000 
         
@@ -68,6 +65,10 @@ class ConstrainedGenerator:
             except ImportError as err:
                 raise RuntimeError("OpenAI SDK is not installed.") from err
             
+            api_key = settings.llm.api_key
+            if not api_key:
+                logger.warning("OPENROUTER_API_KEY is not set in .env — API calls will fail.")
+
             self.client = OpenAI(
                 base_url="https://openrouter.ai/api/v1",
                 api_key=api_key

@@ -5,6 +5,7 @@ from .normalizer import TextNormalizer
 from .chunker import SemanticChunker
 from .deduplicator import ChunkDeduplicator, DocumentDeduplicator
 from .versioning import VersionManager
+from .batch_processor import BatchProcessor, BatchReport
 
 __all__ = [
     "DocumentParser",
@@ -13,4 +14,6 @@ __all__ = [
     "ChunkDeduplicator",
     "DocumentDeduplicator",
     "VersionManager",
+    "BatchProcessor",
+    "BatchReport",
 ]
